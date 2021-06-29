@@ -1,7 +1,6 @@
 FAQ
 
 Q -Wen Token:
-
 A- There is no Coordinape Token yet
 
 Q- I clicked save and forgot someone on my team or want to change my allocations can I still do that? 
