@@ -21,4 +21,4 @@ Q-Is Coordinape Open Source or permisionless?
  <br/> A-Not yet, it's on the roadmap though, we're building like apes to get it there!
 
 Q-Where's the fire meme's at?
-<br/> A-We're waiting on you APE! 
+<br/> A-We're waiting on you APE! [(Discord Link)](https://discord.gg/wAWupXkgM6)
