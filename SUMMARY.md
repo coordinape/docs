@@ -8,4 +8,4 @@
   * [Who To Gift](who_to_gift.md)
   * [New Feature: Re-Gifting](new-feature-regift.md)
   * [FAQ](FAQ.md)
-  * [Admin Info](Admin_Info.md)
+  * [Admin Info](admin_info.md)
