@@ -27,8 +27,7 @@
 2. Then you can enter their name, starting tokens, admin status, force opt-out, and whether or not they can send GIVE
 <img src="/images/Edit User.jpg">
 3. Force Opt Out will prevent the user from receiving Give. The user will be alerted to this change via the Telegram Bot, and on the allocations page. If they have had any give allocated prior to making that save it will all be removed, and users who had allocated to them will have to re-allocate to other users. 
-<img src="/images/Opt Out.jpg">
-	
+<img src="/images/Opt Out.jpg">	
 4. You can also delete users from the Circle by clicking the trashcan.
 ## You can also export a CSV of the epoch data for analysis.
 <img src="/images/Export.jpg">
