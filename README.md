@@ -32,6 +32,8 @@ Other Links:
 
 <a href="https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543" target="_blank">Andre's Medium article on Coordinape</a>
 
+<a href=" https://youtu.be/JM0zF3AzFno" target="_blank"> Bankless Interview </a>
+
 <a href="https://twitter.com/coordinape" target="_blank">Coordinape Twitter</a>
 
 <a href="https://www.youtube.com/watch?v=J8oGun8EKDE" target="_blank">Coordinape Overview video</a>
