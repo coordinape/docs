@@ -36,6 +36,6 @@ Other Links:
 
 <a href="https://twitter.com/coordinape" target="_blank">Coordinape Twitter</a>
 
-<a href="https://www.youtube.com/watch?v=J8oGun8EKDE" target="_blank">Coordinape Overview video</a>
+<a href="https://www.youtube.com/watch?v=J8oGun8EKDE" target="_blank">Coordinape Overview Video (Gabriel Haines)</a>
 
 <a href="https://discord.gg/yQNq2WkUgy" target="_blank">Discord</a>
