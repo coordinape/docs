@@ -9,3 +9,4 @@
   * [New Feature: Re-Gifting](new-feature-regift.md)
   * [FAQ](FAQ.md)
   * [Admin Info](admin_info.md)
+ * [Community Calls](Community_calls.md)
