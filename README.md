@@ -25,7 +25,7 @@ When the Epoch ends, the GIVE each member has recieved can be exchanged for a pr
 
 Coordinape is currently in an alpha phase, working with select protocols like Yearn to develop and refine the experience. A public version will be available soon. 
 
-If you are interested in being in touch or gaining early access to Coordinape as a pilot organization, please fill out our <a href="https://yearnfinance.typeform.com/to/egGYEbrC" target="_blank">Typeform survey.</a>
+If you are interested in getting in touch or gaining early access to Coordinape as a pilot organization, please reach out our <a href="https://discord.gg/yQNq2WkUgy" target="_blank">Discord</a>
 
 
 Other Links:
