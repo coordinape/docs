@@ -10,3 +10,4 @@
   * [FAQ](FAQ.md)
   * [Admin Info](admin_info.md)
  * [Community Calls](Community_calls.md)
+  *  [2021-08-10](community_calls/2021-08-10.md)
