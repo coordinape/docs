@@ -28,8 +28,6 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 ### BOOM! You now have Caesar helping you keep track of active Epochs, giving you a heads up when users make allocations, and letting you know if a user opts out. We'll be adding features to the bot over time, but in the meantime we hope you enjoy this functionality! 
 
-<img src="/images/Bot Comment.jpg"> 
-
 If you appreciate this make sure to let Zashton know!
 
 _You may need to enter developer mode in discord to add the bot_
