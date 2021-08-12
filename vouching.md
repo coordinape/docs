@@ -1,10 +1,10 @@
 ## New Feature: The Vouching System
 
-<p>How does one gain entry into a Gift Circle? At Coordinape we’ve been considering this question since the start.  The DeFi and DAO landscape is founded on self management and contribution, and we often hear the question: how should new contributors be inducted into a Gift Circle?  While the borders of DAO contribution or membership might be as simple as landing in a Discord server or collecting NFTs or tokens, the additional trust layer of joining a circle to GIVE or receive may have different considerations.  Is this best performed by consensus, self determination, admin decisions or a blend of the three?  Coordinape leaves this up to you.</p>
+<p>The DAO landscape is founded on self management and contribution, and we often hear the question: how should new contributors be inducted into a Gift Circle?  While the borders of DAO membership might be as simple as landing in a Discord server or collecting NFTs or tokens, the additional trust layer of joining a circle to GIVE or receive may have different considerations.  This may be performed by consensus, self determination, admin decisions or a blend of the three.  Coordinape leaves this up to you.</p>
 
 <p>Up to now, the Coordinape application has only allowed circle access via admin controls.  This will likely always be a useful option, and some circles may choose to maintain this practice alone in an ongoing fashion (which, of course, we will support).</p>
 
-<p>However, just as DAOs themselves often form by both autonomy and osmosis, we wanted to include other, more decentralized options for a circle to grow.  Our new Vouching process allows members to onboard new collaborators through a simple and flexible consensus process, with variable benchmarks determined by the circle itself.  Enter the Coordinape Vouching module.  Using its features, circles may determine their porosity, via threshold settings, and contributors in a circle can actively engage in the management of community growth.</p>
+<p>However, just as DAOs often form by autonomy and osmosis, we wanted to include more decentralized options by which a circle can grow.  Our new Vouching system allows members to onboard new collaborators through a simple and flexible consensus mechanism. With Vouching, circles may determine their porosity via threshold settings, and contributors in a circle can actively engage in the management of its growth.</p>
 
 ## Here’s how it works:
 
