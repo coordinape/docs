@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Coordinape](README.md)
-* [Onboarding Docs](welcome.md)
+* [Docs and Features](welcome.md)
   * [Vision](vision.md)
   * [Gift Circle](gift_circle.md)
   * [How To Use Coordinape](how_to_use_coordinape.md)
