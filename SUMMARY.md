@@ -10,6 +10,6 @@
   * [Admin Info](admin_info.md)
   * [Vouching](vouching.md)
   * [Discord Bot](discord_bot.md)
-  * [Quick Reference Guide] (index.md)
+  * [Quick Reference Guide](index.md)
  * [Community Calls](Community_calls.md)
   *  [2021-08-10](community_calls/2021-08-10.md)
