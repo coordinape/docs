@@ -5,7 +5,7 @@
 - <a href="https://docs.coordinape.com/welcome/vision">Vision</a>
 - <a href="https://docs.coordinape.com/welcome/gift_circle">The Gift Circle</a>
 - <a href="https://docs.coordinape.com/welcome/how_to_use_coordinape">How to Use Coordinape</a>
-- <a href="https://docs.coordinape.com/welcome/who_to_gift>Who to Gift</a>
+- <a href="https://docs.coordinape.com/welcome/who_to_gift">Who to Gift</a>
 
 # Features and How-Tos
 
