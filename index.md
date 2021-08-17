@@ -1,5 +1,7 @@
 ## Index of Coordinape Docs
 
+This is a quick reference guide for using Coordinape.
+
 # General Use and Framing
 
 - <a href="https://docs.coordinape.com/welcome/vision">Vision</a>
@@ -14,6 +16,4 @@
 - <a href="https://docs.coordinape.com/welcome/vouching">Vouching</a>
 - <a href="https://docs.coordinape.com/welcome/discord_bot">Discord Bot</a>
 
-# Community Calls Minutes
-- <a href="https://docs.coordinape.com/welcome/2021-08-10">2021-8-10</a>
 
