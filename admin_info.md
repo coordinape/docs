@@ -5,6 +5,9 @@
 ## Editing Circle Settings 
   1. Click the Edit Circle Settings button
   2. Fill out the Circle Name, Gift Token Name, Teammate and Allocation page prompts
+  3. Determine if your Circle will require [vouching](https://docs.coordinape.com/welcome/vouching), and determine the vouching details (How many vouches required, and how long the vouching period is)
+  4. Determine if users will be opted in by default
+  5. Link your teams Discord to the [Discord bot](https://docs.coordinape.com/welcome/discord_bot)
   
   
 <img src="/images/Circle Settings.jpg">
