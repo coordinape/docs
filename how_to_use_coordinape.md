@@ -15,15 +15,17 @@
 
 <p>Please note, you will have to connect your wallet when you access a circle for the first time.</p>
 
-## Profile Page
+## Allocate
 
 <img src="/images/How_to_Coordinape4.jpg">
 
-<p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.</p>
+### My Epoch
 
-<p>The first one is a Profile Statement.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
+<p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues determine how to GIVE to you.</p>
 
-<p>The second question is if you will Opt In or Opt Out from receiving GIVE for this epoch.  </p>
+<p>The first one is a Epoch Statement.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
+
+<p>The second question is will you Opt In or Opt Out from receiving GIVE for this epoch.  </p>
 
 
 * If you *Opt Out*, you are signaling that you have other income streams at Yearn which are significant, and you should not be getting Contributor Grant allocations. It will be impossible for others to give to you.
@@ -32,7 +34,7 @@
 
 Either of these settings can be changed over the course of the Epoch, or for future Epochs, by accessing your profile on the Allocation Page to change them.  If you change your status to Opt Out after receiving GIVE during an epoch, any GIVE you have accrued will go back to its senders.
 
-## Edit Team Page
+## Select Team Page
 
 <img src="/images/How_to_Coordinape5.jpg">
 
@@ -72,7 +74,7 @@ Here you can:
   * Avatar image, 
   * Opt In / Opt Out choice.
 
-## Graph Page
+## Map Page
 
 <img src="/images/How_to_Coordinape7.jpg">
 
@@ -84,7 +86,39 @@ Coordinape provides a real time Graph to show the network movement of GIVES amon
 
 * You can also toggle to view prior epochs, using the Epoch link at upper right.
 
-## Graph Page
+## Vouching
+*May not be enabled in all circles
+
+<img src="/images/How_to_Coordinape9.jpg">
+
+* If you have someone in mind who's contributing to your circle you can nominate them here, you will need their name and their ETH Address
+
+* Other members in the Circle will see your nomination and be able to vouch for that user. Once they've been vouched in they will be part of the circle
+
+* You can also vouch for other members of the circle here. (Make sure to check out the [deep dive on vouching](https://docs.coordinape.com/welcome/vouching*) here)
+
+## User Details
+
+Clicking on your avatar in the top right will produce another menu that will allow you to switch circles, and have access to your Profile, Epoch, Team, and History.
+
+<img src="/images/How_to_Coordinape10.jpg">
+
+### Profile
+
+Your profile is consistent between circles, if some one shares a circle with you they can come to your profile and see whatever you put here. 
+
+The Fields that are editable here are You background image
+<img src="/images/How_to_Coordinape12.jpg">
+
+And your Profile information (Profile image, Skills, Biography, and Links)
+
+<img src="/images/How_to_Coordinape13.jpg">
+
+Your Circles will display the circles you're in and your recent Epoch activity will display you last Epoch comment for the circles
+
+<img src="/images/How_to_Coordinape14.jpg">
+
+### History
 
 The History Page allows you to see the GIVES you have received, per member, in any prior epoch. 
 
