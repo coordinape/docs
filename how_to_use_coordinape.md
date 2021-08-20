@@ -56,9 +56,13 @@ Next, you will be prompted to use the Team Selection page.  This page will allow
 
 Here you can:
 
-* Browse contributor profiles.  
+* Browse contributor Epoch comments, and drill to their profiles, or location on the graph. 
+
+<img src="/images/How_to_Coordinape15.jpg">
 
 * Select whole numbers of GIVE to send to contributors.
+
+<img src="/images/How_to_Coordinape16.jpg">
 
 * Adjust these gifts over the course of the epoch.
 
@@ -66,13 +70,13 @@ Here you can:
 
 * View the balance of GIVE you have received so far.
 
+<img src="/images/How_to_Coordinape17.jpg">
+
 * Leave notes for contributors to thank them, whether or not you send them GIVE.
 
-* Find your own profile card to edit your:
-  * Name, 
-  * Profile statement,
-  * Avatar image, 
-  * Opt In / Opt Out choice.
+* Filter by Opt-in, New Members 
+
+* Sort by Alphabetical, Give Allocated, Opt-In First
 
 ## Map Page
 
@@ -108,6 +112,7 @@ Clicking on your avatar in the top right will produce another menu that will all
 Your profile is consistent between circles, if some one shares a circle with you they can come to your profile and see whatever you put here. 
 
 The Fields that are editable here are You background image
+
 <img src="/images/How_to_Coordinape12.jpg">
 
 And your Profile information (Profile image, Skills, Biography, and Links)
