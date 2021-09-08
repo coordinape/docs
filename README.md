@@ -39,3 +39,5 @@ Other Links:
 <a href="https://www.youtube.com/watch?v=J8oGun8EKDE" target="_blank">Coordinape Overview Video (Gabriel Haines)</a>
 
 <a href="https://discord.gg/yQNq2WkUgy" target="_blank">Discord</a>
+
+<a href="https://medium.com/mstable/metanauts-guide-to-coordinape-964778e0f073" target="_blank">Medium Article by MStable</a>
