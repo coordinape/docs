@@ -1,10 +1,10 @@
 ## Permissionless Circles are here!
 
-We have been diligently working towards full permissionlessnes (It's a word, don't spellcheck it), and on chain implementation for the past few months.
+For the last few months we have been diligently working towards full permissionlessnes (It's a word, don't spellcheck it), and on chain implementation.
 
-We are happy to release Permissionless Circles! 
+As one more step torwards permissionlessness we are happy to release Permissionless Circles! 
 
-Now **anyone** can spin up a new circle by going to https://coordinape.com and connecting their wallet. 
+Now **anyone** can spin up a new circle by going to https://coordinape.com and connecting their wallet.
 
 If you're not already in a circle you will be prompted to create a new circle. <img src="/images/Welcome.png">
 
@@ -27,17 +27,17 @@ The fields on this screen will be the fields used when you start your circle the
 * **ETH address:** This is derived from the wallet you're currently connected to Coordinape with
 
 * **Circle Name:** This will be the name of the Circle that your users will select. 
-(EG Coordinape has a Contributors circle) 
+_(EG Coordinape has a Contributors circle)_ 
 
 * **Organization name:** This is the higher level to your circle that will eventually encompass all of the circles within an organization. 
-(EG Yearn has Strategists, Community, and  003 Circles, and Bankless has a circle for their guilds) 
+_(EG Yearn has Strategists, Community, and  003 Circles, and Bankless has a circle for their guilds, KrauseHouse has circles for their projects) _
 The name you put here will need to be verified by the Coordinape Team to prevent spoofing another Team.
 
 The rest of the fields are informational, and help us know how your using Coordinape so we have a better idea of how we can serve you. 
 
 In the **How can we contact you** field, if your leaving your discord handle please use this format name#1234 so we can make sure to connect to the correct person. 
 
-After you click **launch circle** you're in! 
+After you click **Launch Circle** you're in! 
 
 <img src="/images/Circle Success.png">
 
