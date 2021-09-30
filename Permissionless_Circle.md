@@ -27,15 +27,18 @@ The fields on this screen will be the fields used when you start your circle the
 * **ETH address:** This is derived from the wallet you're currently connected to Coordinape with
 
 * **Circle Name:** This will be the name of the Circle that your users will select. 
-_(EG Coordinape has a Contributors circle)_ 
+
+  _(EG Coordinape has a Contributors circle)_ 
 
 * **Organization name:** This is the higher level to your circle that will eventually encompass all of the circles within an organization. 
-_(EG Yearn has Strategists, Community, and  003 Circles, and Bankless has a circle for their guilds, KrauseHouse has circles for their projects) _
-The name you put here will need to be verified by the Coordinape Team to prevent spoofing another Team.
+
+  _(EG Yearn has Strategists, Community, and  003 Circles, and Bankless has a circle for their guilds, KrauseHouse has circles for their projects)_
+  
+  The name you put here will need to be verified by the Coordinape Team to prevent spoofing another Team.
 
 The rest of the fields are informational, and help us know how your using Coordinape so we have a better idea of how we can serve you. 
 
-In the **How can we contact you** field, if your leaving your discord handle please use this format name#1234 so we can make sure to connect to the correct person. 
+In the **How can we contact you** field, if your leaving your discord handle please use this format _name#1234_ so we can make sure to connect to the correct person. 
 
 After you click **Launch Circle** you're in! 
 
