@@ -9,6 +9,7 @@
   * [Who To Gift](who_to_gift.md)
   * [FAQ](FAQ.md)
   * [Admin Info](admin_info.md)
+  * [Permissionless Circles](permissionless_circles.md)
   * [Vouching](vouching.md)
   * [Discord Bot](discord_bot.md)
  * [Community Calls](Community_calls.md)
