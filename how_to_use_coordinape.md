@@ -5,7 +5,9 @@
 
 ## Circle Selection
 
-<p>When first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case.</p>
+<p>When first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case. 
+
+If you're wanting to set up a new circle please follow these instructions [Permissionless Circles](Permissionless_Circle.md)</p>
 
 <img src="/images/How_to_Coordinape1.jpg">
 
