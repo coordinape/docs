@@ -12,5 +12,5 @@
   * [Permissionless Circles](Permissionless_Circle.md)
   * [Vouching](vouching.md)
   * [Discord Bot](discord_bot.md)
- * [Community Calls](Community_calls.md)
-  *  [2021-08-10](community_calls/2021-08-10.md)
+* [Community Calls](community_calls/README.md)
+  * [2021-08-10](community_calls/2021-08-10.md)
