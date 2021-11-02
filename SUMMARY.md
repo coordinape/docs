@@ -6,7 +6,6 @@
   * [Gift Circle: Cycle de récompenses](coordinape-docs/gift-circle-cycle-de-recompenses.md)
   * [Comment utiliser Coordinape](coordinape-docs/comment-utiliser-coordinape.md)
   * [Qui récompenser ?](coordinape-docs/qui-recompenser.md)
-  * [Nouvelle Fonctionnalité: Re-Gifting](coordinape-docs/nouvelle-fonctionnalite-re-gifting.md)
   * [Infos pour les admins](coordinape-docs/infos-pour-les-admins.md)
   * [Bot Discord](coordinape-docs/bot-discord.md)
   * [Se porter garant (Vouching)](coordinape-docs/se-porter-garant-vouching.md)
