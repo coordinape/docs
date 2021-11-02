@@ -1,23 +1,52 @@
-# Discord Bot
+# Bot Discord
 
-Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegram. Hence, our bot features have (until now) been centered around that platform. Now, we've begun to port our bot to Discord, and added easy webhook integration functions to the Coordinape admin panel. Read on for an overview and how to set it up. More features will be added to the bot over time.
+## Nouvelle Fonctionnalité : Le Bot Discord
 
-### What can the Discord Bot do?
+Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise énormément Telegram. Par conséquent, nos fonctionnalités de bot ont \(jusqu'à présent\) été centrées sur cette plate-forme. Nous avons maintenant commencé à développer notre bot pour Discord et avons ajouté des fonctions d'intégration webhook faciles au panneau d'administration de Coordinape. Lisez la suite pour en savoir plus et savoir comment le configurer. Plus de fonctionnalités seront ajoutées au bot au fil du temps.
 
-* Caesar can let your discord know when a users has opted out of a current epoch, and how much give was refunded. ![](<images/Bot Opted Out.jpg>)
-* Inform users that an epoch is active ![](<images/Bot Comment.jpg>)
-* Let users know when the epoch ends
+## Qu'est-ce que le Bot Discord peut faire ?
 
-### How to add "Caesar" the discord bot to your teams Discord Channel
+* _Caesar_ peut informer votre discord lorsqu'un utilisateur s'est retiré \(opt-out\) d'un epoch en cours et combien de GIVE ont été remboursés.
 
-1. Click Edit Channel on the channel where you want Coordinape notifications to appear. ![](<images/Edit Channel.jpg>)
-2. Go to Integrations -> View Webhook ![](images/Integrations.jpg)
-3. Create New Webhook and click on Copy Webhook ![](<images/New Webhook.jpg>)
+![](../.gitbook/assets/Bot%20Opted%20Out.jpg)
 
-![](<images/Name Webhook.jpg>) 4. Go to Coordinape app where you're an Admin and click the Admin Tab ![](images/Admin.jpg) 5. Edit Circle Settings Button and click on edit webhook ![](<images/Circle Settings.jpg>) 6. paste the webhook url from the Discord bot into text field and click save ![](<images/Discord Webook.jpg>)
+* Informer les utilisateurs qu'un epoch est en cours
 
-#### BOOM! You now have Caesar helping you keep track of active Epochs, giving you a heads up when users make allocations, and letting you know if a user opts out. We'll be adding features to the bot over time, but in the meantime we hope you enjoy this functionality!
+  ![](../.gitbook/assets/Bot%20Comment.jpg)
 
-If you appreciate this make sure to let Zashton know!
+* Informer les utilisateurs lorsque qu'un epoch est terminé
 
-_You may need to enter developer mode in discord to add the bot_
+## Comment ajouter "Caesar" le bot discord a votre channel Discord ?
+
+1. Cliquez sur **Edit Channel** sur le channel où vous souhaitez que les notifications du Bot apparaissent.
+
+   ![](../.gitbook/assets/Edit%20Channel.jpg)
+
+2. Aller dans **Integrations** -&gt; **View Webhook**
+
+   ![](../.gitbook/assets/Integrations.jpg)
+
+3. Cliquez sur **New Webhook** puis sur **Copy Webhook**
+
+   ![](../.gitbook/assets/New%20Webhook.jpg)
+
+   ![](../.gitbook/assets/Name%20Webhook.jpg)
+
+4. Allez sur l'app Coordinape  \(où vous êtes Admin\) et cliquez sur **Admin** 
+
+   ![](../.gitbook/assets/Admin.jpg)
+
+5. Cliquer le bouton  **Edit Circle Settings** et cliquez sur **Edit webhook**
+
+   ![](../.gitbook/assets/edit-webhook.png)
+
+6. Coller l'url  webhook du bot Discord \(étape 3\) dans le champ dédié puis cliquez sur **Save**
+
+![](../.gitbook/assets/Discord%20Webook.jpg)
+
+### BOOM! Vous avez maintenant Caesar à vos côtés pour vous aider à garder une trace des epochs actifs, vous avertir lorsque les utilisateurs réalisent des allocations et vous permettre de savoir lorsqu'un utilisateur se désengage \(opt-out\). Nous ajouterons des fonctionnalités au bot au fil du temps, mais en attendant, nous espérons que vous apprécierez ces fonctionnalités !!
+
+Si vous appréciez _ce Bot_, faite le savoir à Zashton ! 
+
+Vous devrez peut-être utiliser le mode développeur \(_developer mode\)_ sur Discord pour ajouter le bot
+
