@@ -1,26 +1,19 @@
-# TL;DR: The Gift Circle
+# Gift Circle: Cycle de récompenses
 
-Coordinape’s core feature (central to the Alpha version) is the Gift Circle.  The Gift Circle allows a group of DAO contributors to decentralize the payment process, identifying eachother’s value to the organization to create a compensation map.
+La fonctionnalité principale de Coordinape \(au cœur de la version Alpha\) est le **Gift Circle**. Le Gift Circle permet à un groupe de contributeurs de la DAO de décentraliser le processus de paiement, en identifiant la valeur de chacun afin de créer une répartition des rémunérations.
 
-This is done through a process of Gifting.  
+ Cela se fait à travers un processus de Don \(Gifting\).
 
-## The Gift Circle
+## Le Gift Circle: Répartition des dons <a id="the-gift-circle"></a>
 
-An organization can stand up any number of Gift Circles, adding members through a decentralized process.  During a set period of time (the Epoch), the group can perform the Gifting process, as follows:
+Une organisation peut créer un nombre illimité de Gift Circles, en ajoutant des membres via un processus décentralisé. Pendant une période de temps définie \(Epoch\), les membres de ce Cercle \(Circle\) peuvent effectuer des dons \(Gifting\) de la façon suivante : 
 
-At the start of the epoch, each member of the Circle receives a number non-divisible GIVE tokens (Determined by the Circle Admin)
-Members allocated their GIVE tokens to other members over the course of the epoch to reward them for the value they bring to Yearn
-Members can adjust their allocations up until the end of the epoch
-They can add notes to their allocations if they wish
-At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned
-Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received.
+Au début de l'epoch, chaque membre du cercle reçoit 100 jetons GIVE \(non divisibles\). Les membres doivent attribuer leurs jetons GIVE à d'autres membres au cours de l'epoch pour les récompenser du travail qu'ils effectuent et de la valeur qu'ils apportent à Yearn. Ils peuvent ajouter des notes à leurs allocations s'ils le souhaitent pour remercier un autre membre. À la fin de l'epoch, tous les jetons GIVE alloués sont verrouillés \(désormais appelés jeton GET\), et tous les tokens GIVE non alloués sont brûlés. Le budget est alors distribué en fonction du pourcentage du total des tokens GET que chaque membre du cercle a reçu.
 
-## Example
+## Exemple <a id="example"></a>
 
-* Joe receives 75 GETs over the epoch from his colleagues,
-* Total GETs allocated during the epoch are 1500, 
-* Total Contributor Budget is 50,000 USDC
-
-* Joe is sent 2,500  USDC (0.05 of Budget).
-
+* Joe reçoit 75 GIVE  de ses collègues,
+*  Le total des GIVE alloués au cours de l'epoch est de 1500, 
+* Le budget total pour les contributeurs est de 50 000 USDC 
+* Joe reçoit 2 500 USDC \(5% du budget\).
 
