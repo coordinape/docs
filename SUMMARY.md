@@ -10,3 +10,4 @@
   * [Bot Discord](coordinape-docs/bot-discord.md)
   * [Se porter garant (Vouching)](coordinape-docs/se-porter-garant-vouching.md)
   * [Community Calls](coordinape-docs/community-calls.md)
+* [Permissionless Circles](permissionless-circles.md)
