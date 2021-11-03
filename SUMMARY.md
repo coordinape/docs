@@ -8,6 +8,7 @@
   * [Qui récompenser ?](coordinape-docs/qui-recompenser.md)
   * [Infos pour les admins](coordinape-docs/infos-pour-les-admins.md)
   * [Bot Discord](coordinape-docs/bot-discord.md)
+  * [Permissionless Circles](coordinape-docs/permissionless-circles.md)
   * [Se porter garant (Vouching)](coordinape-docs/se-porter-garant-vouching.md)
   * [Community Calls](coordinape-docs/community-calls.md)
 * [Permissionless Circles](permissionless-circles.md)
