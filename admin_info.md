@@ -25,23 +25,38 @@ As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings
 
 ### Editing User Settings
 
-1. After the initial upload of users may be edited by clicking the pencil next to their name
+1. After the initial upload of users may be edited by clicking the pencil next to their name![](<images/User View.jpg>)
+2. Then you can enter their name, starting tokens, admin status, force opt-out, and whether or not they can send GIVE  ![](<images/Edit User.jpg>)
+3. Force Opt Out will prevent the user from receiving Give. The user will be alerted to this change via the Telegram Bot, and on the allocations page. If they have had any give allocated prior to making that save it will all be removed, and users who had allocated to them will have to re-allocate to other users.![](<images/Opt Out.jpg>)
+4. You can also delete users from the Circle by clicking the trashcan.
 
-![](<images/User View.jpg>)
+### At the end of an epoch export a CSV of the epoch data for analysis and distribution.
 
-1. Then you can enter their name, starting tokens, admin status, force opt-out, and whether or not they can send GIVE
+![](images/Export.jpg)Pro tip- If you&#x20;
 
-![](<images/Edit User.jpg>)
+You can use either the [dispers.app](https://disperse.app) or the Multi distribute in Gnosis safe to distribute you allocations&#x20;
 
-1. Force Opt Out will prevent the user from receiving Give. The user will be alerted to this change via the Telegram Bot, and on the allocations page. If they have had any give allocated prior to making that save it will all be removed, and users who had allocated to them will have to re-allocate to other users.
+In the Disperse app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-![](<images/Opt Out.jpg>)
+![](<.gitbook/assets/image (2).png>)&#x20;
 
-1. You can also delete users from the Circle by clicking the trashcan.
+Pro-tip!
 
-### You can also export a CSV of the epoch data for analysis.
+> If you right click and copy the url of the export CSV button and add&#x20;
+>
+> "\&grant={total\_grant\_amt}"  where {total\_grant\_amt} is replaced by the number of tokens you want to distribute
+>
+> to the end of your link it will download the csv with the distributed amount already divvied up for you
+>
+> &#x20;![](.gitbook/assets/image.png)
 
-![](images/Export.jpg)
+Then you'll need to take the address and the amount and paste it into the box below.
+
+![](<.gitbook/assets/image (3).png>)
+
+When you're done make sure it looks ok and then click approve and then disperse token
+
+![](<.gitbook/assets/image (1).png>)
 
 ### Best Practices
 
