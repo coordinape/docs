@@ -11,4 +11,3 @@
   * [Permissionless Circles](coordinape-docs/permissionless-circles.md)
   * [Se porter garant (Vouching)](coordinape-docs/se-porter-garant-vouching.md)
   * [Community Calls](coordinape-docs/community-calls.md)
-  * [Permissionless Circles](coordinape-docs/permissionless-circles-1.md)
