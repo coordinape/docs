@@ -11,3 +11,4 @@
   * [Permissionless Circles](coordinape-docs/permissionless-circles.md)
   * [Se porter garant (Vouching)](coordinape-docs/se-porter-garant-vouching.md)
   * [Community Calls](coordinape-docs/community-calls.md)
+  * [Pourquoi Coordinape est dans mon cercle ?](coordinape-docs/pourquoi-coordinape-est-dans-mon-cercle.md)
