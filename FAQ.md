@@ -3,7 +3,7 @@
 FAQ
 
 **Q -Wen Token:**\
-A There is no Coordinape Token. Yet.
+A There is no Coordinape Token.
 
 **Q- I clicked save and forgot someone on my team or want to change my allocations can I still do that?**\
 A- As long as the epoch is open you can make any changes you'd like.
