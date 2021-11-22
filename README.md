@@ -1,39 +1,39 @@
-# Welcome to Coordinape
+# Bienvenido a Coordinape
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape es una plataforma para que las DAOs distribuyan justa y fácilmente los recursos con los contribuyentes. Las subvenciones comunitarias, salarios internos y proyectos especiales pueden incentivarse y ser recompensados por la misma comunidad. En lugar de las desagradables votaciones o comités de caja negra, los propios contribuyentes pueden recompensar el valor que se vea creado de manera rápida y transparente.
 
-## Vision
+## Visión
 
-The promise of DAOs is decentralized collaboration, where teams of people can solve hard problems together and share in the rewards of the work. As the revolutionary potential of DAOs becomes increasingly apparent, so do their challenges and limitations... especially by those operating within them. Coordinape aims to make the actual experience of people working in DAOS more dynamic, rewarding and fair.
+La promesa de las DAOs es una colaboración descentralizada, en donde grupos de personas puedan resolver problemas juntos y compartir la recompensa de su trabajo. A medida que el potencial revolucionario de las DAOs se hace más evidente, también lo hacen sus retos y limitaciones… especialmente de parte de quienes operan en ellas. Coordinape busca que la verdadera experiencia de las personas que trabajan en las DAOs sea mucho más dinámica, gratificante y justa.
 
-Coordinape moves more decision making to the community. The simple premise is that if you ask everyone in the community who is doing good work, their collective answers will give a good sense of where the value is and who should be most rewarded. Over time, this also provides valuable insights for the DAO about what kinds of work is prioritized, what the community finds most valuable, and who are the key contributors in different areas. The shared visual display also enables everyone in the community to see who is working on what and find opportunities for collaboration or reduce duplication of effort.
+Coordinape traslada la toma de decisiones a la comunidad. La simple premisa es que si preguntas a todos los miembros en la comunidad quien realiza un buen trabajo, la respuesta colectiva dará una buena idea de dónde está el valor y quién debería de ser mejor recompensado. Con el tiempo, esto igualmente proporciona valiosa información para la DAO sobre que tipo de trabajo se prioriza, que es lo que la comunidad encuentra más valioso y quiénes son los contribuyentes clave en las diferentes áreas. La visualización compartida de igual manera permite a todos los miembros de la comunidad ver quien trabaja en qué y encontrar oportunidades de colaboración o reducir la duplicación de esfuerzos.
 
-The focus now is on gift circles for resource distribution, but features are being added continually so that budgeting, recruiting and onboarding, project prioritization, and investments can all be done on the platform.
+Ahora se concentra en los círculos de regalo para la distribución de recursos, pero se añaden constantemente funciones para que así los presupuestos, la contratación y la incorporación, la priorización de proyectos y las inversiones puedan realizarse en la plataforma.
 
-## How It Works
+## ¿Cómo funciona?
 
-Coordinape is currently implemented as an off-chain alpha while we continue to develop our on-chain version, using an EVM compatible L2 or side-chain.
+Coordinape actualmente se implementa como un alpha off-chain mientras continuamos desarrollando nuestra versión on-chain, utilizando un EVM compatible L2 o una side-chain.
 
-Coordinape is built around Circles - groups of DAO participants that wish to distribute funds through a decentralized gifting process. Each Circle can define the rules of participation -- it can grow its network permissionlessly, set parameters around certain elements of its game mechanics and toggle network visibility, either through centralized admin or internal governance.
+Coordinape se construye alrededor de círculos – grupos de participantes de una DAO que desean distribuir fondos mediante un proceso de regalo descentralizado. Cada círculo puede definir las reglas de participación – puede incrementar su red sin necesidad de permisos, establecer parámetros en torno a ciertos elementos de su mecánica de juego y alternar la visibilidad de la red, ya sea mediante una administración descentralizada o gobernanza interna.
 
-Circles run in Epochs: periods of time in which its constituent body of contributors can send each other GIVE tokens, which represent that Circle's total budget allocation. We envision Epochs as monthly events, where contributors can consider each other's collaboration, mutual enablement and furthering of the DAO's mission over that time period. Each member is allocated a fixed amount of GIVE (100 by default), and can send any number of these tokens to other Circle members freely during the Epoch. Members can also opt out if they receive funding elsewhere, allowing them to send GIVE but not receive it. GIVE has no value if it is not given to another Circle member -- the process of gifting defines the per-member payout from the circle's budget.
+Los círculos funcionan en epochs: periodos de tiempo en los cuales los contribuyentes que lo constituyen pueden enviarse mutuamente GIVE tokens, los cuales representan la asignación presupuestaria total de ese círculo. Concebimos los epochs como eventos mensuales, en donde los contribuyentes pueden considerar la colaboración de los demás y la habilitación y fomento mutuo de la misión de la DAO durante ese período de tiempo. A cada miembro se le asigna una cantidad fija de GIVE (100 por defecto), y puede enviar cualquier número de estos tokens libremente a otros miembros del círculo durante ese epoch. Los miembros también pueden “opt out” si reciben financiación en cualquier otro lugar, lo que les permite enviar GIVE pero no recibirlo. GIVE no tiene valor si no es dado a otro miembro del círculo – el proceso de regalar define el pago por miembro del presupuesto del círculo.
 
-When the Epoch ends, the GIVE each member has received can be exchanged for a pro rata amount of monthly treasury budget.
+Cuando el epoch termina, el GIVE que cada miembro ha recibido puede ser intercambiado por una cantidad dividida del presupuesto mensual de tesorería.
 
-## Learn More
+## Aprende más
 
-Coordinape is currently in an off-chain alpha phase, working with select teams like Yearn to develop and refine the experience. There is a public version available, and accessible through www.coordinape.com.
+Coordinape actualmente se encuentra en una fase off-chain Alpha, trabajando con equipos seleccionados como Yearn para así desarrollar y refinar la experiencia. Existe una versión pública disponible y accesible por medio de www.coordinape.com.
 
-If you would like to know more about Coordinape please reach out in our [Discord](https://discord.gg/yQNq2WkUgy). If you'd like to stand up a Circle to get started go to [https://app.coordinape.com/new-circle](https://app.coordinape.com/new-circle).
+Si te gustaría saber más sobre Coordinape por favor comunícate con nosotros en nuestro [Discord](https://discord.gg/yQNq2WkUgy). Si te gustaría crear un círculo para comenzar da click aquí [https://app.coordinape.com/new-circle](https://app.coordinape.com/new-circle).
 
-Other Links:
+Otros Links:
 
-[Andre's Medium article on Coordinape](https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543)
+[Artículo en Medium sobre Coordinape por Andre](https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543)
 
-[Bankless Interview](https://youtu.be/JM0zF3AzFno)
+[Entrevista de Bankless ](https://youtu.be/JM0zF3AzFno)
 
 [Coordinape Twitter](https://twitter.com/coordinape)
 
-[Coordinape Overview Video (Gabriel Haines)](https://www.youtube.com/watch?v=J8oGun8EKDE)
+[Visión General de Coordinape (Gabriel Haines)](https://www.youtube.com/watch?v=J8oGun8EKDE)
 
-[Medium Article by MStable](https://medium.com/mstable/metanauts-guide-to-coordinape-964778e0f073)
+[Medium Article por MStable](https://medium.com/mstable/metanauts-guide-to-coordinape-964778e0f073)
