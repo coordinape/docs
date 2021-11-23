@@ -1,18 +1,18 @@
-## Index of Coordinape Docs
+## Guía de Referencia Rápida
 
-This is a quick reference guide for using Coordinape.
+Esta es una guía de referencia rápida para el uso de Coordinape.
 
-# General Use and Framing
+# Uso general y encuadre
 
-- <a href="https://docs.coordinape.com/welcome/vision">Vision</a>
-- <a href="https://docs.coordinape.com/welcome/gift_circle">The Gift Circle</a>
-- <a href="https://docs.coordinape.com/welcome/how_to_use_coordinape">How to Use Coordinape</a>
-- <a href="https://docs.coordinape.com/welcome/who_to_gift">Who to Gift</a>
+- <a href="https://docs.coordinape.com/welcome/vision">Visión</a>
+- <a href="https://docs.coordinape.com/welcome/gift_circle">El círculo de Regalo</a>
+- <a href="https://docs.coordinape.com/welcome/how_to_use_coordinape">Cómo utilizar Coordinape</a>
+- <a href="https://docs.coordinape.com/welcome/who_to_gift">A Quién Regalar</a>
 
-# Features and How-Tos
+# Características y Tutoriales
 
 - <a href="https://docs.coordinape.com/welcome/faq">FAQ</a>
-- <a href="https://docs.coordinape.com/welcome/admin_info">Using the Admin Panel</a>
+- <a href="https://docs.coordinape.com/welcome/admin_info">Uso del Panel Administrativo</a>
 - <a href="https://docs.coordinape.com/welcome/vouching">Vouching</a>
 - <a href="https://docs.coordinape.com/welcome/discord_bot">Discord Bot</a>
 
