@@ -8,12 +8,12 @@ This is done through a process of Gifting.
 
 An organization can stand up any number of Gift Circles, adding members through a decentralized process.  During a set period of time (the Epoch), the group can perform the Gifting process, as follows:
 
-At the start of the epoch, each member of the Circle receives a number non-divisible GIVE tokens (Determined by the Circle Admin)
-Members allocated their GIVE tokens to other members over the course of the epoch to reward them for the value they bring to Yearn
-Members can adjust their allocations up until the end of the epoch
-They can add notes to their allocations if they wish
-At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned
-Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received.
+* At the start of the epoch, each member of the Circle receives a number of non-divisible GIVE tokens (Determined by the Circle Admin)
+* Members allocate their GIVE tokens to other members over the course of the epoch to reward them for the value they bring to the Circle
+* Members can adjust their allocations up until the end of the epoch
+* They can add notes to their allocations if they wish
+* At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned
+* Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received
 
 ## Example
 
