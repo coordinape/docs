@@ -38,7 +38,7 @@ You can use either the [dispers.app](https://disperse.app) or the Multi distribu
 
 In the Disperse app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-![](<.gitbook/assets/image (2).png>)&#x20;
+![](<.gitbook/assets/image (2) (1).png>)&#x20;
 
 Pro-tip!
 
@@ -52,17 +52,17 @@ Pro-tip!
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 When you're done make sure it looks ok and then click approve and then disperse token
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 ### Best Practices
 
 The best practices will vary from team to team. In general we find teams that communicate their goals for using Coordinape to their contributors will have a better experience than teams that start circles without communicating to their users what
 
-**Team Size **
+**Team Size**&#x20;
 
 Team sizes can range from 2-200+ but we find it's easier to allocate to smaller teams (<20) so the users can have some interaction with most of the members of the team.
 

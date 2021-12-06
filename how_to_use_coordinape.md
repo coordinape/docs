@@ -1,6 +1,6 @@
 # How To Use Coordinape
 
-In this section, you will find an overview of how Coordinape's web application is used.
+In this section, you will find an overview of how Coordinape's web application is used. We've also made a helpful video walkthrough!&#x20;
 
 ## Circle Selection
 

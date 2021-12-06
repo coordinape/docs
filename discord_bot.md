@@ -10,11 +10,18 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 ### How to add "Caesar" the discord bot to your teams Discord Channel
 
-1. Click Edit Channel on the channel where you want Coordinape notifications to appear. ![](<images/Edit Channel.jpg>)
-2. Go to Integrations -> View Webhook ![](images/Integrations.jpg)
-3. Create New Webhook and click on Copy Webhook ![](<images/New Webhook.jpg>)
+1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<images/Edit Channel.jpg>)
+2. Go to I**ntegrations** -> **View Webhook** ![](images/Integrations.jpg)\
+   ![](<.gitbook/assets/image (2).png>)\
 
-![](<images/Name Webhook.jpg>) 4. Go to Coordinape app where you're an Admin and click the Admin Tab ![](images/Admin.jpg) 5. Edit Circle Settings Button and click on edit webhook ![](<images/Circle Settings.jpg>) 6. paste the webhook url from the Discord bot into text field and click save ![](<images/Discord Webook.jpg>)
+3. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<images/New Webhook.jpg>)\
+   ![](<.gitbook/assets/image (3).png>)
+
+&#x20;4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](images/Admin.jpg)&#x20;
+
+5\. Click **Edit Circle Settings** Button and click on **edit webhook** ![](<images/Circle Settings.jpg>)&#x20;
+
+6\. **Paste the webhook url** from the Discord bot into text field and **click save** ![](<images/Discord Webook.jpg>)
 
 #### BOOM! You now have Caesar helping you keep track of active Epochs, giving you a heads up when users make allocations, and letting you know if a user opts out. We'll be adding features to the bot over time, but in the meantime we hope you enjoy this functionality!
 
