@@ -1,6 +1,6 @@
 ## Permissionless Circles are here!
 
-For the last few months we have been diligently working towards full permissionlessnes (It's a word, don't spellcheck it), and on chain implementation.
+For the last few months we have been diligently working towards full permissionlessness (it's a word, don't spellcheck it), and on chain implementation.
 
 As one more step torwards permissionlessness we are happy to release Permissionless Circles! 
 
