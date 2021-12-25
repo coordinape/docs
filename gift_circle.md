@@ -1,26 +1,25 @@
-# TL;DR: The Gift Circle
+# TL;DR: El Círculo de Regalos
 
-Coordinape’s core feature (central to the Alpha version) is the Gift Circle.  The Gift Circle allows a group of DAO contributors to decentralize the payment process, identifying eachother’s value to the organization to create a compensation map.
+La característica principal de Coordinape (central en la versión Alpha) es el círculo de regalos. El Círculo de regalos le permite a un grupo de contribuyentes de DAO, descentralizar el proceso de pago, identificando el valor de cada uno para la organización, para así crear un mapa de compensación.
 
-This is done through a process of Gifting.  
+Esto se realiza mediante un proceso de regalos (gifting).
 
-## The Gift Circle
+## El Círculo de Regalos
 
-An organization can stand up any number of Gift Circles, adding members through a decentralized process.  During a set period of time (the Epoch), the group can perform the Gifting process, as follows:
+Una organización puede crear cualquier cantidad de círculos de regalos (Gift circles), añadiendo miembros mediante un proceso descentralizado. Durante un determinado periodo de tiempo (el epoch), el grupo puede llevar a cabo el proceso de regalos (gifting) de la siguiente manera:
 
-* At the start of the epoch, each member of the Circle receives a number of non-divisible GIVE tokens (Determined by the Circle Admin)
-* Members allocate their GIVE tokens to other members over the course of the epoch to reward them for the value they bring to the Circle
-* Members can adjust their allocations up until the end of the epoch
-* They can add notes to their allocations if they wish
-* At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned
-* Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received
+* Al comienzo del epoch, cada miembro del círculo recibe una cantidad de tokens GIVE no divisibles (determinado por el administrador del círculo)
+* Los miembros asignan sus tokens GIVE a otros miembros a lo largo del epoch para recompensarles por el valor que ellos brindan al círculo
+* Los miembros pueden ajustar sus asignaciones hasta el final del epoch
+* Los miembros pueden añadir notas a sus asignaciones si así lo desean
+* Al final del epoch, todos los tokens GIVE asignados se bloquean (ahora se llamarán tokens GET), y todos los tokens GIVE sin asignar se queman
+* La distribución del presupuesto es entonces formulado según el porcentaje de los tokens GET totales que cada miembro de los círculos ha recibido
 
-## Example
+## Ejemplo
 
-* Joe receives 75 GETs over the epoch from his colleagues,
-* Total GETs allocated during the epoch are 1500, 
-* Total Contributor Budget is 50,000 USDC
-
-* Joe is sent 2,500  USDC (0.05 of Budget).
+* Joe recibe 75 GETs de sus compañeros durante el epoch,
+* El número total de GETs asignados durante el epoch es de 1500, 
+* El presupuesto total de contribuyentes es de 50,000 USDC
+* Joe recibe 2,500 USDC (presupuesto de 0.05).
 
 
