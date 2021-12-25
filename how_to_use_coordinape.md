@@ -1,6 +1,6 @@
 # Cómo utilizar Coordinape
 
-En esta sección encontrarás un resumen de como utilizar la aplicación web de Coordinape.
+En esta sección encontrarás un resumen de como utilizar la aplicación web de Coordinape. ¡También hicimos un útil video tutorial!
 
 ## Selección de Círculos
 

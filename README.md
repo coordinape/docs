@@ -12,7 +12,7 @@ Ahora se concentra en los círculos de regalo para la distribución de recursos,
 
 ## ¿Cómo funciona?
 
-Coordinape actualmente se implementa como un alpha off-chain mientras continuamos desarrollando nuestra versión on-chain, utilizando un EVM compatible L2 o una side-chain.
+Coordinape actualmente se implementa off-chain mientras continuamos desarrollando nuestra versión on-chain, utilizando un EVM compatible L2 o una side-chain.
 
 Coordinape se construye alrededor de círculos – grupos de participantes de una DAO que desean distribuir fondos mediante un proceso de regalo descentralizado. Cada círculo puede definir las reglas de participación – puede incrementar su red sin necesidad de permisos, establecer parámetros en torno a ciertos elementos de su mecánica de juego y alternar la visibilidad de la red, ya sea mediante una administración descentralizada o gobernanza interna.
 
@@ -22,7 +22,7 @@ Cuando el epoch termina, el GIVE que cada miembro ha recibido puede ser intercam
 
 ## Aprende más
 
-Coordinape actualmente se encuentra en una fase off-chain Alpha, trabajando con equipos seleccionados como Yearn para así desarrollar y refinar la experiencia. Existe una versión pública disponible y accesible por medio de www.coordinape.com.
+Existe una versión pública disponible y accesible para cualquiera por medio de www.coordinape.com.
 
 Si te gustaría saber más sobre Coordinape por favor comunícate con nosotros en nuestro [Discord](https://discord.gg/yQNq2WkUgy). Si te gustaría crear un círculo para comenzar da click aquí [https://app.coordinape.com/new-circle](https://app.coordinape.com/new-circle).
 
@@ -30,10 +30,20 @@ Otros Links:
 
 [Artículo en Medium sobre Coordinape por Andre](https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543)
 
-[Entrevista de Bankless ](https://youtu.be/JM0zF3AzFno)
-
 [Coordinape Twitter](https://twitter.com/coordinape)
+
+[Entrevista de Bankless ](https://youtu.be/JM0zF3AzFno)
 
 [Visión General de Coordinape (Gabriel Haines)](https://www.youtube.com/watch?v=J8oGun8EKDE)
 
 [Medium Article por MStable](https://medium.com/mstable/metanauts-guide-to-coordinape-964778e0f073)
+
+[Into the ByteCode](https://bytecode.substack.com/p/6-tracheopteryx-yearn-coordinape)
+
+[Apeing In #4: Forefront DAO and Coordinape, por Cre8rDAO](https://www.youtube.com/watch?v=Y_Y2zlso0Os)
+
+[Apeing In #3: Coordinape y PoolTogether, por Cre8rDAO](https://www.youtube.com/watch?v=WTmzObc8f0o)
+
+[Apeing In #2: Coordinape y Masq Network, por Cre8rDAO](https://www.youtube.com/watch?v=vGpNgYMFO84)
+
+[Apeing In #1: Coordinape y Bankless Network, por Cre8rDAO](https://www.youtube.com/watch?v=2rFNiNCCQa8)
