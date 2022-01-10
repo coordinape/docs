@@ -89,7 +89,7 @@ Coordinape provides a real time Graph to show the network movement of GIVES amon
 
 * If you have someone in mind who's contributing to your circle you can nominate them here, you will need their name and their ETH Address
 * Other members in the Circle will see your nomination and be able to vouch for that user. Once they've been vouched in they will be part of the circle
-* You can also vouch for other members of the circle here. (Make sure to check out the [deep dive on vouching](https://docs.coordinape.com/welcome/vouching\*) here)
+* You can also vouch for other members of the circle here. (Make sure to check out the [deep dive on vouching here](how\_to\_use\_coordinape.md#vouching))
 
 ## User Details
 
