@@ -21,4 +21,4 @@ A- Click profile image in the top right, select profile, click edit profile and 
 A-Yes! Our [Github ](https://github.com/coordinape)is open, and you can [set up a circle](Permissionless\_Circle.md) at your pleasure!
 
 **Q-Where's the fire meme's at?**\
-A-We're waiting on you APE! [(Discord Link)](https://discord.gg/wAWupXkgM6)
+A-We're waiting on you APE! [(Discord Link)](https://discord.com/invite/)
