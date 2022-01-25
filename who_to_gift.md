@@ -1,12 +1,12 @@
-# Who to Gift?
+# ¿A quien Regalar?
 
-The purpose of the gift circle is to reward all the ways  value is brought to your DAO. Over the course of the epoch, each member should allocate their GIVE tokens to other members using whatever logic that makes sense to them with the goal of making sure valuable contributions are recognized and compensated as accurately as possible. 
+El propósito del círculo de regalos es recompensar todas las formas en que se aporta valor a tu DAO. En el transcurso del epoch, cada miembro debe de asignar sus tokens GIVE a otros miembros utilizando cualquier tipo de lógica que tenga sentido para ellos con el objetivo de asegurarse de que las contribuciones valiosas sean reconocidas y compensadas con la mayor precisión posible.
 
-The goal is not to share money equally, give from obligation, or to pay people for spending time within the organization (unless you think that is valuable). The goal is to reward valuable contributions. If someone doesn’t get any GIVE tokens, that’s OK. Maybe they were busy that month? Or maybe they aren’t bringing value. There is nothing wrong with that.
+El objetivo no es compartir equitativamente el dinero, o pagar a las personas por invertir tiempo en la organización (a menos que consideres eso valioso). El objetivo es recompensar las contribuciones valiosas. Si alguien no llega a recibir ningún token GIVE, está bien. ¿Tal vez estuvieron ocupados ese mes? O quizás no están aportando valor. No hay nada malo en ello.
 
-Use your own judgment in allocating GIVEs. In general, give them when you have first-hand experience of people creating value. If you are working with someone on a yearn project and you think they did a good job, allocate some GIVEs. 
+Utiliza tu propio criterio al momento de asignar los GIVEs. En general, regálalos cuando tengas experiencia de primera mano de personas que crean valor. Si trabajas con alguien en un proyecto de Yearn y piensas que ellos hicieron un buen trabajo, asígnales algunos GIVEs.
 
-Try not to allocate GIVEs based on who is “supposed” to get them, or based on hype. Give them where you see value  happen. Give them to people that help you.
+Intenta no asignar los GIVEs con base en quién se “supone” que los recibirá, o basado en la emoción del momento. Regálalos donde veas que hay creación de valor. Regálalos a personas que te ayuden.
 
-Don’t worry too much about getting the numbers right, go with your heart.
+No te preocupes tanto por tener bien los números, sigue a tu corazón.
 

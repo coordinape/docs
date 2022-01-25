@@ -2,23 +2,23 @@
 
 FAQ
 
-**Q -Wen Token:**\
-A There is no Coordinape Token. Yet.
+**P- Wen Token:**\
+R- No existe ningún Token de Coordinape.
 
-**Q- I clicked save and forgot someone on my team or want to change my allocations can I still do that?**\
-A- As long as the epoch is open you can make any changes you'd like.
+**P- Apreté guardar y olvidé a alguien de mi equipo o quisiera cambiar mis asignaciones ¿Aún puedo hacerlo?**\
+R- Mientras el epoch siga abierto puedes realizar cualquier cambio que gustes.
 
-**Q- I'm not seeing any circles to join how do I participate in allocating GIVE?**\
-A- Reach out to your teams Coordinape Admin, they can add you.
+**P- No veo ningún círculo al cual pueda unirme ¿Cómo participo en las asignaciones de GIVE?**\
+R- Contáctate con el administrador de Coordinape de tu equipo, ellos pueden añadirte.
 
-**Q- I want to help allocate GIVE but not receive any, is that possible?**\
-A- YES, just select Opt Out on the Epoch settings Tab.
+**P- Quiero ayudar a asignar GIVEs pero no quiero recibir ninguno ¿Es eso posible?**\
+R- SI, solo selecciona la opción de “opt out” en la sección de ajustes del epoch.
 
-**Q- How do I edit my profile picture?**\
-A- Click profile image in the top right, select profile, click edit profile and then upload a new profile picture.
+**P- ¿Cómo edito mi foto de perfil?**\
+R- Aprieta la imagen de perfil en la parte superior derecha, selecciona perfil, aprieta editar perfil y luego sube tu nueva foto de perfil.
 
-**Q-Is Coordinape Open Source or permisionless?**\
-A-Yes! Our [Github ](https://github.com/coordinape)is open, and you can [set up a circle](Permissionless\_Circle.md) at your pleasure!
+**P- ¿Es Coordinape una fuente abierta o sin permisos?**\
+R- ¡Si! Nuestro [Github](https://github.com/coordinape) es abierto, ¡y puedes [crear un círculo](Permissionless\_Circle.md) a tu gusto!
 
-**Q-Where's the fire meme's at?**\
-A-We're waiting on you APE! [(Discord Link)](https://discord.gg/wAWupXkgM6)
+**P- ¿Dónde está el meme de fuego?**\
+R- ¡Te esperamos APE! [(Discord Link)](https://discord.gg/wAWupXkgM6)
