@@ -32,7 +32,7 @@ As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings
 
 ### At the end of an epoch export a CSV of the epoch data for analysis and distribution.
 
-![](images/Export.jpg)Pro tip- If you&#x20;
+![](images/Export.jpg)
 
 You can use either the [dispers.app](https://disperse.app) or the Multi distribute in Gnosis safe to distribute you allocations&#x20;
 
