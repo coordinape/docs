@@ -40,16 +40,6 @@ In the Disperse app after you have your csv you can distribute the tokens you wi
 
 ![](<.gitbook/assets/image (2) (1).png>)&#x20;
 
-Pro-tip!
-
-> If you right click and copy the url of the export CSV button and add&#x20;
->
-> "\&grant={total\_grant\_amt}"  where {total\_grant\_amt} is replaced by the number of tokens you want to distribute
->
-> to the end of your link it will download the csv with the distributed amount already divvied up for you
->
-> &#x20;![](.gitbook/assets/image.png)
-
 Then you'll need to take the address and the amount and paste it into the box below.
 
 ![](<.gitbook/assets/image (3) (1).png>)
