@@ -4,17 +4,24 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 ### What can the Discord Bot do?
 
-* Caesar can let your discord know when a users has opted out of a current epoch, and how much give was refunded. ![](<images/Bot Opted Out.jpg>)
-* Inform users that an epoch is active ![](<images/Bot Comment.jpg>)
+* Caesar can let your discord know when a users has opted out of a current epoch, and how much give was refunded.
+
+![](<images/Bot Opted Out.jpg>)
+
+* Inform users that an epoch is active
+
+![](<images/Bot Comment.jpg>)
+
 * Let users know when the epoch ends
 
 ### How to add "Caesar" the discord bot to your teams Discord Channel
 
 1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<images/Edit Channel.jpg>)
-2. Go to I**ntegrations** -> **View Webhook** ![](images/Integrations.jpg)\
+2. Go to I**ntegrations** -> **View Webhook**
+3. &#x20;![](images/Integrations.jpg)\
    ![](<.gitbook/assets/image (2).png>)\
 
-3. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<images/New Webhook.jpg>)\
+4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<images/New Webhook.jpg>)\
    ![](<.gitbook/assets/image (3).png>)
 
 &#x20;4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](images/Admin.jpg)&#x20;
