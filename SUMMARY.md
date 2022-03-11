@@ -13,4 +13,4 @@
   * [Vouching](vouching.md)
   * [Discord Bot](discord\_bot.md)
 * [Contributing](contributing.md)
-* [Community Calls](community\_calls.md)
+* [Community Calls](community\_calls/README.md)
