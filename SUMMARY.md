@@ -13,6 +13,4 @@
   * [Vouching](vouching.md)
   * [Discord Bot](discord\_bot.md)
 * [Contributing](contributing.md)
-* [Community Calls](community\_calls/README.md)
-  * [2021-08-10](community\_calls/2021-08-10.md)
-  * [2021-10-14](community\_calls/2021-10-14.md)
+* [Community Calls](community\_calls.md)

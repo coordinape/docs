@@ -34,11 +34,13 @@ As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings
 
 ![](images/Export.jpg)
 
-You can use either the [dispers.app](https://disperse.app) or the Multi distribute in Gnosis safe to distribute you allocations&#x20;
+You can use either the [dispers.app](https://disperse.app) or the CSV Airdrop in Gnosis safe to distribute you allocations&#x20;
+
+#### **Dispers.app**
 
 In the Disperse app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-![](<.gitbook/assets/image (2) (1).png>)&#x20;
+![](<.gitbook/assets/image (2) (1) (1).png>)&#x20;
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
@@ -47,6 +49,27 @@ Then you'll need to take the address and the amount and paste it into the box be
 When you're done make sure it looks ok and then click approve and then disperse token
 
 ![](<.gitbook/assets/image (1) (1).png>)
+
+#### CSV Airdrop for Gnosis Safe
+
+1. Log into your safe
+2. Click apps, search Csv, and select CSV Airdrop
+   1. ![](<.gitbook/assets/image (2).png>)
+3.  Format your Coordinape csv correctly:
+
+    Preparing a Transfer File
+
+    Transfer files are expected to be in CSV format with the following required columns:
+
+    * **`token_type`**: The type of token that is being transferred. One of `erc20,nft` or `native`. NFT Tokens can be either ERC721 or ERC1155.
+    * **`token_address`**: Ethereum address of ERC20 token to be transferred. This has to be left blank for native (ETH) transfers.
+    * **`receiver`**: Ethereum address of transfer receiver.
+    * **`amount`**: the amount of token to be transferred. This can be left blank for erc721 transfers.
+    * **`id`**: The id of the collectible token (erc721 or erc1155) to transfer. This can be left blank for native and erc20 transfers.
+
+    **Important: The CSV file has to use "," as a separator and the header row always has to be provided as the first row and include the described column names.**
+4. Upload your csv and click submit.&#x20;
+   1. ![](<.gitbook/assets/image (4).png>)
 
 ### Best Practices
 
