@@ -12,5 +12,7 @@
   * [Permissionless Circles](Permissionless\_Circle.md)
   * [Vouching](vouching.md)
   * [Discord Bot](discord\_bot.md)
+* [Integrations](integrations/README.md)
+  * [Dework](integrations/dework.md)
 * [Contributing](contributing.md)
 * [Community Calls](community\_calls/README.md)

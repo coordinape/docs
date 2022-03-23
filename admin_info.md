@@ -40,21 +40,21 @@ You can use either the [dispers.app](https://disperse.app) or the CSV Airdrop in
 
 In the Disperse app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-![](<.gitbook/assets/image (2) (1) (1).png>)&#x20;
+![](<.gitbook/assets/image (2) (1) (1) (1).png>)&#x20;
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-![](<.gitbook/assets/image (3) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 When you're done make sure it looks ok and then click approve and then disperse token
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 #### CSV Airdrop for Gnosis Safe
 
 1. Log into your safe
 2. Click apps, search Csv, and select CSV Airdrop
-   1. ![](<.gitbook/assets/image (2).png>)
+   1. ![](<.gitbook/assets/image (2) (1).png>)
 3.  Format your Coordinape csv correctly:
 
     Preparing a Transfer File
@@ -69,7 +69,7 @@ When you're done make sure it looks ok and then click approve and then disperse 
 
     **Important: The CSV file has to use "," as a separator and the header row always has to be provided as the first row and include the described column names.**
 4. Upload your csv and click submit.&#x20;
-   1. ![](<.gitbook/assets/image (4).png>)
+   1. ![](<.gitbook/assets/image (4) (1).png>)
 
 ### Best Practices
 
