@@ -1,5 +1,5 @@
 ---
-description: How to use the Dework Integratio
+description: How to use the Dework Integration
 ---
 
 # Dework
