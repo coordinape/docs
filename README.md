@@ -1,4 +1,4 @@
-# Bienvenido a Coordinape
+# Welcome to Coordinape
 
 Coordinape es una plataforma para que las DAOs distribuyan justa y fácilmente los recursos con los contribuyentes. Las subvenciones comunitarias, salarios internos y proyectos especiales pueden incentivarse y ser recompensados por la misma comunidad. En lugar de las desagradables votaciones o comités de caja negra, los propios contribuyentes pueden recompensar el valor que se vea creado de manera rápida y transparente.
 
@@ -24,13 +24,13 @@ Cuando el epoch termina, el GIVE que cada miembro ha recibido puede ser intercam
 
 Coordinape actualmente se encuentra en una fase off-chain Alpha, trabajando con equipos seleccionados como Yearn para así desarrollar y refinar la experiencia. Existe una versión pública disponible y accesible por medio de www.coordinape.com.
 
-Si te gustaría saber más sobre Coordinape por favor comunícate con nosotros en nuestro [Discord](https://discord.gg/yQNq2WkUgy). Si te gustaría crear un círculo para comenzar da click aquí [https://app.coordinape.com/new-circle](https://app.coordinape.com/new-circle).
+Si te gustaría saber más sobre Coordinape por favor comunícate con nosotros en nuestro [Discord](https://discord.coordinape.com). Si te gustaría crear un círculo para comenzar da click aquí [https://app.coordinape.com/new-circle](https://app.coordinape.com/new-circle).
 
 Otros Links:
 
 [Artículo en Medium sobre Coordinape por Andre](https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543)
 
-[Entrevista de Bankless ](https://youtu.be/JM0zF3AzFno)
+[Entrevista de Bankless](https://youtu.be/JM0zF3AzFno)
 
 [Coordinape Twitter](https://twitter.com/coordinape)
 

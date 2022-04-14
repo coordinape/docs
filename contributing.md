@@ -25,4 +25,4 @@ To get your development environment started begin with following the [README](ht
 
 Github Issues and [Discord](https://discord.gg/c5RY92Edqv) are the best places for the community to collaborate.
 
-Join the [#dev channel](https://discord.gg/dmwMnpXDuR) on Discord for technical questions.
+Join the [#dev channel](https://discord.coordinape.com) on Discord for technical questions.
