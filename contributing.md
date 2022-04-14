@@ -23,6 +23,6 @@ To get your development environment started begin with following the [README](ht
 
 ### Questions and Help
 
-Github Issues and [Discord](https://discord.gg/c5RY92Edqv) are the best places for the community to collaborate.
+[Github Issues](https://github.com/coordinape/coordinape/issues) and [Discord](https://discord.gg/c5RY92Edqv) are the best places for the community to collaborate.
 
-Join the [#dev channel](https://discord.gg/dmwMnpXDuR) on Discord for technical questions.
+Join the [#dev channel](https://github.com/coordinape/coordinape/issues) on Discord for technical questions.
