@@ -4,16 +4,16 @@ description: How to use the Dework Integration
 
 # Dework
 
-If your team uses Dework.xyz Coordinape has an easy to use integration with Dework!\
+If your team uses [Dework.xyz](https://dework.xyz), Coordinape has an easy to use integration with Dework!\
 
 
 These steps are only for the Circle Admin.&#x20;
 
-1. Click the Admin tab
-2. Click Settings
+1. Click the _**Admin**_ tab
+2. Click _**Settings**_
    1. ![](<../.gitbook/assets/image (2).png>)
 3. Scroll down to "Integrations"
-4. Click Connect Dework
+4. Click _**Connect Dework**_
    1. ![](<../.gitbook/assets/image (4).png>)
 5. Select which Organization you want to link to your circle
    1. ![](<../.gitbook/assets/image (5).png>)
@@ -22,7 +22,7 @@ These steps are only for the Circle Admin.&#x20;
 
 These Steps are for all users
 
-1. As task that are assigned to users in Dework are moved to done they will automatically be displayed on the users Coordinape Card
+1. As tasks that are assigned to users in Dework are moved to done they will automatically be displayed on the users Coordinape Card
    1. ![](<../.gitbook/assets/image (7).png>)
 2. If more than 1 user is assigned to the task in Dework the task will show up on all assigned users when it is completed.&#x20;
    1. ![](<../.gitbook/assets/image (6).png>)
