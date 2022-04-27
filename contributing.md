@@ -21,6 +21,6 @@ To get your development environment started, follow the [README](https://github.
 
 ### Questions and Help
 
-[Github Issues](https://github.com/coordinape/coordinape/issues) and [Discord](https://discord.gg/c5RY92Edqv) are the best places for the community to collaborate.
+[Github Issues](https://github.com/coordinape/coordinape/issues) and [Discord](https://discord.coordinape.com) are the best places for the community to collaborate.
 
-Join the [#devs-all channel](https://discord.gg/gBPMAmQ48p) on Discord for technical questions.
+Join the [#devs-all channel](https://discord.coordinape.com) on Discord for technical questions.
