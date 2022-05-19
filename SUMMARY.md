@@ -25,7 +25,7 @@
 * [⚪ Circles](get-started/circles/README.md)
   * [Creating a Circle](get-started/circles/creating-a-circle.md)
   * [Adding Team Members](get-started/circles/adding-team-members.md)
-* [🧑🤝🧑 🧑🤝🧑 Members](get-started/members/README.md)
+* [🧑🤝🧑 Members](get-started/members/README.md)
   * [Member Profile](get-started/members/member-profile.md)
   * [Vouching New Members](get-started/members/vouching-new-members.md)
 * [📅 Epochs](get-started/epochs/README.md)
