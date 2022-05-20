@@ -6,9 +6,9 @@ description: When GIVE turns in to $$$
 
 #### At the end of an epoch, export a CSV of the epoch data for analysis and distribution.
 
-The only way to pay your team is to download the CSV and use it to pay your contributors.&#x20;
+The only way to pay your team is to download the CSV and use it to pay your contributors.
 
-__
+\_\_
 
 ![Admin Epoch History](<../../../.gitbook/assets/image (32).png>)
 
@@ -26,17 +26,17 @@ If you're paying your team on Ethereum, you can use any of the apps below or pay
 
 <summary>Disperse 🤑</summary>
 
-In the [Disperse ](broken-reference)app, after you have your CSV, you can distribute the tokens you wish to allocate by pasting the token address into the token address section.
+In the [Disperse ](broken-reference/)app, after you have your CSV, you can distribute the tokens you wish to allocate by pasting the token address into the token address section.
 
-<img src="../../../.gitbook/assets/image (18).png" alt="" data-size="original">&#x20;
+<img src="../../../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-![](<../../../.gitbook/assets/image (27).png>)
+<img src="../../../.gitbook/assets/image (27).png" alt="" data-size="original">
 
 When you're done make sure it looks ok and then click approve and then disperse token.
 
-![](<../../../.gitbook/assets/image (13).png>)
+<img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 </details>
 
@@ -69,7 +69,7 @@ When you're done make sure it looks ok and then click approve and then disperse 
 
 <!---->
 
-* Upload your csv and click submit.&#x20;
+* Upload your csv and click submit.
   1. ![](<../../../.gitbook/assets/image (30).png>)
 
 </details>
@@ -80,9 +80,9 @@ When you're done make sure it looks ok and then click approve and then disperse 
 
 [Loom Video](https://www.loom.com/share/38d2eb121d044c759555dfdf61c271fa)
 
-## Step by Step Tutorial
+### Step by Step Tutorial
 
-### Before Uploading
+#### Before Uploading
 
 1. Download the raw data from Coordinape, and upload that into this Google Sheets template [here.](https://docs.google.com/spreadsheets/d/1z4nDeBKj9Z81se3YIsiaY8JpbnVgz4vI78mUzeRgW6g/edit?usp=sharing)
 2. Remove all of the contributors that received 0 GIVE.
@@ -95,9 +95,9 @@ When you're done make sure it looks ok and then click approve and then disperse 
    1. Multiply the % of the budget by the total budget amount
    2. By doing this, you know the breakdown of how much the contributor should get paid.
 
-### If the user gets paid in one token, you can move forward with adding two more columns.
+#### If the user gets paid in one token, you can move forward with adding two more columns.
 
-1. **Amount denominated in **_**(optional) We currently support 5 currencies: USD, CAD, EUR, GBP, AUD**_
+1. **Amount denominated in \_(optional) We currently support 5 currencies: USD, CAD, EUR, GBP, AUD**\_
    1. This should only be for native token amounts. If you’re paying out in USDC, leave this form field blank.
 2.  **Pay-out Token (Required)**
 
@@ -106,7 +106,7 @@ When you're done make sure it looks ok and then click approve and then disperse 
     [CSV Payments](https://www.notion.so/a361f457363a4a8fb8eb7a59bd5aaf93)
 3. Upload the CSV in Utopia
 
-### IF the contributor gets paid in MULTIPLE tokens, then you’re going go to have to do the following:
+#### IF the contributor gets paid in MULTIPLE tokens, then you’re going go to have to do the following:
 
 1. Create 3 more columns for each token:
    1. Amount
