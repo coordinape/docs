@@ -8,6 +8,7 @@
   * [🤓 New Coordinape Admins](get-started/get-started/new-coordinape-admins/README.md)
     * [Setting up your Organization](get-started/get-started/new-coordinape-admins/setting-up-your-organization.md)
     * [Creating A Circle](get-started/get-started/new-coordinape-admins/creating-a-circle.md)
+    * [Upload Circle Logo](get-started/get-started/new-coordinape-admins/upload-circle-logo.md)
     * [Add Team Members](get-started/get-started/new-coordinape-admins/add-team-members.md)
     * [Start an Epoch](get-started/get-started/new-coordinape-admins/start-an-epoch.md)
     * [Record Contributions](get-started/get-started/new-coordinape-admins/record-contributions.md)

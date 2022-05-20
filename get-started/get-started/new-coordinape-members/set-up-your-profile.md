@@ -17,21 +17,23 @@ Your profile is consistent between circles; if someone shares a circle with you,
 
 ![Coordinape Member Profile](<../../../.gitbook/assets/image (20).png>)
 
-### Editing your Profile&#x20;
+### Editing your Profile
 
 #### Profile Info
 
-To update your profile information (Profile image, Skills, Biography, and Links)&#x20;
+To update your profile information (Profile image, Skills, Biography, and Links)
 
-* Click Edit Profile&#x20;
+* Click Edit Profile
 * Change the Desired Fields
 * Click Save
 
 ![](../../../.gitbook/assets/How\_to\_Coordinape13.jpg)
 
-### **Images**&#x20;
+### **Images**
 
-To edit your background image and your profile picture, you will need to do the following actions:
+_You can upload jpg, png, and gif format files to your profile as long as they're under 10mb. The pfp images should be square and the background images should be 3x1 ratio._
+
+&#x20;To edit your background image and your profile picture, you will need to do the following actions:
 
 #### Editing the Background
 
