@@ -7,12 +7,10 @@ coverY: 0
 
 # 👐 GIVE
 
-GIVE is a token that represents a portion of the budget set for the circle. Allocation of capital throughout various Epochs will be determined by the amount of GIVE a member receives. \
-_Currently GIVE is a token that lives only on our server. It will not be sent to your wallet._
+GIVE is a token that represents a portion of the budget set for the Circle. Allocation of capital throughout various Epochs will be determined by the amount of GIVE a member receives.\
+_Currently, GIVE is a token that lives only on our server. It will not be sent to your wallet._
 
 At the start of the epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Members allocate their GIVE tokens to other members throughout the epoch to reward them for the value they bring to the Circle.
-
-
 
 ![Circle Allocation](<../../.gitbook/assets/image (33).png>)
 
@@ -32,7 +30,7 @@ _Learn more about the Allocation Process._
 
 The purpose of the gift circle is to reward all the ways value is brought to your DAO. Therefore, throughout the epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
 
-**Before starting an Epoch, it’s essential to guide your team on how best to allocate with the organization’s priorities in mind.**&#x20;
+**Before starting an Epoch, you must guide your team on how best to allocate with the organization’s priorities in mind.**
 
 ### **GIVE Considerations**
 
@@ -42,17 +40,17 @@ The purpose of the gift circle is to reward all the ways value is brought to you
 {% endtab %}
 
 {% tab title="Cooperation" %}
-**Cooperation:** How often does this member show up? Members can allocate to others who show up often and provide valuable feedback.&#x20;
+**Cooperation:** How often does this member show up? Members can allocate to others who show up often and provide valuable feedback.
 {% endtab %}
 
 {% tab title="Effort" %}
-**Effort:** You may consider rewarding members who have taken many steps to complete a task or worked through unique challenges.&#x20;
+**Effort:** You may consider rewarding members who have taken many steps to complete a task or worked through unique challenges.
 {% endtab %}
 
 {% tab title="Passion" %}
-**Passion:** Is this member aligned with the mission of the organization? You can consider the level of passion and enthusiasm a member brings to the organization.&#x20;
+**Passion:** Is this member aligned with the mission of the organization? You can consider the level of passion and enthusiasm a member brings to the organization.
 {% endtab %}
 {% endtabs %}
 
 Try not to allocate GIVEs based on who is “supposed” to get them or member "hype."\
-Instead, **GIVE** where you see value happen. GIVE to members that help you.\
+Instead, **GIVE** where you see value happen. GIVE to members that help you.
