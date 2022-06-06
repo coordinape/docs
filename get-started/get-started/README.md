@@ -8,7 +8,7 @@ description: This is a quick reference guide for using Coordinape.
 
 Choose your adventure. Learn more about the Coordinape Platform
 
-Need More Assistance? [Schedule A Walkthrough](https://calendly.com/zach-503/coordinape-call)
+Need More Assistance? [Schedule A Walkthrough](https://calendly.com/zakku/coordinape-call)
 
 {% content-ref url="new-coordinape-admins/" %}
 [new-coordinape-admins](new-coordinape-admins/)
