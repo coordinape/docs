@@ -19,17 +19,16 @@ To receive GIVE, Members write their contributions during the Epoch on the My Ep
 
 ![Epoch Statement](https://storage.googleapis.com/assets.dework.xyz/uploads/f64d1055-a5fe-49f1-81c8-81fa736c7933/96FBE4C8-A1DA-4B27-B374-703EBAEE7F3D.jpeg)
 
-### Dework Integration&#x20;
+### Dework Integration
 
-It is also possible to sync tasks completed in[ Dework](https://dework.xyz/) to make allocating GIVE easier during the Epoch.&#x20;
+It is also possible to sync tasks completed in[ Dework](https://dework.xyz/) to make allocating GIVE easier during the Epoch.
 
-The Dewok integration will only pull in tasks completed within an epoch so if you complete tasks outside of an active epoch you will still need to account for those tasks manually.
+The Dewok integration will only pull in tasks completed within an Epoch, so if you complete tasks outside of an active Epoch, you will still need to account for those tasks manually.
 
 ![](https://storage.googleapis.com/assets.dework.xyz/uploads/a9f1fdfb-d4a7-4156-ad2b-39589d6b1721/B15C5226-11D2-4012-9148-AF6EB62C0304.jpeg)
 
-### Epoch Ending&#x20;
+### Epoch Ending
 
-Members can adjust their GIVE contributions at any point during the Epoch.&#x20;
+Members can adjust their GIVE contributions at any point during the Epoch.
 
 After the Epoch ends, the allocations are locked and converted to GET tokens.
-

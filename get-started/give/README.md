@@ -8,9 +8,9 @@ coverY: 0
 # 👐 GIVE
 
 GIVE is a token that represents a portion of the budget set for the Circle. Allocation of capital throughout various Epochs will be determined by the amount of GIVE a member receives.\
-_Currently, GIVE is a token that lives only on our server. It will not be sent to your wallet._
+_Currently, GIVE is a token that lives only on our server. Therefore, a GIVE token will not be sent to your wallet._
 
-At the start of the epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Members allocate their GIVE tokens to other members throughout the epoch to reward them for the value they bring to the Circle.
+At the start of the epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Then, members allocate tokens to other members throughout the epoch to reward them for the value they bring to the Circle.
 
 ![Circle Allocation](<../../.gitbook/assets/image (33).png>)
 

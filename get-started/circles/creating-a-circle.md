@@ -4,15 +4,15 @@ description: Setting up your teams
 
 # Creating a Circle
 
-## Setting up your Circle&#x20;
+## Setting up your Circle
 
-You can create a circle from the Coordinape homepage.&#x20;
+You can create a circle from the Coordinape homepage.
 
 Clicking on the **Start a Circle** button will take you to the screen where you can create your circle.
 
 ![Coordinape Homepage](<../../.gitbook/assets/Screen Shot 2022-05-12 at 4.40.25 PM.png>)
 
-You can also create a new circle from the admin panel by clicking the Add Circle button&#x20;
+You can also create a new circle from the admin panel by clicking the Add Circle button
 
 ![Admin Panel](<../../.gitbook/assets/image (41).png>)
 
@@ -34,15 +34,11 @@ This will be how other users will see your name in the circle. (If you are alrea
 {% endtab %}
 
 {% tab title="Circle Name" %}
-
-
 **Circle Name:** This will be the circle name that your users will select.
 
-For Example if your DAO is  **Acme DAO \[Organization]** and you have a core team.
+For Example, if your DAO is **Acme DAO \[Organization]** and you have a core team.
 
 Your Circle name could be **Acme Core.**
-
-
 
 **More On**
 
@@ -54,18 +50,15 @@ Your Circle name could be **Acme Core.**
 {% tab title="Organization Name" %}
 **Organization Name:** This is the higher level of your circle that will encompass all of the circles within an organization.
 
+The Organization name will need to be verified by the Coordinape Team to prevent spoofing from another team.
 
+**Acme DAO \[Organization]**
 
-The Organization name will need to be verified by the Coordinape Team to prevent spoofing from another Team.\
-
-
-#### **Acme DAO \[Organization]**
-
-You might set up your Coordinape like this.&#x20;
+You might set up your Coordinape like this.
 
 * Design Team \[Circle]
 * Dev Team \[Circle]
-* Community \[Circle
+* Community \[Circle]
 
 \
 More On
@@ -76,19 +69,16 @@ More On
 {% endtab %}
 
 {% tab title="Circle POC" %}
-In the Circle Point of Contact field, supply a method of contact. If we find a bug or need to support you with an issue, we will use this information to reach out.&#x20;
+In the "Circle Point of Contact" field, supply a method of contact. If we find a bug or need to support you with an issue, we will use this information to reach out.
 
+**Contact Methods**
 
-
-#### Contact Methods
-
-Discord - Use format _name#1234_&#x20;
+Discord - Use format _name#1234_
 
 Telegram - @yourname\
-Twitter - @yourname make your DM are allowed on your account&#x20;
+Twitter - @yourname make your DM are allowed on your account
 
-Email - yourname@domain.com\
-
+Email - yourname@domain.com
 {% endtab %}
 {% endtabs %}
 
@@ -100,8 +90,8 @@ _Explore potential use cases and frameworks for your organization_
 [.](./)
 {% endcontent-ref %}
 
-### Finishing Up&#x20;
+### Finishing Up
 
-After you click **Launch Circle,** you're in! You've created your first circle, and you are one step closer to compensating and encouraging your team.&#x20;
+After you click **Launch Circle,** you're in! You've created your first circle, and you are one step closer to compensating and encouraging your team.
 
 ![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success.png>)
