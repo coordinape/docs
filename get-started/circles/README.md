@@ -58,8 +58,7 @@ If you want to use Coordinape to empower your community to allocate funds to pro
 
 * Projects \[Circle]
   * Members
-    * Opted-in **projects**
-    * Opted-out **users**
+    * Admin Opt-Out of Recieving but GIVES to encourage the team&#x20;
 
 This structure allows your DAO to use conviction voting to determine how to allocate project funding.
 {% endtab %}
