@@ -15,7 +15,7 @@
     * [Allocate GIVE](get-started/get-started/new-coordinape-admins/allocate-give.md)
     * [Review Distributions](get-started/get-started/new-coordinape-admins/review-distributions.md)
     * [Paying Your Team](get-started/get-started/new-coordinape-admins/paying-your-team.md)
-    * [📐 CO Best Practices](get-started/get-started/new-coordinape-admins/co-best-practices.md)
+    * [📐 Admin Best Practices](get-started/get-started/new-coordinape-admins/admin-best-practices.md)
   * [✨ New Coordinape Members](get-started/get-started/new-coordinape-members/README.md)
     * [Set Up Your Profile](get-started/get-started/new-coordinape-members/set-up-your-profile.md)
     * [Record Contributions & Opt-in/out](get-started/get-started/new-coordinape-members/record-contributions-and-opt-in-out.md)

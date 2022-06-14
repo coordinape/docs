@@ -16,6 +16,6 @@ These are the steps to set up within the Coordinape Platform.
 6. [Allocate GIVE](../../give/allocating-give.md)
 7. [Paying your Team](../../compensation/paying-your-team/)
 
-{% content-ref url="co-best-practices.md" %}
-[co-best-practices.md](co-best-practices.md)
+{% content-ref url="admin-best-practices.md" %}
+[admin-best-practices.md](admin-best-practices.md)
 {% endcontent-ref %}

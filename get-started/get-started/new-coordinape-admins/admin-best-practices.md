@@ -2,7 +2,13 @@
 description: Simple Rules of Thumb & Considerations
 ---
 
-# 📐 CO Best Practices
+# 📐 Admin Best Practices
+
+* [Circle Size](admin-best-practices.md#circle-size)
+* [Epoch Length](admin-best-practices.md#how-long-should-your-epoch-be)&#x20;
+* [Contributions](admin-best-practices.md#your-contributions)&#x20;
+* [Ways to Allocate ](admin-best-practices.md#give-considerations)
+* [Setting Team Goals ](admin-best-practices.md#setting-team-goals)
 
 ## Circle Size
 
@@ -75,8 +81,6 @@ The length you choose will depend on the projects your team is working on and ho
 [epochs](../../epochs/)
 {% endcontent-ref %}
 
-
-
 ### Your Contributions
 
 At the beginning of each Epoch, your Circle will ask you to answer two questions, which will help your colleagues determine how to GIVE to you.
@@ -91,7 +95,7 @@ It's best to summarize your work so that anyone from your team can understand wh
 
 
 
-Example: Pushed 6 Github issues to allow us to unblock back-end work and resolve bugs impacting the use.
+**Example:** Pushed 6 Github issues to allow us to unblock back-end work and resolve bugs impacting the use.
 
 ****
 
@@ -109,7 +113,7 @@ Example: Pushed 6 Github issues to allow us to unblock back-end work and resolve
 
 
 
-### Ways to GIVE
+## Ways to GIVE
 
 The purpose of the gift circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
 
@@ -141,3 +145,34 @@ Instead, **GIVE** where you see value happen. GIVE to members that help you.
 {% content-ref url="../../give/" %}
 [give](../../give/)
 {% endcontent-ref %}
+
+
+
+## Setting Team Goals
+
+The best practices for running Coordinape will vary from team to team. But, in general, we find that teams that **communicate** their goals for Coordinape to their contributors will have a better experience than teams that start circles without communicating with their users.
+
+So, when communicating to your teams, here are some things to make sure to mention:
+
+{% tabs %}
+{% tab title="GIVE Eligibility  " %}
+* Who should be eligible to send and receive GIVE?
+* Should members compensated via grants or salaries be rewarded?
+{% endtab %}
+
+{% tab title="Work Dates " %}
+* Which dates should your contributors be thinking about when allocating?
+* Should users consider all of the prior months when allocating?
+* Should they only consider work that members completed?
+{% endtab %}
+
+{% tab title="Contribution Impact" %}
+* What type of activity would you like your contributors to be rewarding?
+* Should a particular type of work be more valuable? (Devs or Business Development?)
+{% endtab %}
+
+{% tab title="Compensation Method" %}
+* How are allocations paid out?
+* Will they be paid in stable coins or project tokens, or is your DAO just tracking contributions until they have a token to distribute?
+{% endtab %}
+{% endtabs %}
