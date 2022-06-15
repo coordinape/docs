@@ -6,7 +6,7 @@ description: >-
 
 # Upload Circle Logo
 
-You can upload a circle by clicking on the settings page
+You can upload a Circle by clicking on the settings page
 
 ![](<../../../.gitbook/assets/image (5).png>)
 

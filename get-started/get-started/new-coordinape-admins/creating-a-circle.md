@@ -6,11 +6,11 @@ description: Setup your Circle in Coordinape
 
 ## What's A Circle?
 
-A Circle is equal to a team. Teams of people will allow you to compensate members within your organization.
+A Circle is equal to a team. Teams of people will allow you to compensate members within your organization.&#x20;
 
 ### Circle Size
 
-Circles can have 1-200+ members in them. We recommend Circles of at least **three members.** The closer the team members are, the more accurate the compensation process is.
+Circles can have 1-200+ members in them. We recommend Circles of at least **three members.** The closer the team members are, the more accurate the compensation process is.&#x20;
 
 _For more information on Circles_
 
@@ -18,21 +18,21 @@ _For more information on Circles_
 [circles](../../circles/)
 {% endcontent-ref %}
 
-## Setting up your Circle
+## Setting up your Circle&#x20;
 
-You can create a Circle from the Coordinape homepage.
+You can create a circle from the Coordinape homepage.&#x20;
 
-Clicking on the **Start a Circle** button will take you to the screen where you can create your Circle.
+Clicking on the **Start a Circle** button will take you to the screen where you can create your circle.
 
 ![Coordinape Homepage](<../../../.gitbook/assets/Screen Shot 2022-05-12 at 4.40.25 PM.png>)
 
-You can also create a new Circle from the admin panel by clicking the Add Circle button
+You can also create a new circle from the admin panel by clicking the Add Circle button&#x20;
 
 ![Admin Panel](<../../../.gitbook/assets/image (41).png>)
 
 ### Circle Information
 
-Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
+Complete the form below to set up your organization. The Circle Admin can change these fields once the circle is created, but only by the circle admin.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-05-12 at 4.41.47 PM.png>)
 
@@ -40,9 +40,7 @@ Complete the form below to set up your organization. The Circle Admin can change
 
 {% tabs %}
 {% tab title="Username" %}
-Your username will be how other users see your name in the Circle.&#x20;
-
-_(If you are already in other Circles, please use the same name used in the other Circles.)_
+Your username will be how other users see your name in the circle. (If you are already in other circles, please use the same name used in the other circles.)
 {% endtab %}
 
 {% tab title="ETH Address" %}
@@ -52,15 +50,17 @@ _(If you are already in other Circles, please use the same name used in the othe
 
 **Pro-tip**
 
-_You can use your wallet for this since the funding will not need to happen from this wallet._
+You can use your wallet for this since the funding will not need to happen from this wallet.
 {% endtab %}
 
 {% tab title="Circle Name" %}
-**Circle Name:** This will be the Circle name that your users will select.
+**Circle Name:** This will be the circle name that your users will select.
 
-For Example, if your DAO is **Acme DAO \[Organization]** and you have a core team.
+For Example, if your DAO is  **Acme DAO \[Organization]** and you have a core team.
 
 Your Circle name could be **Acme Core.**
+
+
 
 **More On**
 
@@ -70,13 +70,16 @@ Your Circle name could be **Acme Core.**
 {% endtab %}
 
 {% tab title="Organization Name" %}
-**Organization Name:** This is the higher level of your Circle that will encompass all of the Circles within an organization.
+**Organization Name:** This is the higher level of your circle that will encompass all of the circles within an organization.
 
-The Organization name will need to be verified by the Coordinape Team to prevent spoofing from another Team.
 
-**Acme DAO \[Organization]**
 
-You might set up your Coordinape Circle like this.
+The Organization name will need to be verified by the Coordinape Team to prevent spoofing from another Team.\
+
+
+#### **Acme DAO \[Organization]**
+
+You might set up your Coordinape like this.&#x20;
 
 * Design Team \[Circle]
 * Dev Team \[Circle]
@@ -93,14 +96,17 @@ More On
 {% tab title="Circle POC" %}
 In the Circle Point of Contact field, supply a method of contact. If we find a bug or need to support you with an issue, we will use this information to reach out.
 
-**Contact Methods**
+
+
+#### Contact Methods
 
 Discord - Use format _name#1234_ (If you're not in the [Coordinape Discord](https://discord.coordinape.com/), please provide an alternate form of contact)
 
 Telegram - @yourname\
-Twitter - @yourname make your DM are allowed on your account
+Twitter - @yourname make your DM are allowed on your account&#x20;
 
-Email - yourname@domain.com\\
+Email - yourname@domain.com\
+
 {% endtab %}
 {% endtabs %}
 
@@ -112,8 +118,8 @@ _Explore potential use cases and frameworks for your organization_
 [organizations](../../organizations/)
 {% endcontent-ref %}
 
-### Finishing Up
+### Finishing Up&#x20;
 
-After you click **Launch Circle,** you're in! You've created your first circle, and you are one step closer to compensating and encouraging your team.
+After you click **Launch Circle,** you're in! You've created your first circle, and you are one step closer to compensating and encouraging your team.&#x20;
 
 ![Next Step Adding your Team Members](<../../../.gitbook/assets/Circle Success.png>)
