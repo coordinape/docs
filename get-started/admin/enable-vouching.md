@@ -6,7 +6,7 @@ description: Allow members to vouch for each other
 
 ## Setting Up Vouching for your Circle
 
-Vouching is the process of letting members of the circle Nominate, and vouch for a new contributor.
+Vouching is the process of letting members of the Circle Nominate, and vouch for new contributors.
 
 This feature must be enabled from the admin panel by clicking the settings button:
 

@@ -8,17 +8,17 @@ description: Setting up your teams
 
 You can create a circle from the Coordinape homepage.
 
-Clicking on the **Start a Circle** button will take you to the screen where you can create your circle.
+Clicking on the **Start a Circle** button will take you to the screen where you can create your Circle.
 
 ![Coordinape Homepage](<../../.gitbook/assets/Screen Shot 2022-05-12 at 4.40.25 PM.png>)
 
-You can also create a new circle from the admin panel by clicking the Add Circle button
+You can also create a new Circle from the admin panel by clicking the Add Circle button
 
 ![Admin Panel](<../../.gitbook/assets/image (41).png>)
 
 ### Circle Information
 
-Complete the form below to set up your organization. The Circle Admin can change these fields once the circle is created, but only by the circle admin.
+Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
 
 ![Circle Creaton Page](<../../.gitbook/assets/Screen Shot 2022-05-12 at 4.41.47 PM.png>)
 
@@ -92,6 +92,6 @@ _Explore potential use cases and frameworks for your organization_
 
 ### Finishing Up
 
-After you click **Launch Circle,** you're in! You've created your first circle, and you are one step closer to compensating and encouraging your team.
+After you click **Launch Circle,** you're in! You've created your first Circle, and you are one step closer to compensating and encouraging your team.
 
 ![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success.png>)

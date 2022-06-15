@@ -6,7 +6,7 @@ description: Show off your skills
 
 ## Circle Profile
 
-Your profile is consistent between circles; if someone shares a circle with you, they can:
+Your profile is consistent between Circles; if someone shares a Circle with you, they can:
 
 * View your profile
 * Circles you're in

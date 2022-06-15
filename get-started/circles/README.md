@@ -17,7 +17,7 @@ We recommend Circles of at least **three members.** The closer the team members 
 
 #### Things to consider:
 
-> **Work Opaqueness:** The more members in a circle, the less accurate your team member's assessment of each other will be. Members tend to be the MOST familiar with the teammates' work they interact with the most often.&#x20;
+> **Work Opaqueness:** The more members in a Circle, the less accurate your team member's assessment of each other will be. Members tend to be the MOST familiar with the teammates' work they interact with the most often.&#x20;
 
 > **Various Areas of Expertise:** Members do not always have experience with the effort required of all disciplines within the organization. For example, A developer may not know the rigor required of a marketer managing an active campaign. Due to this lack of experience, they may tend to under allocate to members of the marketing team.
 

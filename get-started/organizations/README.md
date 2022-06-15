@@ -7,17 +7,17 @@ coverY: 0
 
 # 🏠 Organizations
 
-An Organization houses all of your Circles in Coordinape. You set your organization during the circle creation phase.
+An Organization houses all of your Circles in Coordinape. You set your organization during the Circle creation phase.
 
 ![Two Organizations with circles within them](<../../.gitbook/assets/Organization Overview.png>)
 
-### Examples:&#x20;
+### Examples:
 
 {% content-ref url="../get-started/new-coordinape-admins/setting-up-your-organization.md" %}
 [setting-up-your-organization.md](../get-started/new-coordinape-admins/setting-up-your-organization.md)
 {% endcontent-ref %}
 
-Suppose you are a part of Acme DAO and have three teams within your organization. You might set up your Coordinape like this.&#x20;
+Suppose you are a part of Acme DAO and have three teams within your organization. You might set up your Coordinape like this.
 
 #### **Acme DAO \[Organization]**
 

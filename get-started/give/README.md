@@ -10,7 +10,7 @@ coverY: 0
 GIVE is a token that represents a portion of the budget set for the Circle. Allocation of capital throughout various Epochs will be determined by the amount of GIVE a member receives.\
 _Currently, GIVE is a token that lives only on our server. Therefore, a GIVE token will not be sent to your wallet._
 
-At the start of the epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Then, members allocate tokens to other members throughout the epoch to reward them for the value they bring to the Circle.
+At the start of the Epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Then, members allocate tokens to other members throughout the Epoch to reward them for the value they bring to the Circle.
 
 ![Circle Allocation](<../../.gitbook/assets/image (33).png>)
 
@@ -28,7 +28,7 @@ _Learn more about the Allocation Process._
 
 ### Ways to GIVE
 
-The purpose of the gift circle is to reward all the ways value is brought to your DAO. Therefore, throughout the epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
+The purpose of the Gift Circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
 
 **Before starting an Epoch, you must guide your team on how best to allocate with the organization’s priorities in mind.**
 

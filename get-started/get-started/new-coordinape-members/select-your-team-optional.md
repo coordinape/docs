@@ -8,13 +8,11 @@ Team sizes can range from 2-200+, but it's easier to allocate to smaller teams (
 
 Team selection influences the governance of allocations. For instance, if a group selects 80 members to allocate GIVE to, but each member is only interacting with 3-4 members, the circle may inadvertently become a "popularity contest" rather than allocation GIVE where value is being created.
 
-The incentive structure of the Coordinape circle relies on the appropriate selection of members.
+The incentive structure of the Coordinape Circle relies on the appropriate selection of members.
 
 ## Picking Team Members
 
-If your circle has the **Select Teammates** option enabled, you will navigate to the **Select Team** page. This page allows you to maintain a smaller roster of team members collaborated with and desire to thank.
-
-
+If your Circle has the **Select Teammates** option enabled, you will navigate to the **Select Team** page. This page allows you to maintain a smaller roster of team members collaborated with and desire to thank.
 
 ![On this page, you may select any number of contributors, sort, or search to find those you have interacted with the most.](<../../../.gitbook/assets/image (44).png>)
 
@@ -30,7 +28,7 @@ If you remove a contributor from your list after allocating GIVE, your GIVE will
 
 ### Vouching
 
-Your circle may have vouching enabled, this means that you can nominate new people to join your circle. To learn more about vouching see the link below 👇
+Your Circle may have vouching enabled, this means that you can nominate new people to join your Circle. To learn more about vouching see the link below 👇
 
 {% content-ref url="../../members/vouching-new-members.md" %}
 [vouching-new-members.md](../../members/vouching-new-members.md)

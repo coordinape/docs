@@ -4,7 +4,7 @@ description: After the Epoch completes
 
 # Paying Your Team
 
-#### At the end of an epoch, export a CSV of the epoch data for analysis and distribution.
+#### At the end of an Epoch, export a CSV of the epoch data for analysis and distribution.
 
 ![Admin Epoch History](<../../../.gitbook/assets/image (32).png>)
 

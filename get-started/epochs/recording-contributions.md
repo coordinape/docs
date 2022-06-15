@@ -2,11 +2,11 @@
 description: Show off your work!
 ---
 
-# Recording Contributions
+# 🏃♂ Recording Contributions
 
 ### My Epoch
 
-An Epoch is a period when your circle members can record contributions, leave notes, and make [GIVE allocations](../give/). Circle admins create Epochs and vary in duration from 1 to 100 days.
+An Epoch is a period when your Circle members can record contributions, leave notes, and make [GIVE allocations](../give/). Circle admins create Epochs and vary in duration from 1 to 100 days.
 
 ![My Epoch Page](<../../.gitbook/assets/image (17).png>)
 

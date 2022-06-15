@@ -4,9 +4,9 @@ description: How members can add contributors to a circle
 
 # Vouching New Members
 
-A vouch is a vote by a circle contributor to invite new members. Vouching can be as little as one vouch needed (any contributor can add other contributors), or an admin can require every member of the circle must vote to add a new member.
+A vouch is a vote by a Circle contributor to invite new members. Vouching can be as little as one vouch needed (any contributor can add other contributors), or an admin can require every member of the Circle must vote to add a new member.
 
-If the minimum threshold of vouches reaches the required number, the contributor instantly gains access to the circle.
+If the minimum threshold of vouches reaches the required number, the contributor instantly gains access to the Circle.
 
 _For more information on admin vouching settings_
 
@@ -18,15 +18,15 @@ _For more information on admin vouching settings_
 
 ![](../../.gitbook/assets/vouching-process.jpg)
 
-Usually, the vouching process will start on the social layer, via conversation or collaboration, realizing that someone in the community should add to a circle.&#x20;
+Usually, the vouching process will start on the social layer, via conversation or collaboration, realizing that someone in the community should add to a Circle.
 
-When this happens, any circle member can nominate the provisional new contributor.  They will need to add the member’s ETH address, name (such as a Discord / Telegram username), and a statement about why they are nominating this individual.
+When this happens, any Circle member can nominate the provisional new contributor. They will need to add the member’s ETH address, name (such as a Discord / Telegram username), and a statement about why they are nominating this individual.
 
 ![](../../.gitbook/assets/vouching-nominate2.jpg)
 
 ## Vouching
 
-Once nominated, other circle members will see that the potential collaborator is eligible for membership, and they can take the step of vouching for the member if they so choose.
+Once nominated, other Circle members will see that the potential collaborator is eligible for membership, and they can take the step of vouching for the member if they so choose.
 
 ![](../../.gitbook/assets/vouching-vouch2.jpg)
 
@@ -36,7 +36,7 @@ Future features will build on this process, including the addition of more surgi
 
 ### Admin Intervention
 
-Admins can still remove members if a member proves unready to participate in the Coordinape circle.&#x20;
+Admins can still remove members if a member proves unready to participate in the Coordinape circle.
 
 Coordinape is excited to aid DAOs in bootstrapping their communities and letting contributors participate in the active growth of their working teams.
 

@@ -6,10 +6,10 @@ description: Let your circles know who you are!
 
 ## Circle Profile
 
-Your profile is consistent between circles; if someone shares a circle with you, they can view:
+Your profile is consistent between Circles; if someone shares a Circle with you, they can view:
 
-* Your circle membership
-* Your recent epoch statements
+* Your Circle membership
+* Your recent Epoch statements
 * Your biography
 * Your skills tags & links.
 

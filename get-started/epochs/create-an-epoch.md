@@ -4,13 +4,13 @@ description: Get the team started in Coordinape
 
 # Create An Epoch
 
-### Circle Admins&#x20;
+### Circle Admins
 
-A [Circle Admin](../admin/) needs to start an [Epoch](./) to get your projects started. Epochs allow admins to frame a date range you would like your team to work within. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.&#x20;
+A [Circle Admin](../admin/) needs to start an [Epoch](./) to get your projects started. Epochs allow admins to frame a date range you would like your team to work within. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.
 
-Best practice is for the [Circle Admin](../admin/) to add all team members to the circle before starting the Epoch.&#x20;
+Best practice is for the [Circle Admin](../admin/) to add all team members to the Circle before starting the Epoch.
 
-![Admin Panel ](<../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.14 PM.png>)
+![Admin Panel](<../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.14 PM.png>)
 
 **Starting an Epoch:**
 
@@ -30,10 +30,10 @@ Once you save the Epoch, you will see the upcoming Epoch in the Admin panel. You
 
 ### **How long should your Epoch be?**
 
-What length you choose will depend on the type of projects your team is working on and how often you prefer to pay your team.&#x20;
+What length you choose will depend on the type of projects your team is working on and how often you prefer to pay your team.
 
 #### Things to consider:
 
-> **Recency Bias:** Members tend to allocate based on their recent experiences. If your epochs are too long, members may forget about work completed at the beginning of the Epoch.&#x20;
+> **Recency Bias:** Members tend to allocate based on their recent experiences. If your Epochs are too long, members may forget about work completed at the beginning of the Epoch.
 
-> **Process Fatigue:** Every Epoch requires your team to record contributions and allocate them to team members. If you have a large circle, the frequent allocation could lead to burnout.&#x20;
+> **Process Fatigue:** Every Epoch requires your team to record contributions and allocate them to team members. If you have a large circle, the frequent allocation could lead to burnout.

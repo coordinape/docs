@@ -19,7 +19,7 @@ description: >-
 
 ## Best Practices
 
-The best practices for running Coordinape will vary from team to team. But, in general, we find that teams that **communicate** their goals for Coordinape to their contributors will have a better experience than teams that start circles without communicating with their users.
+The best practices for running Coordinape will vary from team to team. But, in general, we find that teams that **communicate** their goals for Coordinape to their contributors will have a better experience than teams that start Circles without communicating with their users.
 
 So, when communicating to your teams, here are some things to make sure to mention:
 
@@ -56,9 +56,9 @@ Team sizes can range from 2-200+, but it's easier to allocate to smaller teams (
 
 The amount of compensation for each epoch can vary. It can be zero; it can be infinity.
 
-Before our on-chain launch, there is no escrow feature, so the admin will distribute the compensation after the epoch ends.
+Prior to our on-chain launch, there is no escrow feature, so the admin will distribute the compensation after the Epoch ends.
 
-Once on-chain, funds for epochs will be escrowed in the Ape Vaults and automatically made available to claim or distribute at the end of the epoch after the admin approves the distributions.
+Once on-chain, funds for epochs will be escrowed in the Ape Vaults and automatically made available to claim or distribute at the end of the Epoch after the admin approves the distributions.
 
 ***
 

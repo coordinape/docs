@@ -18,7 +18,7 @@ We recommend Circles of at least **three members.** The closer the team members 
 
 #### Things to consider:
 
-> **Work Opaqueness:** The more members in a circle, the less accurate your team member's assessment of each other will be. Members tend to be the MOST familiar with the teammates' work they interact with the most often.&#x20;
+> **Work Opaqueness:** The larger a Circle is, the less accurate your team member's assessment of each other may be. Members tend to be the MOST familiar with the teammates' work they interact with the most often.&#x20;
 
 > **Various Areas of Expertise:** Members do not always have experience with the effort required of all disciplines within the organization. For example, A developer may not know the rigor required of a marketer managing an active campaign. Due to this lack of experience, they may tend to under allocate to members of the marketing team.
 
@@ -33,9 +33,9 @@ If you have community members that casually contribute to the DAO and a Core tea
 * Community Members \[Circle]
 * Acme Core \[Circle]
 
-The community circle can input contributions and then GIVE each other kudos and GIVE tokens. Then, after the Epoch, you can compensate the community for their work.
+The community Circle can input contributions and then GIVE each other kudos and GIVE tokens. Then, after the Epoch, you can compensate the community for their work.
 
-The core circle can write notes on current projects and give kudos to hard-working members after your DAO could provide bonuses based on GIVE tokens.
+The core Circle can write notes on current projects and give kudos to hard-working members after your DAO could provide bonuses based on GIVE tokens.
 {% endtab %}
 
 {% tab title="Working Teams" %}
@@ -115,7 +115,7 @@ It's best to summarize your work so that anyone from your team can understand wh
 
 ## Ways to GIVE
 
-The purpose of the gift circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
+The purpose of the Gift Circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
 
 **Before starting an Epoch, you must guide your team on how best to allocate with the organization’s priorities in mind.**
 
@@ -150,7 +150,7 @@ Instead, **GIVE** where you see value happen. GIVE to members that help you.
 
 ## Setting Team Goals
 
-The best practices for running Coordinape will vary from team to team. But, in general, we find that teams that **communicate** their goals for Coordinape to their contributors will have a better experience than teams that start circles without communicating with their users.
+The best practices for running Coordinape will vary from team to team. But, in general, we find that teams that **communicate** their goals for Coordinape to their contributors will have a better experience than teams that start Circles without communicating with their users.
 
 So, when communicating to your teams, here are some things to make sure to mention:
 
