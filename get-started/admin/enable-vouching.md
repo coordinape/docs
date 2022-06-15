@@ -14,7 +14,7 @@ This feature must be enabled from the admin panel by clicking the settings butto
 
 In the settings modal on the right side, the admin will have the options for the vouching settings, listed below:
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 {% tabs %}
 {% tab title="Enable Vouching" %}

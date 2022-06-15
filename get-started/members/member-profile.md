@@ -41,4 +41,4 @@ To edit your background image and your profile picture, you will need to do the 
 
 ![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)

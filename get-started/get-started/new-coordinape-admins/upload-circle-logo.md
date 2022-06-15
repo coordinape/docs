@@ -10,6 +10,6 @@ You can upload a Circle by clicking on the settings page
 
 ![](<../../../.gitbook/assets/image (5).png>)
 
-Then clicking on the upload Circle Logo![](<../../../.gitbook/assets/image (6).png>)
+Then clicking on the upload Circle Logo![](<../../../.gitbook/assets/image (6) (1).png>)
 
 Then select a jpg, png, or gif file under 10mb in size. (greater that 200x200px recommended)  and clicking save at the bottom of the screen
