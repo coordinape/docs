@@ -4,21 +4,21 @@ description: Load up your circle with the people that matter
 
 # Add Team Members
 
-Once you've started your Circle, two members will be You and Coordinape.&#x20;
+Once you've started your Circle, two members will be You and Coordinape.
 
-### Coordinape in Your Circle&#x20;
+### Coordinape in Your Circle
 
-> At Coordinape we believe that we are building something that will help propel our industry forward in the way we think about compensation.&#x20;
+> At Coordinape we believe that we are building something that will help propel our industry forward in the way we think about compensation.
 >
-> In an effort to ensure as many DAOs as possible have access to Coordinape we have decided to forgo charging a fee to use Coordinape.&#x20;
+> In an effort to ensure as many DAOs as possible have access to Coordinape we have decided to forgo charging a fee to use Coordinape.
 >
-> We've opted instead to rely on the gifts of the DAO's we provide value to.&#x20;
+> We've opted instead to rely on the gifts of the DAO's we provide value to.
 >
 > The address associated with the Coordinape user is our donation address we can accept donations on EVM compatible chains.
 
 ### Adding Your Team to Coordinape
 
-Before you start adding team members, you will need to gather their wallet addresses. We recommend putting them in a CSV or secured document, so you can copy and paste them into Coordinape. _In the future, you will be able to add members via Discord._&#x20;
+Before you start adding team members, you will need to gather their wallet addresses. We recommend putting them in a CSV or secured document, so you can copy and paste them into Coordinape. _In the future, you will be able to add members via Discord._
 
 To add users to your Circle, Follow these steps:
 
@@ -36,7 +36,7 @@ By default, all users start with 100 GIVE tokens. Starting tokens can be adjuste
 {% endtab %}
 
 {% tab title="Are They Admin" %}
-Circles can have multiple admins, but be careful because admins will have full access to your circle settings.&#x20;
+Circles can have multiple admins, but be careful because admins will have full access to your Circle settings.
 {% endtab %}
 
 {% tab title="Can Give" %}
