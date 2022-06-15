@@ -4,11 +4,9 @@ description: How to use the Parcel integration
 
 # Parcel
 
-With this integration, operators can now view the details of each Circle, the status of Epochs with the corresponding list of participants & allocated GIVE scores directly on Parcel. The budget determined by the operator is automatically distributed as per GIVE scores in a simple flow through Parcel saving them from costly errors & hours of admin work.
+With this integration, Parcel operators can now view the details of each Circle, the status of Epochs with the corresponding list of participants & allocated GIVE scores directly on Parcel. The budget determined by the operator is automatically distributed as per GIVE scores in a simple flow through Parcel saving them from costly errors & hours of admin work.
 
-
-
-Coordinape integration can be found under the integrations tab on the navbar.
+Coordinape integration can be found under the integrations tab on the navbar from the [Parcel site](https://app.parcel.money)
 
 {% hint style="info" %}
 **Prerequisite :** Wallet address signed into Parcel should be an admin of the Coordinape Circle. If you don’t have a Coordinape Circle already, log in to Coordinape and [create a circle here](https://app.coordinape.com/new-circle).
