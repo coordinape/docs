@@ -16,6 +16,8 @@ These steps are only for the Circle Admin.
    1. ![](<../../.gitbook/assets/image (21).png>)
 5. Select which Organization you want to link to your circle
    1. ![](<../../.gitbook/assets/image (23).png>)
+   2. If you have a private dework board you'll need to enable Coordinape to read it here:
+   3. ![](<../../.gitbook/assets/image (7).png>)
 6. Authorize the link.
 7. You are now connected, you can go back to Coordinape now.
 
