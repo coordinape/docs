@@ -10,11 +10,9 @@ Vouching is the process of letting members of the Circle Nominate, and vouch for
 
 This feature must be enabled from the admin panel by clicking the settings button:
 
-![Admin Panel](<../../.gitbook/assets/image (1).png>)
-
 In the settings modal on the right side, the admin will have the options for the vouching settings, listed below:
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/Add Vouching.gif>)
 
 {% tabs %}
 {% tab title="Enable Vouching" %}

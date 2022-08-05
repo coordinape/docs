@@ -8,7 +8,7 @@ description: Decide who you want to GIVE to
 
 If your Circle has the **Select Teammates** option enabled, you will navigate to the **Select Team** page. This page allows you to maintain a smaller roster of team members collaborated with and desire to thank.
 
-![On this page, you may select any number of contributors, sort, or search to find those you have interacted with the most.](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 ### **Your Roster**
 

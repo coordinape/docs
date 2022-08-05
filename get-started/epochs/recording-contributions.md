@@ -8,7 +8,7 @@ description: Show off your work!
 
 An Epoch is a period when your Circle members can record contributions, leave notes, and make [GIVE allocations](../give/). Circle admins create Epochs and vary in duration from 1 to 100 days.
 
-![My Epoch Page](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/Contribute to allocate.gif>)
 
 ### Your Contributions
 

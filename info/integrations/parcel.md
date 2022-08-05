@@ -16,7 +16,7 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../.gitbook/assets/image (7) (1).png>)****
+****![](<../../.gitbook/assets/image (7) (1) (2).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
@@ -25,16 +25,16 @@ You will be asked to sign a message that gives us permissions to access your Coo
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 {% endhint %}
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../.gitbook/assets/image (11).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../.gitbook/assets/image (11) (2).png>)
 
-Click on any of the circles to view all the epochs of that circle.![](<../../.gitbook/assets/image (6).png>)
+Click on any of the circles to view all the epochs of that circle.![](<../../.gitbook/assets/image (6) (1).png>)
 
 {% hint style="info" %}
 **Note:** You can only create payouts for completed epochs.
 {% endhint %}
 
-**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../.gitbook/assets/image (14).png>)****
+**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../.gitbook/assets/image (14) (2).png>)****
 
-**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../.gitbook/assets/image (8).png>)
+**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../.gitbook/assets/image (8) (2).png>)
 
 6\. Once the budget is set, select the **Payment Category** and enter the **Description** for your reference. Click on the <mark style="color:blue;">**Create Transaction**</mark> button to complete the process.

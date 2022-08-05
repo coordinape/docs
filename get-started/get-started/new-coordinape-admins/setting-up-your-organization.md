@@ -4,19 +4,18 @@ description: An Organization houses all of your teams in Coordinape.
 
 # Setting up your Organization
 
-You set your organization during the circle creation phase.&#x20;
+You set your Organization during the circle creation phase. This Organization will house all of your future Circles. You can do that from here [Create New Circle ](https://app.coordinape.com/new-circle)
 
-![Creating a Circle Page](<../../../.gitbook/assets/Screen Shot 2022-05-12 at 4.33.45 PM.png>)
+![Create your Org and first Circle! ](<../../../.gitbook/assets/New Circle.gif>)
 
-### Example:&#x20;
+### Example:
 
-Suppose you are a part of Acme DAO and have three teams within your organization.&#x20;
+Suppose you are a part of Acme DAO and have three teams within your organization.
 
-You might set your Coordinape up like this.&#x20;
+You might set your Coordinape up like this.
 
 #### **Acme DAO \[Organization]**
 
 * Design Team \[Circle]
 * Dev Team \[Circle]
 * Community \[Circle]
-

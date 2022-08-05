@@ -6,7 +6,7 @@ description: Your CO Team members
 
 Circle Members are the lovely folks that make up your team. Members can write about their contributions, look at others' work and allocate GIVE to each other.
 
-![Members are the life of Coordinape Circles.](<../../.gitbook/assets/2022-04-27 15.59.13.gif>)
+![](../../.gitbook/assets/Map.gif)
 
 ### Membership Considerations
 
@@ -32,7 +32,7 @@ Coordinape can support various types of members. For example, salary members can
 
 ### **What do I need from members?**
 
-A wallet address is all you need to add anyone to a Coordinape Circle.
+A wallet address and a name is all you need to add anyone to a Coordinape Circle.
 
 ***
 

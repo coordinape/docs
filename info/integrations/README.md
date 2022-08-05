@@ -6,4 +6,4 @@ description: A list of integrations into Coordinape
 
 [Dework](dework.md)
 
-Parcel
+[Parcel](parcel.md)

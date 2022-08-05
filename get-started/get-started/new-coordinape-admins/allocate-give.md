@@ -26,7 +26,7 @@ The Allocation Page allows you to appreciate the teammates you have selected by 
 
 {% tabs %}
 {% tab title="Allocate Page" %}
-![Allocating to team members](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (10).png>)
 {% endtab %}
 
 {% tab title="Member Card" %}
@@ -46,4 +46,4 @@ It is advised not to allocate GIVEs based on appearance or equality. Instead, GI
 
 ### You can also see GIVE amount to allocate in the top right and GIVE Received.
 
-![Amount left to allocate](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (17).png>)

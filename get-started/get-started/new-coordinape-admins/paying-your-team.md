@@ -6,11 +6,9 @@ description: When GIVE turns in to $$$
 
 #### At the end of an epoch, export a CSV of the epoch data for analysis and distribution.
 
-The only way to pay your team is to download the CSV and use it to pay your contributors.
+One of the ways to pay your team is to download the CSV and use it to pay your contributors. You can find the Export CSV button on the Overview Page next to each Epoch.
 
-\_\_
-
-![Admin Epoch History](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 _Learn More about Reviewing Allocations_
 
@@ -18,9 +16,17 @@ _Learn More about Reviewing Allocations_
 [reviewing-distributions.md](../../give/reviewing-distributions.md)
 {% endcontent-ref %}
 
-Since this is a CSV, you can use this file to pay your team however you'd like and on any chain you'd like; know that the addresses your contributors used to sign in are the ETH mainnet addresses.
+Since this is a CSV, you can use this file to pay your team however you'd like and on any chain you'd like; know that the addresses your contributors used to sign in are the ETH main net addresses.
 
 If you're paying your team on Ethereum, you can use any of the apps below or pay them in individual transactions or a custom script.
+
+<details>
+
+<summary>Vaults 🔒</summary>
+
+Coming soon to ETH Main net
+
+</details>
 
 <details>
 
@@ -28,15 +34,15 @@ If you're paying your team on Ethereum, you can use any of the apps below or pay
 
 In the [Disperse ](broken-reference/)app, after you have your CSV, you can distribute the tokens you wish to allocate by pasting the token address into the token address section.
 
-<img src="../../../.gitbook/assets/image (18).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (18) (1).png" alt="" data-size="original">
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-<img src="../../../.gitbook/assets/image (27).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (27) (1).png" alt="" data-size="original">
 
 When you're done make sure it looks ok and then click approve and then disperse token.
 
-<img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (13) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -140,22 +146,22 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1).png>)****
+****![](<../../../.gitbook/assets/image (7) (1) (2).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
 
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
 
-Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6).png>)
+Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
 
 **Note:** You can only create payouts for completed epochs.
 
-**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../../.gitbook/assets/image (14).png>)****
+**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../../.gitbook/assets/image (14) (2).png>)****
 
-**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../../.gitbook/assets/image (8).png>)
+**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../../.gitbook/assets/image (8) (2).png>)
 
 6\. Once the budget is set, select the **Payment Category** and enter the **Description** for your reference. Click on the <mark style="color:blue;">**Create Transaction**</mark> button to complete the process.
 

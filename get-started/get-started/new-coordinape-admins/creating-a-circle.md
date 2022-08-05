@@ -28,13 +28,13 @@ Clicking on the **Start a Circle** button will take you to the screen where you 
 
 You can also create a new Circle from the admin panel by clicking the Add Circle button
 
-![Admin Panel](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (13).png>)
 
 ### Circle Information
 
 Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
 
-![](<../../../.gitbook/assets/Screen Shot 2022-05-12 at 4.41.47 PM.png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 ### Form Information
 
@@ -43,16 +43,6 @@ Complete the form below to set up your organization. The Circle Admin can change
 Your username will be how other users see your name in the Circle.&#x20;
 
 _(If you are already in other Circles, please use the same name used in the other Circles.)_
-{% endtab %}
-
-{% tab title="ETH Address" %}
-**ETH address:** Your wallet address derives from the wallet you connected to Coordinape
-
-
-
-**Pro-tip**
-
-_You can use your wallet for this since the funding will not need to happen from this wallet._
 {% endtab %}
 
 {% tab title="Circle Name" %}
@@ -69,8 +59,8 @@ Your Circle name could be **Acme Core.**
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Organization Name" %}
-**Organization Name:** This is the higher level of your Circle that will encompass all of the Circles within an organization.
+{% tab title="Organization" %}
+**Organization:** This is the higher level of your Circle that will encompass all of the Circles within an organization.
 
 The Organization name will need to be verified by the Coordinape Team to prevent spoofing from another Team.
 
@@ -90,17 +80,8 @@ More On
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Circle POC" %}
-In the Circle Point of Contact field, supply a method of contact. If we find a bug or need to support you with an issue, we will use this information to reach out.
-
-**Contact Methods**
-
-Discord - Use format _name#1234_ (If you're not in the [Coordinape Discord](https://discord.coordinape.com/), please provide an alternate form of contact)
-
-Telegram - @yourname\
-Twitter - @yourname make your DM are allowed on your account
-
-Email - yourname@domain.com\\
+{% tab title="Email Address" %}
+The email address is only used to provide support and contact you directly. We will not use this for anything else.
 {% endtab %}
 {% endtabs %}
 

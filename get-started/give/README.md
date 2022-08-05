@@ -12,7 +12,7 @@ _Currently, GIVE is a token that lives only on our server. Therefore, a GIVE tok
 
 At the start of the Epoch, each Circle member receives a certain number of GIVE tokens (Determined by the Circle Admin). Then, members allocate tokens to other members throughout the Epoch to reward them for the value they bring to the Circle.
 
-![Circle Allocation](<../../.gitbook/assets/image (33).png>)
+![Circle Allocation](<../../.gitbook/assets/Contribute to allocate.gif>)
 
 ### Example
 

@@ -22,15 +22,14 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<../../.gitbook/assets/Edit Channel.jpg>)
 2. Go to I**ntegrations** -> **View Webhook**
-3. &#x20;![](../../.gitbook/assets/Integrations.jpg)\
-   <img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">\
-
+3. ![](../../.gitbook/assets/Integrations.jpg)\
+   <img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">\\
 4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<../../.gitbook/assets/New Webhook.jpg>)\
-   ![](<../../.gitbook/assets/image (26).png>)
+   ![](<../../.gitbook/assets/image (26) (1).png>)
 
-&#x20;4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](../../.gitbook/assets/Admin.jpg)&#x20;
+4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](../../.gitbook/assets/Admin.jpg)
 
-5\. Click **Edit Circle Settings** Button and click on **edit webhook** ![](<../../.gitbook/assets/Circle Settings.jpg>)&#x20;
+5\. Click **Edit Circle Settings** Button and click on **edit webhook** ![](<../../.gitbook/assets/Circle Settings.jpg>)
 
 6\. **Paste the webhook url** from the Discord bot into text field and **click save** ![](<../../.gitbook/assets/Discord Webook.jpg>)
 

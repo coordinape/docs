@@ -9,21 +9,23 @@ coverY: 0
 
 An Epoch is a period when your circle members can record contributions, leave notes, and make [GIVE allocations](../give/). Circle admins create Epochs and vary in duration from 1 to 100 days.
 
-![Epoch Settings](https://storage.googleapis.com/assets.dework.xyz/uploads/a000de94-b271-491b-8e80-2576abb4d6fe/68EECBE4-C944-47BB-87BD-09DC604EE835.jpeg)
+To start an Epoch go to the Overview page and select your Circle, then click create an Epoch
+
+![](<../../.gitbook/assets/Create Epoch (1).gif>)
 
 ### Start of an Epoch
 
-At the beginning of an Epoch, members of the Circle receive several GIVE tokens decided by the admin (Default: 100 tokens)
+At the beginning of an Epoch, members of the Circle receive GIVE tokens decided by the admin (Default: 100 tokens)
 
 To receive GIVE, Members write their contributions during the Epoch on the My Epoch page. In addition, the Epoch Statement is public for the Circle to read. Members can use statements to detail their work this month or clarify what work they may be eligible for compensation.
 
-![Epoch Statement](https://storage.googleapis.com/assets.dework.xyz/uploads/f64d1055-a5fe-49f1-81c8-81fa736c7933/96FBE4C8-A1DA-4B27-B374-703EBAEE7F3D.jpeg)
+![](<../../.gitbook/assets/Contribute to allocate.gif>)
 
 ### Dework Integration
 
 It is also possible to sync tasks completed in[ Dework](https://dework.xyz/) to make allocating GIVE easier during the Epoch.
 
-The Dewok integration will only pull in tasks completed within an Epoch, so if you complete tasks outside of an active Epoch, you will still need to account for those tasks manually.
+The Dework integration will only pull in tasks completed within an Epoch, so if you complete tasks outside of an active Epoch, you will still need to account for those tasks manually.
 
 ![](https://storage.googleapis.com/assets.dework.xyz/uploads/a9f1fdfb-d4a7-4156-ad2b-39589d6b1721/B15C5226-11D2-4012-9148-AF6EB62C0304.jpeg)
 

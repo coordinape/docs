@@ -6,9 +6,9 @@ description: This is a quick reference guide for using Coordinape.
 
 ## Welcome
 
-Choose your adventure. Learn more about the Coordinape Platform
+Choose your own adventure to learn more about Coordinape.
 
-Need More Assistance? [Schedule A Walkthrough](https://calendly.com/zakku/coordinape-call)
+Need More Assistance? [Schedule a one on one walkthrough](https://calendly.com/zakku/coordinape-call) with one of the team!
 
 {% content-ref url="new-coordinape-admins/" %}
 [new-coordinape-admins](new-coordinape-admins/)
@@ -21,7 +21,7 @@ Need More Assistance? [Schedule A Walkthrough](https://calendly.com/zakku/coordi
 ### Onboarding - 3 min
 
 {% embed url="https://youtu.be/j2ixf0Isuuo" %}
-Coordinpe Overview
+Coordinape Overview
 {% endembed %}
 
 **Need More Help? Contact Support**

@@ -6,7 +6,7 @@ description: Just created a circle? Here's how to get started
 
 ## **Getting Started**
 
-These are the steps to set up within the Coordinape Platform.
+These are the steps to get started with the Coordinape.
 
 1. [Setting up your Organization](setting-up-your-organization.md)
 2. [Create A Circle](../../circles/creating-a-circle.md)

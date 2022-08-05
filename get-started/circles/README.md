@@ -21,7 +21,7 @@ We recommend Circles of at least **three members.** The closer the team members 
 
 > **Various Areas of Expertise:** Members do not always have experience with the effort required of all disciplines within the organization. For example, A developer may not know the rigor required of a marketer managing an active campaign. Due to this lack of experience, they may tend to under allocate to members of the marketing team.
 
-![Team allocating GIVE to each other](<../../.gitbook/assets/2022-04-27 15.59.13.gif>)
+![Team allocating GIVE to each other](../../.gitbook/assets/Map.gif)
 
 ## Use Cases: Setting up your Structure
 

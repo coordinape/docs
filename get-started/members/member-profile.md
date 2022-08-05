@@ -39,6 +39,6 @@ To edit your background image and your profile picture, you will need to do the 
 * Click Upload Background
 * Select a new background image (Suggested 1600x200)
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)

@@ -6,15 +6,11 @@ description: Get the team started in Coordinape
 
 To start the [allocation process](../new-coordinape-members/allocate-give.md), you need to start an Epoch. Epochs allow you to choose a date range you would like your team to allocate during. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.
 
-> It's important to note that many teams choose to have epochs that do not last the entire contribution period
->
 > EG: Yearn Finance does one week long epochs at the end of each month where the allocations are meant to cover the entire months work.
 >
 > Some DAO's who have been in operation for a while and are wanting to "Catch up" on contributions may choose to do a short Epoch to allocate for all work done in prior periods
 
 Best practice is to add all team members to the Circle before starting your Epoch, but new members can be added during an active epoch if someone was missed.
-
-![Admin Panel](<../../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.14 PM.png>)
 
 **Starting an Epoch:**
 
@@ -24,13 +20,15 @@ Best practice is to add all team members to the Circle before starting your Epoc
 4. **Should this Epoch repeat?** Do you want the Epoch to restart automatically?
 5. **Save.** Are you ready to start?!
 
-![Creating an Epoch](<../../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.26 PM.png>)
+![](<../../../.gitbook/assets/Create Epoch.gif>)
 
-### Admin Settings
 
-Once you save the Epoch, you will see the upcoming Epoch in the admin panel. You can edit Epochs before and after the start time. However, You cannot edit Epochs after they have ended.
 
-![After you saved an epoch](<../../../.gitbook/assets/Screen Shot 2022-05-16 at 6.25.20 PM.png>)
+### Edit Epoch
+
+Once you save the Epoch, you will see the upcoming Epoch in the overview panel. You can edit Epochs before and after the start time. However, You cannot edit Epochs after they have ended.
+
+![After you saved an eph](<../../../.gitbook/assets/Edit Epoch (1).gif>)
 
 ### **How long should your Epoch be?**
 

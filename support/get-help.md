@@ -20,6 +20,12 @@ If you'd like to [create your circle](../get-started/circles/creating-a-circle.m
 
 We are always looking for new ideas and insights
 
-**Check out our Coordinape Request Board**
+![](<../.gitbook/assets/image (9).png>)
 
-{% embed url="https://coordinape.notion.site/52e6b9e8a97c4bb19e390dd24fe823f0?v=c3d0e73949174ce9970a9956f88044fe" %}
+If you have an idea to make Coordinape better, or if something isn't working click the ? button and leave your idea!
+
+
+
+
+
+****

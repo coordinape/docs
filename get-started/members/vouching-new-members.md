@@ -20,7 +20,9 @@ _For more information on admin vouching settings_
 
 Usually, the vouching process will start on the social layer, via conversation or collaboration, realizing that someone in the community should add to a Circle.
 
-When this happens, any Circle member can nominate the provisional new contributor. They will need to add the member’s ETH address, name (such as a Discord / Telegram username), and a statement about why they are nominating this individual.
+When this happens, any Circle member who is eligible to vouch can nominate a new contributor. They will need to add the member’s ETH address, name (such as a Discord / Telegram username), and a statement about why they are nominating this individual.
+
+![](<../../.gitbook/assets/image (11).png>)
 
 ![](../../.gitbook/assets/vouching-nominate2.jpg)
 

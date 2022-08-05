@@ -10,7 +10,7 @@ A [Circle Admin](../admin/) needs to start an [Epoch](./) to get your projects s
 
 Best practice is for the [Circle Admin](../admin/) to add all team members to the Circle before starting the Epoch.
 
-![Admin Panel](<../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.14 PM.png>)
+![](<../../.gitbook/assets/Add Contributor (1).gif>)
 
 **Starting an Epoch:**
 
@@ -20,13 +20,13 @@ Best practice is for the [Circle Admin](../admin/) to add all team members to th
 4. Should this Epoch repeat? Do you want the Epoch to restart automatically?
 5. Save. Are you ready to start?!
 
-![Creating an Epoch](<../../.gitbook/assets/Screen Shot 2022-05-16 at 6.14.26 PM.png>)
+![](<../../.gitbook/assets/Create Epoch (1).gif>)
 
 ### Admin Settings
 
-Once you save the Epoch, you will see the upcoming Epoch in the Admin panel. You can edit Epochs before and after the start time. However, You cannot edit epochs after they have ended.
+Once you save the Epoch, you will see the upcoming Epoch in the Admin panel. You can edit Epochs before and after the start time. However, you cannot edit epochs after they have ended.
 
-![After you saved an epoch](<../../.gitbook/assets/Screen Shot 2022-05-16 at 6.25.20 PM.png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### **How long should your Epoch be?**
 

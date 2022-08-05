@@ -12,6 +12,6 @@ Before distributing the funds to their contributors, the Admin's responsibility 
 
 #### After you've spot-checked the allocations in the CSV ![](<../../.gitbook/assets/image (31).png>)
 
-#### or the admin panel if the Circle is still live, you can proceed with the distributions.
+#### or the admin panel if another epoch hasn't started yet, you can proceed with the distributions.
 
 ![Checking allocations from the admin panel](<../../.gitbook/assets/image (35).png>)
