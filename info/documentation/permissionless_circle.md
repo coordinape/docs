@@ -33,6 +33,6 @@ After you click **Launch Circle,** you're in!
 
 You've created your first circle, and you are one step closer to compensating and encouraging your team!
 
-All that's left is to [add your team and schedule your first epoch!](https://docs.coordinape.com/welcome/admin\_info)
+All that's left is to [add your team and schedule your first epoch!]([https://docs.coordinape.com/welcome/admin\_info](https://docs.coordinape.com/get-started/get-started/new-coordinape-admins/add-team-members))
 
 Thanks for letting us be a part of what you're doing! We can't wait to see what your teams will accomplish!
