@@ -27,7 +27,7 @@ You will be asked to sign a message that gives us permissions to access your Coo
 
 **3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
 
-Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
+Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1) (2).png>)
 
 {% hint style="info" %}
 **Note:** You can only create payouts for completed epochs.

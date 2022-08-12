@@ -25,7 +25,7 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 3. ![](../../.gitbook/assets/Integrations.jpg)\
    <img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">\\
 4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<../../.gitbook/assets/New Webhook.jpg>)\
-   ![](<../../.gitbook/assets/image (26) (1).png>)
+   ![](<../../.gitbook/assets/image (26).png>)
 
 4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](../../.gitbook/assets/Admin.jpg)
 

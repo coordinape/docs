@@ -2,7 +2,7 @@
 
 A**nyone** can spin up a new circle by going to https://coordinape.com and connecting their wallet.
 
-If you're not already in a circle, you will Coordinape with prompt you to create a new circle.&#x20;
+If you're not already in a circle, you will Coordinape with prompt you to create a new circle.
 
 _If you were expecting to be in a circle and aren't, please get in touch circle admin so they can get your address fixed._
 
@@ -14,7 +14,7 @@ Clicking on the **Start a Circle** button will take you to the screen where you 
 
 The fields on this screen will be used when you start your circle. They can be changed once the circle is created, but only by the circle admin.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 * **Username:** This will be how other users will see your name in the circle. (If you are already in other circles, please use the exact same name used in the other circles.)
 * **ETH address:** This is derived from the wallet you're currently connected to Coordinape with

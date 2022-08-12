@@ -18,11 +18,11 @@ Once you've started your Circle, two members will be You and Coordinape.&#x20;
 
 ### Adding Your Team to Coordinape
 
-Before you start adding team members, you will need to gather their wallet addresses. We recommend putting them in a CSV or secured document, so you can copy and paste them into Coordinape. _In the future there will be more ways to upload your team but currently you'll need to do it one at a time.  you will be able to add members via our Discord Bo_
+Before you start adding team members, you will need to gather their wallet addresses. We recommend putting them in a CSV or secured document, so you can copy and paste them into Coordinape. _In the future there will be more ways to upload your team but currently you'll need to do it one at a time.  you will be able to add members via our Discord Bot_
 
 To add users to your Circle, Follow these steps:
 
-![](<../../../.gitbook/assets/Add Users (1).gif>)
+![](<../../../.gitbook/assets/Add Users.gif>)
 
 1. Click Add Contributor
 2.  Fill out the fields in the modal.
@@ -51,3 +51,9 @@ Circles can have multiple admins, but be careful because admins will have full a
 _Leaving this toggle as NO prevents people from receiving GIVE allocations without logging into Coordinape to allocate to their peers. It may result in them getting fewer allocations if they wait until the end of the epoch to opt-in though_
 {% endtab %}
 {% endtabs %}
+
+#### _Vouching_
+
+_After you've added several team members to your circle you can also enable the vouching setting that will allow new members to be vouched in by existing members._ \
+__\
+_Read more in_ [_Vouching_](../../admin/enable-vouching.md)__

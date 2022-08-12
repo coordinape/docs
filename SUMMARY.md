@@ -33,7 +33,7 @@
 * [📅 Epochs](get-started/epochs/README.md)
   * [Create An Epoch](get-started/epochs/create-an-epoch.md)
   * [Team Selection](get-started/epochs/team-selection.md)
-  * [🏃♂ Recording Contributions](get-started/epochs/recording-contributions.md)
+  * [🏃♂ 🏃♂ Recording Contributions](get-started/epochs/recording-contributions.md)
 * [👐 GIVE](get-started/give/README.md)
   * [Allocating GIVE](get-started/give/allocating-give.md)
   * [Reviewing Distributions](get-started/give/reviewing-distributions.md)

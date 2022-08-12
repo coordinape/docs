@@ -8,7 +8,7 @@ description: What you need to know when setting epochs for your circles
 
 Once you save the [Epoch](../epochs/), you will see the upcoming Epoch in the [Admin](./) panel. You can edit Epochs before and after the start time. However, You cannot edit Epochs after they have ended.
 
-![After you saved an epoch](<../../.gitbook/assets/Create Epoch (1).gif>)
+![After you saved an epoch](<../../.gitbook/assets/Create Epoch.gif>)
 
 **Editing an Epoch:**
 

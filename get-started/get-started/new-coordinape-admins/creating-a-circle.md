@@ -28,13 +28,13 @@ Clicking on the **Start a Circle** button will take you to the screen where you 
 
 You can also create a new Circle from the admin panel by clicking the Add Circle button
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 ### Circle Information
 
 Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (47).png>)
 
 ### Form Information
 

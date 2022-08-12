@@ -16,4 +16,4 @@ Then you'll need to take the address and the amount and paste it into the box be
 
 When you're done, make sure it looks ok, and then click approve and then disperse the token.
 
-![](<../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../.gitbook/assets/image (13).png>)

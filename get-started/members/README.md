@@ -6,7 +6,7 @@ description: Your CO Team members
 
 Circle Members are the lovely folks that make up your team. Members can write about their contributions, look at others' work and allocate GIVE to each other.
 
-![](../../.gitbook/assets/Map.gif)
+![](<../../.gitbook/assets/Map (1).gif>)
 
 ### Membership Considerations
 

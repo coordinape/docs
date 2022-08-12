@@ -34,7 +34,7 @@ Then you'll need to take the address and the amount and paste it into the box be
 
 When you're done, make sure it looks ok and then, click approve and then disperse token
 
-<img src="../../../.gitbook/assets/image (13) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 </details>
 
@@ -147,7 +147,7 @@ You will be asked to sign a message that gives us permissions to access your Coo
 
 **3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
 
-Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
+Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1) (2).png>)
 
 **Note:** You can only create payouts for completed epochs.
 

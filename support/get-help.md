@@ -20,7 +20,7 @@ If you'd like to [create your circle](../get-started/circles/creating-a-circle.m
 
 We are always looking for new ideas and insights
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 If you have an idea to make Coordinape better, or if something isn't working click the ? button and leave your idea!
 
