@@ -10,7 +10,7 @@ Vouching is the process of letting members of the Circle Nominate, and vouch for
 
 This feature must be enabled from the admin panel by clicking the settings button:
 
-In the settings modal on the right side, the admin will have the options for the vouching settings, listed below:
+Scroll to the Vouching section and then the admin will have the options for the vouching settings, listed below:
 
 ![](<../../.gitbook/assets/Enable Vouching.gif>)
 
@@ -37,10 +37,6 @@ If there are not enough vouches, the nominee is not added, and the process will 
 Text box where the admin can set some guidelines for the contributors that want to vouch for someone else.&#x20;
 
 * Example: “When vouching for someone, please send samples (or links) of the work done.”
-{% endtab %}
-
-{% tab title="Only Givers can Vouch" %}
-As the ability to send GIVE can be used as a filter or indication that this member has seniority, this option enables restricting vouches to just those who can give.   &#x20;
 {% endtab %}
 {% endtabs %}
 
