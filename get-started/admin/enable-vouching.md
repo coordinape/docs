@@ -12,7 +12,7 @@ This feature must be enabled from the admin panel by clicking the settings butto
 
 In the settings modal on the right side, the admin will have the options for the vouching settings, listed below:
 
-![](<../../.gitbook/assets/Add Vouching.gif>)
+![](<../../.gitbook/assets/Enable Vouching.gif>)
 
 {% tabs %}
 {% tab title="Enable Vouching" %}
