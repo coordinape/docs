@@ -46,4 +46,4 @@ It is advised not to allocate GIVEs based on appearance or equality. Instead, GI
 
 ### You can also see GIVE amount to allocate in the top right and GIVE Received.
 
-![](<../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../.gitbook/assets/image (10).png>)

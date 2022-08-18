@@ -26,5 +26,5 @@ These Steps are for all users
 1. As tasks that are assigned to users in Dework are moved to done they will automatically be displayed on the users Coordinape Card
    1. ![](<../../.gitbook/assets/image (39).png>)
 2. If more than 1 user is assigned to the task in Dework the task will show up on all assigned users when it is completed.
-   1. ![](<../../.gitbook/assets/image (8) (1).png>)
+   1. ![](<../../.gitbook/assets/image (8) (1) (1).png>)
 3. If a task is moved from done back to in progress it will be removed from their card.

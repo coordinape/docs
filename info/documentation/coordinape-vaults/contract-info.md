@@ -4,6 +4,10 @@ description: Description of the smart contracts that power the Coordinape Vaults
 
 # Contract Info
 
+{% hint style="warning" %}
+This is pre-release documentation. Vaults have not been launched on mainnet yet.
+{% endhint %}
+
 ### Key Roles and Contracts
 
 * The **vault factory** ([ApeVaultFactory](https://github.com/coordinape/coordinape-protocol/blob/main/contracts/ApeProtocol/wrapper/beacon/ApeVaultFactory.sol)) creates new **vaults** ([ApeVault)](https://github.com/coordinape/coordinape-protocol/blob/main/contracts/ApeProtocol/wrapper/beacon/ApeVault.sol), each of which contains funds for a different organization using Coordinape.

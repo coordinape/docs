@@ -57,7 +57,7 @@
   * [Permissionless Circles](info/documentation/permissionless\_circle.md)
   * [Who To Gift](info/documentation/who\_to\_gift.md)
   * [Vouching System](info/documentation/vouching.md)
-  * [Coordinape Vaults](info/documentation/coordinape-vaults/README.md)
+  * [Coordinape Vaults](info/documentation/coordinape-vaults.md)
     * [Contract Info](info/documentation/coordinape-vaults/contract-info.md)
   * [Administrative Permissions](info/documentation/administrative-permissions.md)
   * [Discord Bot](info/documentation/discord\_bot.md)

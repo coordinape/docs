@@ -14,4 +14,4 @@ Before distributing the funds to their contributors, the Admin's responsibility 
 
 #### or the admin panel if another Epoch hasn't started, you can proceed with the distributions.
 
-![Checking allocations from the Admin Panel](<../../../.gitbook/assets/image (1) (2).png>)
+![Checking allocations from the Admin Panel](<../../../.gitbook/assets/image (1).png>)

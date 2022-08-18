@@ -161,7 +161,7 @@ Click on any of the circles to view all the epochs of that circle.![](<../../../
 
 **4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../../.gitbook/assets/image (14) (2).png>)****
 
-**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../../.gitbook/assets/image (8) (2) (1).png>)
+**5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../../.gitbook/assets/image (8) (2).png>)
 
 6\. Once the budget is set, select the **Payment Category** and enter the **Description** for your reference. Click on the <mark style="color:blue;">**Create Transaction**</mark> button to complete the process.
 
