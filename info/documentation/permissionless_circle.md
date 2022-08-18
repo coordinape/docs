@@ -14,7 +14,7 @@ Clicking on the **Start a Circle** button will take you to the screen where you 
 
 The fields on this screen will be used when you start your circle. They can be changed once the circle is created, but only by the circle admin.
 
-![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
 * **Username:** This will be how other users will see your name in the circle. (If you are already in other circles, please use the exact same name used in the other circles.)
 * **ETH address:** This is derived from the wallet you're currently connected to Coordinape with

@@ -14,13 +14,13 @@ Clicking on the **Start a Circle** button will take you to the screen where you 
 
 You can also create a new Circle from the admin panel by clicking the Add Circle button
 
-![](<../../.gitbook/assets/image (19) (2).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 ### Circle Information
 
 Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
 
-![](<../../.gitbook/assets/image (8) (3).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ### Form Information
 
@@ -94,4 +94,4 @@ _Explore potential use cases and frameworks for your organization_
 
 After you click **Launch Circle,** you're in! You've created your first Circle, and you are one step closer to compensating and encouraging your team.
 
-![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success.png>)
+![Next Step Adding your Team Members](<../../images/Circle Success.png>)

@@ -14,7 +14,7 @@ The incentive structure of the Coordinape Circle relies on the appropriate selec
 
 If your Circle has the **Select Teammates** option enabled, you will navigate to the **Select Team** page. This page allows you to maintain a smaller roster of team members collaborated with and desire to thank.
 
-![](<../../../.gitbook/assets/image (14) (1).png>)
+![](<../../../.gitbook/assets/image (14).png>)
 
 ### **Your Roster**
 
