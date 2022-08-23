@@ -23,7 +23,7 @@
     * [Allocate GIVE](get-started/get-started/new-coordinape-members/allocate-give.md)
     * [Get Paid](get-started/get-started/new-coordinape-members/get-paid.md)
 * [🏠 Organizations](get-started/organizations/README.md)
-  * [🔒 Vaults](get-started/organizations/vaults.md)
+  * [🔒 CoVaults](get-started/organizations/vaults.md)
 * [⚪ Circles](get-started/circles/README.md)
   * [Creating a Circle](get-started/circles/creating-a-circle.md)
   * [Adding Team Members](get-started/circles/adding-team-members.md)
