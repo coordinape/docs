@@ -10,11 +10,11 @@ You can create a circle from the Coordinape homepage or by going to [https://app
 
 Clicking on the **Start a Circle** button will take you to the screen where you can create your Circle.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (2).png>)
 
 You can also create a new Circle from the admin panel by clicking the Add Circle button
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 ### Circle Information
 
@@ -69,14 +69,9 @@ More On
 {% endtab %}
 
 {% tab title="Circle POC" %}
-In the "Circle Point of Contact" field, supply a method of contact. If we find a bug or need to support you with an issue, we will use this information to reach out.
+In the "Circle Point of Contact" field, supply a contact method. If we find a bug or need to support you with an issue, we will use this information to reach out.
 
 **Contact Methods**
-
-Discord - Use format _name#1234_
-
-Telegram - @yourname\
-Twitter - @yourname make your DM are allowed on your account
 
 Email - yourname@domain.com
 {% endtab %}
@@ -94,4 +89,4 @@ _Explore potential use cases and frameworks for your organization_
 
 After you click **Launch Circle,** you're in! You've created your first Circle, and you are one step closer to compensating and encouraging your team.
 
-![Next Step Adding your Team Members](<../../images/Circle Success.png>)
+![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success.png>)

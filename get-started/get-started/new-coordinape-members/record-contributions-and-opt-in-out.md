@@ -8,7 +8,7 @@ description: Tell your team what you've done!
 
 At the beginning of each [Epoch](../../epochs/), Your circle will ask you to answer two questions to help your colleagues determine how to GIVE.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 ### My Epoch
 
@@ -16,13 +16,13 @@ At the beginning of each [Epoch](../../epochs/), Your circle will ask you to ans
 {% tab title="Epoch Statement" %}
 Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.
 
-![](<../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
-The Epoch Statement details the work you have done this month or clarifies work that the DAO wants to compensate.
+The Epoch Statement details your work this month or clarifies work that the DAO wants to compensate.
 
 \
 **Best Practices**\
-\*\*\*\*It's best to summarize your work so that anyone from your team can understand what you did and its impact/goal. Quantify your work where ever possible for better understanding.
+It's best to summarize your work so that anyone from your team can understand what you did and its impact/goal. Quantify your work where ever possible for better understanding.
 
 \
 **Examples**

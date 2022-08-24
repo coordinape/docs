@@ -10,7 +10,7 @@ To get your team started in Coordinape, you must add your member's wallet addres
 
 In the Admin panel, click on "Add Contributor."
 
-![](<../../.gitbook/assets/Add Contributor (1).gif>)
+![](<../../.gitbook/assets/Add Contributor (1) (1).gif>)
 
 ### Member Settings
 

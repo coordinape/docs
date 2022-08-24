@@ -4,21 +4,38 @@ description: After the Epoch completes
 
 # Paying Your Team
 
-#### At the end of an Epoch, export a CSV of the epoch data for analysis and distribution.
+#### If you have a CoVault, you can submit a payment using the [Distribution Page](distributions-and-payments/). If not at the end of an Epoch, export a CSV of the epoch data for analysis and distribution.
 
 ![Admin Epoch History](<../../../.gitbook/assets/Export CSV.gif>)
 
-Currently, the only way to pay your team is to download the CSV and use it to pay your contributors.
+### CSV
+
+With CSV export from your Epoch, you can use this to integrate with your preferred payment method.
 
 Since this is a CSV, you can use this file to pay your team however you'd like and on any chain you'd like; know that the addresses your contributors used to sign in are the ETH mainnet addresses.
 
-### CSV Templates
+#### CSV Templates
 
 [Coordinape USDC + GOV Token Rate Template](https://docs.google.com/spreadsheets/d/1qXdhFvtYkuiJE1MHOkwx0WuVWlbKgwfDjZeDrb6JAC4/edit?usp=sharing)
 
 ### Payment Disbursement
 
-If you're paying your team on Ethereum, you can use any of the apps below, pay them in individual transactions, or a custom script.
+If you're paying your team on Ethereum, you can use any options below, pay them in individual transactions or a custom script.
+
+<details>
+
+<summary>CoVaults</summary>
+
+1. Navigate to the Epoch Overview Page
+2. Select the Epoch you want to compensate
+3. Select the Vault you want to pay from
+4. Set the maximum amount you want to pay from the Vault
+5. Click “Submit Distribution” on the Vault
+6. Sign Transaction & Pay Gas
+
+For a deeper dive check out the [Vaults](../../organizations/vaults/) section of the docs
+
+</details>
 
 <details>
 
@@ -47,7 +64,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Click apps, search Csv, and select CSV Airdrop
-  1. ![](<../../../.gitbook/assets/image (12).png>)
+  1. ![](<../../../.gitbook/assets/image (12) (1).png>)
 
 <!---->
 
@@ -138,14 +155,14 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1) (2).png>)****
+****![](<../../../.gitbook/assets/image (7) (1) (1).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
 
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (3).png>)
 
 Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
 

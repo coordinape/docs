@@ -2,7 +2,7 @@
 description: How to get help with the Coordinape Platform
 ---
 
-# Get Help
+# 🇨🇭 Get Help
 
 ### Reach Out
 
@@ -23,12 +23,4 @@ If you'd like to [create your circle](../get-started/circles/creating-a-circle.m
 
 We are always looking for new ideas and insights. If you have an idea to make Coordinape better or something isn't working, click the Help button and [leave your idea!](https://fe7gssn4rhy.typeform.com/to/lsHVdgVs)
 
-![](<../.gitbook/assets/image (9).png>)
-
-
-
-
-
-
-
-****
+![Help Button](<../.gitbook/assets/image (9) (2).png>)

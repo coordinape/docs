@@ -22,10 +22,11 @@ Before you start adding team members, you will need to gather their wallet addre
 
 To add users to your Circle, Follow these steps:
 
-![](<../../../.gitbook/assets/Add Users.gif>)
+<figure><img src="../../../.gitbook/assets/Add Members.gif" alt=""><figcaption></figcaption></figure>
 
 1. Click Add Contributor
-2.  Fill out the fields in the modal.
+2. Fill out the fields in the modal.
+3.  Edit the users in the admin screen.
 
     Details on the settings are below 👇
 

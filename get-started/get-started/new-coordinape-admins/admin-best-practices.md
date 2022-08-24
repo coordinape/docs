@@ -33,13 +33,15 @@ If you have community members that casually contribute to the DAO and a Core tea
 * Community Members \[Circle]
 * Acme Core \[Circle]
 
-The community Circle can input contributions and then GIVE each other kudos and GIVE tokens. Then, after the Epoch, you can compensate the community for their work.
+The community Circle can input contributions and then GIVE each other kudos and tokens. Then, after the Epoch, you can compensate the community for their work.
 
 The core Circle can write notes on current projects and give kudos to hard-working members after your DAO could provide bonuses based on GIVE tokens.
 {% endtab %}
 
 {% tab title="Working Teams" %}
-We recommend discipline-based teams if you want to set up a few operational teams within the same organization. Teams should be **no more than ten members** for the most accurate allocations. Each circle should have a team lead with an admin role.
+We recommend discipline-based teams if you want to set up a few operational teams within the same organization.&#x20;
+
+Teams should be **no more than ten members** for the most accurate allocations. Each circle should have a team lead with an admin role.
 
 **Acme DAO \[Organization]**
 
@@ -75,7 +77,7 @@ The length you choose will depend on the projects your team is working on and ho
 
 > **Recency Bias:** Members tend to allocate based on their recent experiences. If your Epochs are too long, members may forget about work completed at the beginning of the Epoch.
 
-> **Process Fatigue:** Every Epoch requires your team to record contributions and allocate them to team members. If you have a large circle, the frequent allocation could lead to burnout.
+> **Process Fatigue:** Every Epoch requires your team to record contributions and allocate to team members. If you have a large circle, a frequent allocation process could lead to burnout.
 
 {% content-ref url="../../epochs/" %}
 [epochs](../../epochs/)
@@ -115,9 +117,9 @@ It's best to summarize your work so that anyone from your team can understand wh
 
 ## Ways to GIVE
 
-The purpose of the Gift Circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them intending to make sure valuable contributions are recognized and compensated as accurately as possible.
+The purpose of the Gift Circle is to reward all the ways value is brought to your DAO. Therefore, throughout the Epoch, each member should allocate their GIVE tokens to other members using whatever logic makes sense to them.&#x20;
 
-**Before starting an Epoch, you must guide your team on how best to allocate with the organization’s priorities in mind.**
+Allocating GIVE should ensure that valuable contributions are recognized and compensated as accurately as possible. **Before starting an Epoch, you must guide your team on how best to allocate with the organization’s priorities in mind.**
 
 ### **GIVE Considerations**
 
@@ -139,8 +141,7 @@ The purpose of the Gift Circle is to reward all the ways value is brought to you
 {% endtab %}
 {% endtabs %}
 
-Try not to allocate GIVEs based on who is “supposed” to get them or member "hype."\
-Instead, **GIVE** where you see value happen. GIVE to members that help you.
+### Try not to allocate GIVEs based on who is “supposed” to get them or member "hype." Instead, **GIVE** where you see value happen. GIVE to members that help you.
 
 {% content-ref url="../../give/" %}
 [give](../../give/)

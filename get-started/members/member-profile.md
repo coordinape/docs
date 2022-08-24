@@ -14,7 +14,7 @@ Your profile is consistent between Circles; if someone shares a Circle with you,
 * Read your bio
 * Your skills tags & links.
 
-![Coordinape Member Profile](<../../.gitbook/assets/image (20).png>)
+![Coordinape Member Profile](<../../.gitbook/assets/image (20) (1).png>)
 
 ### Editing your Profile
 
@@ -26,7 +26,7 @@ To update your profile information (Profile image, Skills, Biography, and Links)
 * Change the Desired Fields
 * Click Save
 
-![](../../images/How\_to\_Coordinape13.jpg)
+![](../../.gitbook/assets/How\_to\_Coordinape13.jpg)
 
 ### **Background Image**
 
@@ -39,6 +39,6 @@ To edit your background image and your profile picture, you will need to do the 
 * Click Upload Background
 * Select a new background image (Suggested 1600x200)
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)

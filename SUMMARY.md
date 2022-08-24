@@ -10,6 +10,8 @@
     * [Creating A Circle](get-started/get-started/new-coordinape-admins/creating-a-circle.md)
     * [Upload Circle Logo](get-started/get-started/new-coordinape-admins/upload-circle-logo.md)
     * [Add Team Members](get-started/get-started/new-coordinape-admins/add-team-members.md)
+    * [Create CoVaults](get-started/get-started/new-coordinape-admins/create-covaults.md)
+    * [Fixed Payments](get-started/get-started/new-coordinape-admins/fixed-payments.md)
     * [Start an Epoch](get-started/get-started/new-coordinape-admins/start-an-epoch.md)
     * [Record Contributions](get-started/get-started/new-coordinape-admins/record-contributions.md)
     * [Allocate GIVE](get-started/get-started/new-coordinape-admins/allocate-give.md)
@@ -23,31 +25,35 @@
     * [Allocate GIVE](get-started/get-started/new-coordinape-members/allocate-give.md)
     * [Get Paid](get-started/get-started/new-coordinape-members/get-paid.md)
 * [🏠 Organizations](get-started/organizations/README.md)
-  * [🔒 CoVaults](get-started/organizations/vaults.md)
+  * [🔒 CoVaults](get-started/organizations/vaults/README.md)
+    * [🏗 Setting Up the Vault](get-started/organizations/vaults/setting-up-the-vault.md)
+    * [🖋 Managing the Vault](get-started/organizations/vaults/managing-the-vault.md)
 * [⚪ Circles](get-started/circles/README.md)
   * [Creating a Circle](get-started/circles/creating-a-circle.md)
   * [Adding Team Members](get-started/circles/adding-team-members.md)
-* [🧑🤝🧑 Members](get-started/members/README.md)
-  * [Member Profile](get-started/members/member-profile.md)
-  * [Vouching New Members](get-started/members/vouching-new-members.md)
 * [📅 Epochs](get-started/epochs/README.md)
   * [Create An Epoch](get-started/epochs/create-an-epoch.md)
   * [Team Selection](get-started/epochs/team-selection.md)
-  * [🏃♂ 🏃♂ Recording Contributions](get-started/epochs/recording-contributions.md)
+  * [🏃 Recording Contributions](get-started/epochs/recording-contributions.md)
 * [👐 GIVE](get-started/give/README.md)
   * [Allocating GIVE](get-started/give/allocating-give.md)
   * [Reviewing Distributions](get-started/give/reviewing-distributions.md)
 * [💲 Compensation](get-started/compensation/README.md)
   * [Paying Your Team](get-started/compensation/paying-your-team/README.md)
+    * [🤑 Distributions & Payments](get-started/compensation/paying-your-team/distributions-and-payments/README.md)
+      * [✍ Configuring Fixed Payments](get-started/compensation/paying-your-team/distributions-and-payments/configuring-fixed-payments.md)
     * [Disperse](get-started/compensation/paying-your-team/disperse.md)
     * [Gnosis Safe](get-started/compensation/paying-your-team/gnosis-safe.md)
-    * [Utopia Labs](get-started/compensation/paying-your-team/utopia-labs.md)
     * [Parcel](get-started/compensation/paying-your-team/parcel.md)
+    * [Utopia Labs](get-started/compensation/paying-your-team/utopia-labs.md)
 * [🎩 Admin](get-started/admin/README.md)
   * [Update Circle Settings](get-started/admin/update-circle-settings.md)
   * [Update Epoch Settings](get-started/admin/update-epoch-settings.md)
   * [Update Members](get-started/admin/update-members.md)
   * [Enable Vouching](get-started/admin/enable-vouching.md)
+* [🧑🤝🧑 Members](get-started/members/README.md)
+  * [Member Profile](get-started/members/member-profile.md)
+  * [Vouching New Members](get-started/members/vouching-new-members.md)
 
 ## Info
 
@@ -57,7 +63,7 @@
   * [Permissionless Circles](info/documentation/permissionless\_circle.md)
   * [Who To Gift](info/documentation/who\_to\_gift.md)
   * [Vouching System](info/documentation/vouching.md)
-  * [Coordinape Vaults](info/documentation/coordinape-vaults.md)
+  * [CoVaults Techincal](info/documentation/coordinape-vaults.md)
     * [Contract Info](info/documentation/coordinape-vaults/contract-info.md)
   * [Administrative Permissions](info/documentation/administrative-permissions.md)
   * [Discord Bot](info/documentation/discord\_bot.md)
@@ -67,7 +73,7 @@
 
 ## support
 
-* [Get Help](support/get-help.md)
+* [🇨🇭 Get Help](support/get-help.md)
 
 ## community
 

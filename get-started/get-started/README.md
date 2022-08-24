@@ -6,9 +6,9 @@ description: This is a quick reference guide for using Coordinape.
 
 ## Welcome
 
-Choose your own adventure to learn more about Coordinape.
+Coordinape is for community members and administrators: choose a path below to learn more about a role!
 
-Need More Assistance? [Schedule a one on one walkthrough](https://calendly.com/zakku/coordinape-call) with one of the team!
+If you need more assistance [schedule a one-on-one walkthrough](https://coordinape.com/schedule-a-walkthrough) with a member of our team!
 
 {% content-ref url="new-coordinape-admins/" %}
 [new-coordinape-admins](new-coordinape-admins/)
