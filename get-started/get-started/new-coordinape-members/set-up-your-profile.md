@@ -15,7 +15,7 @@ Your profile is consistent between Circles; if someone shares a Circle with you,
 
 **Note:** We recommend using the same name/PFP in Coordinape as the one used in the communication channel (e.g., Discord) to make it easier for members to recognize each other.
 
-![Coordinape Member Profile](<../../../.gitbook/assets/image (20) (1).png>)
+![Coordinape Member Profile](<../../../.gitbook/assets/image (20).png>)
 
 ### Editing your Profile
 
@@ -27,7 +27,7 @@ To update your profile information (Profile image, Skills, Biography, and Links)
 * Change the Desired Fields
 * Click Save
 
-![](../../../images/How\_to\_Coordinape13.jpg)
+![](../../../.gitbook/assets/How\_to\_Coordinape13.jpg)
 
 ### **Images**
 
@@ -38,17 +38,17 @@ _You can upload jpg, png, and gif format files to your profile as long as they'r
 #### Editing the Background
 
 1. Click the edit background button
-   * ![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+   * ![](<../../../.gitbook/assets/image (42).png>)
 2. Select a new background image (Suggested 1600x200)
 3. Click Upload Background
-   * ![](<../../../.gitbook/assets/image (24) (1) (1).png>)
+   * ![](<../../../.gitbook/assets/image (34).png>)
 
 #### Editing your profile picture
 
 1. Click Edit Profile
-   * ![](<../../../.gitbook/assets/image (14) (1).png>)
+   * ![](<../../../.gitbook/assets/image (37).png>)
 2. Click the pencil button on your profile picture.
-   * ![](<../../../.gitbook/assets/image (7) (1) (1) (1).png>)
+   * ![](<../../../.gitbook/assets/image (36).png>)
 3. Select a photo
 4. Click the upload button on your profile picture.
    * ![](<../../../.gitbook/assets/image (46).png>)

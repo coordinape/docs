@@ -26,11 +26,11 @@ The Allocation Page lets you appreciate your selected teammates by sending them 
 
 {% tabs %}
 {% tab title="Allocate Page" %}
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (2).png>)
 {% endtab %}
 
 {% tab title="Member Card" %}
-![](../../images/How\_to\_Coordinape15.jpg)
+![](../../.gitbook/assets/How\_to\_Coordinape15.jpg)
 {% endtab %}
 {% endtabs %}
 

@@ -2,7 +2,7 @@
 description: You can set a fixed salary for members in your circle
 ---
 
-# ✍ Configuring Fixed Payments
+# ✍ Fixed Payments
 
 You can now set a “salary” or set payment for each Epoch in addition to the GIVE Circle payment.&#x20;
 
@@ -30,7 +30,7 @@ For instructions on how to do that, go to [.](./ "mention")
 
 1. Go to Admin Page
 2. Click “Settings”&#x20;
-3. Decide if you want to use a [vault ](../../../organizations/vaults/)(1) or just track fixed payments. (2)
+3. Decide if you want to use a [vault ](../../../organizations/vaults.md)(1) or just track fixed payments. (2)
    1. Click “Fixed Payment Vault" drop down and select the vault you want to use
    2. Type the token you would like to use for fixed payments payments
 4. Click “Save”

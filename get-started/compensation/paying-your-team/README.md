@@ -4,7 +4,14 @@ description: After the Epoch completes
 
 # 💲 Paying Your Team
 
-#### If you have a CoVault, you can submit a payment using the [Distribution Page](distributions-and-payments/). If not at the end of an Epoch, export a CSV of the epoch data for analysis and distribution.
+#### If you have a CoVault, you can submit a payment using the [Distribution Page](distributions-and-payments/).  If not at the end of an Epoch, you can use one of the following:
+
+* CSV Export&#x20;
+* CoVault&#x20;
+* Disperse
+* Gnosis Safe
+* Parcel&#x20;
+* Utopia Labs&#x20;
 
 ![Admin Epoch History](<../../../.gitbook/assets/Export CSV.gif>)
 
@@ -33,7 +40,7 @@ If you're paying your team on Ethereum, you can use any options below, pay them 
 5. Click “Submit Distribution” on the Vault
 6. Sign Transaction & Pay Gas
 
-For a deeper dive check out the [Vaults](../../organizations/vaults/) section of the docs
+For a deeper dive check out [distributions-and-payments](distributions-and-payments/ "mention")
 
 </details>
 
@@ -43,15 +50,15 @@ For a deeper dive check out the [Vaults](../../organizations/vaults/) section of
 
 In the [Disperse ](broken-reference/)app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-<img src="../../../.gitbook/assets/image (18) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-<img src="../../../.gitbook/assets/image (27) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (27).png" alt="" data-size="original">
 
 When you're done, make sure it looks ok and then, click approve and then disperse token
 
-<img src="../../../.gitbook/assets/image (13) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 </details>
 
@@ -155,16 +162,16 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1) (2).png>)****
+****![](<../../../.gitbook/assets/image (7) (1).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
 
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11).png>)
 
-Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
+Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (2).png>)
 
 **Note:** You can only create payouts for completed epochs.
 

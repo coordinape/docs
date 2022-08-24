@@ -25,7 +25,7 @@
     * [Allocate GIVE](get-started/get-started/new-coordinape-members/allocate-give.md)
     * [Get Paid](get-started/get-started/new-coordinape-members/get-paid.md)
 * [🏠 Organizations](get-started/organizations/README.md)
-  * [🔒 CoVaults](get-started/organizations/vaults/README.md)
+  * [🔒 CoVaults](get-started/organizations/vaults.md)
     * [🏗 Setting Up the Vault](get-started/organizations/vaults/setting-up-the-vault.md)
     * [🖋 Managing the Vault](get-started/organizations/vaults/managing-the-vault.md)
 * [⚪ Circles](get-started/circles/README.md)

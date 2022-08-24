@@ -4,6 +4,16 @@ description: Pay your team with Coordinape
 
 # 🤑 Distributions & Payments
 
+## Reviewing the Epoch
+
+Before distributing the funds to their contributors, the Admin's responsibility is to ensure that the allocations look appropriate. Some things to be on the lookout for are:
+
+* Were any critical contributors missed in the allocations?
+* Did any contributors receive an allocation that seems out of line? (high or low)
+* Did everyone allocate who should have allocated?
+
+#### After you've spot-checked the allocations in the CSV or the admin panel, you can proceed with the distributions if another Epoch hasn't started.
+
 ## Paying members in Vaults
 
 After the Epoch ends, the Circle admin can review the results of the GIVE Circle.&#x20;
