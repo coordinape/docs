@@ -23,7 +23,7 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<../../.gitbook/assets/Edit Channel.jpg>)
 2. Go to I**ntegrations** -> **View Webhook**
 3. ![](../../.gitbook/assets/Integrations.jpg)\
-   <img src="../../.gitbook/assets/image (15) (1).png" alt="" data-size="original">\\
+   <img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">\\
 4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<../../.gitbook/assets/New Webhook.jpg>)\
    ![](<../../.gitbook/assets/image (26).png>)
 

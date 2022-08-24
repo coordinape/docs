@@ -8,4 +8,4 @@ Before distributing the funds to their contributors, the Admin's responsibility 
 
 For more information, see [distributions-and-payments](../../compensation/paying-your-team/distributions-and-payments/ "mention")
 
-![](<../../../.gitbook/assets/image (38).png>)
+![](<../../../.gitbook/assets/image (38) (1).png>)

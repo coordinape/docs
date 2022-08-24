@@ -10,7 +10,7 @@
     * [Creating A Circle](get-started/get-started/new-coordinape-admins/creating-a-circle.md)
     * [Upload Circle Logo](get-started/get-started/new-coordinape-admins/upload-circle-logo.md)
     * [Add Team Members](get-started/get-started/new-coordinape-admins/add-team-members.md)
-    * [Create CoVaults](get-started/get-started/new-coordinape-admins/create-covaults.md)
+    * [Create A Vault](get-started/get-started/new-coordinape-admins/create-a-vault.md)
     * [Set Fixed Payments](get-started/get-started/new-coordinape-admins/set-fixed-payments.md)
     * [Start an Epoch](get-started/get-started/new-coordinape-admins/start-an-epoch.md)
     * [Record Contributions](get-started/get-started/new-coordinape-admins/record-contributions.md)

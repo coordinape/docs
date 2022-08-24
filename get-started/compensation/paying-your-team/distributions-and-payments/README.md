@@ -22,7 +22,7 @@ After the Epoch ends, the Circle admin can review the results of the GIVE Circle
 2. Find “Review / Export” on the distributions page.&#x20;
 3. Finally, you can look at your Circle’s generosity using the Distribution Chart.
 
-![](<../../../../.gitbook/assets/image (38).png>)
+![](<../../../../.gitbook/assets/image (38) (1).png>)
 
 ### Submitting Distribution
 

@@ -8,7 +8,7 @@ description: Tell your team what you've done!
 
 At the beginning of each [Epoch](../../epochs/), Your circle will ask you to answer two questions to help your colleagues determine how to GIVE.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (4).png>)
 
 ### My Epoch
 

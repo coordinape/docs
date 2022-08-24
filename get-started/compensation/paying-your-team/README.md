@@ -71,7 +71,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Click apps, search Csv, and select CSV Airdrop
-  1. ![](<../../../.gitbook/assets/image (12) (1).png>)
+  1. ![](<../../../.gitbook/assets/image (12).png>)
 
 <!---->
 

@@ -6,7 +6,7 @@ description: How to use the csv airdrop to pay your team
 
 * Log into your safe
 * Click apps, search Csv, and select CSV Airdrop
-  1. ![](<../../../.gitbook/assets/image (12) (1).png>)
+  1. ![](<../../../.gitbook/assets/image (12).png>)
 *   Format your Coordinape csv correctly:
 
     Preparing a Transfer File
