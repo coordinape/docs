@@ -8,7 +8,7 @@ description: You did the work time to reap the rewards!
 
 Some Circles may distribute on the mainnet, use L2s on a non-ETH L1, and use Coordinape ahead of a token and will just be tracking the allocations until there is a token to distribute.
 
-![S/O to Zerion for the awesome transaction history!](<../../../.gitbook/assets/image (45) (1).png>)
+![S/O to Zerion for the awesome transaction history!](<../../../.gitbook/assets/image (45).png>)
 
 {% hint style="info" %}
 ### If your Circle is using CoVaults:

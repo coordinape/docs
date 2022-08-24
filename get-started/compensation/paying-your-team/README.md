@@ -2,7 +2,7 @@
 description: After the Epoch completes
 ---
 
-# Paying Your Team
+# 💲 Paying Your Team
 
 #### If you have a CoVault, you can submit a payment using the [Distribution Page](distributions-and-payments/). If not at the end of an Epoch, export a CSV of the epoch data for analysis and distribution.
 

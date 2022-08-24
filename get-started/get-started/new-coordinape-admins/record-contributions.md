@@ -24,7 +24,7 @@ The Epoch Statement details the work you have done this month or clarifies work 
 
 \
 **Best Practices**\
-\*\*\*\*It's best to summarize your work so that anyone from your team can understand what you did and its impact/goal. Quantify your work where ever possible for better understanding.
+It's best to summarize your work so that anyone from your team can understand what you did and its impact/goal. Quantify your work where ever possible for better understanding.
 
 \
 **Examples**

@@ -10,7 +10,7 @@ You can create a circle from the Coordinape homepage or by going to [https://app
 
 Clicking on the **Start a Circle** button will take you to the screen where you can create your Circle.
 
-![](<../../.gitbook/assets/image (18) (2).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 You can also create a new Circle from the admin panel by clicking the Add Circle button
 

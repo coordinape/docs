@@ -21,3 +21,7 @@ These are the steps to get started with the Coordinape.
 {% content-ref url="admin-best-practices.md" %}
 [admin-best-practices.md](admin-best-practices.md)
 {% endcontent-ref %}
+
+### Onboarding - 3 min
+
+{% embed url="https://www.youtube.com/watch?v=j2ixf0Isuuo" %}

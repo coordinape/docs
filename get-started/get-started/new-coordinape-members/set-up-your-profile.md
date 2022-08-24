@@ -48,7 +48,7 @@ _You can upload jpg, png, and gif format files to your profile as long as they'r
 1. Click Edit Profile
    * ![](<../../../.gitbook/assets/image (14) (1).png>)
 2. Click the pencil button on your profile picture.
-   * ![](<../../../.gitbook/assets/image (7) (1) (1).png>)
+   * ![](<../../../.gitbook/assets/image (7) (1) (1) (1).png>)
 3. Select a photo
 4. Click the upload button on your profile picture.
    * ![](<../../../.gitbook/assets/image (46).png>)

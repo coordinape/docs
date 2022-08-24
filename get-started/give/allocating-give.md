@@ -44,5 +44,5 @@ Allocate GIVE and send thank-you notes to your team members.
 
 ### You can also see your unallocated GIVE amount in the top right and GIVE Received.
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
