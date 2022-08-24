@@ -15,7 +15,7 @@ CoVaults allow you to compensate your team by storing funds in the vaults and se
 
 ## CoVaults Benefits
 
-By using Coordinape Vaults you can skip exporting the csv from Coordinape to execute batch payments with external tools, so the team will quickly be paid with funds from the vault after an Epoch. Also, if you choose a Yearn Vault, you will earn interest on top of your funds at Yearn market rates.
+By using Coordinape Vaults, you can skip exporting the CSV from Coordinape to execute batch payments with external tools, so the team will quickly be paid with funds from the vault after an Epoch. Also, if you choose a Yearn Vault, you will earn interest on top of your funds at Yearn market rates.
 
 Contributors are happy to receive prompt payment, and the organization earns yield. WIN-WIN!
 
@@ -31,8 +31,8 @@ Instead of managing multiple vaults and treasury management systems on top of Co
 
 You can now set fixed salaries for your team members so everyone can receive base compensation in addition to the GIVE Circle results. Instead of your members entirely depending on the GIVE circle to compensate for their efforts, they can receive peace of mind knowing they will get at least a base salary.
 
-{% content-ref url="../../get-started/new-coordinape-admins/fixed-payments.md" %}
-[fixed-payments.md](../../get-started/new-coordinape-admins/fixed-payments.md)
+{% content-ref url="../../compensation/paying-your-team/distributions-and-payments/fixed-payments.md" %}
+[fixed-payments.md](../../compensation/paying-your-team/distributions-and-payments/fixed-payments.md)
 {% endcontent-ref %}
 
 ### Getting Yield

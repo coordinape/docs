@@ -155,14 +155,14 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1) (1).png>)****
+****![](<../../../.gitbook/assets/image (7) (1) (2).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
 
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (3).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (2).png>)
 
 Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (1).png>)
 
