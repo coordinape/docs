@@ -50,15 +50,15 @@ For a deeper dive check out [distributions-and-payments](distributions-and-payme
 
 In the [Disperse ](broken-reference/)app after you have your csv you can distribute the tokens you wish to allocate by pasting the token address into the token address section
 
-<img src="../../../.gitbook/assets/image (18).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="original">
 
 Then you'll need to take the address and the amount and paste it into the box below.
 
-<img src="../../../.gitbook/assets/image (27).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original">
 
 When you're done, make sure it looks ok and then, click approve and then disperse token
 
-<img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -71,7 +71,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Click apps, search Csv, and select CSV Airdrop
-  1. ![](<../../../.gitbook/assets/image (12).png>)
+  1. ![](<../../../.gitbook/assets/image (2) (1).png>)
 
 <!---->
 
@@ -92,7 +92,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Upload your csv and click submit.
-  1. ![](<../../../.gitbook/assets/image (30).png>)
+  1. ![](<../../../.gitbook/assets/image (4) (1).png>)
 
 </details>
 
@@ -169,7 +169,7 @@ You will be asked to sign a message that gives us permissions to access your Coo
 
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (1).png>)
 
 Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (2).png>)
 

@@ -16,7 +16,7 @@ _For more information on admin vouching settings_
 
 ## Nominating a Contributor
 
-![](../../.gitbook/assets/vouching-process.jpg)
+![](<../../.gitbook/assets/vouching-process (1).jpg>)
 
 Usually, the vouching process will start on the social layer, via conversation or collaboration, realizing that someone in the community should add to a Circle.
 
@@ -24,7 +24,7 @@ When this happens, any Circle member who is eligible to vouch can nominate a new
 
 ![](<../../.gitbook/assets/image (11) (2).png>)
 
-![](../../.gitbook/assets/vouching-nominate2.jpg)
+![](<../../.gitbook/assets/vouching-nominate2 (1).jpg>)
 
 ## Vouching
 

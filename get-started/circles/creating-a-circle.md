@@ -89,4 +89,4 @@ _Explore potential use cases and frameworks for your organization_
 
 After you click **Launch Circle,** you're in! You've created your first Circle, and you are one step closer to compensating and encouraging your team.
 
-![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success.png>)
+![Next Step Adding your Team Members](<../../.gitbook/assets/Circle Success (1).png>)

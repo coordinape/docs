@@ -9,7 +9,9 @@ coverY: 0
 
 CoVaults allow you to compensate your team by storing funds in the vaults and sending payments promptly after a work cycle [(Epoch)](../epochs/) ends. Anyone can fund a vault in your organization, which is perfect for fundraising via proposals or grants. In addition to paying your team, you can earn [interest based on the current APYs offered by Yearn](https://docs.yearn.finance/getting-started/products/yvaults/overview). Vaults also enable you to set allowances for distributions per Circle.
 
-![Two funded Vaults](../../.gitbook/assets/Vaults.png)
+{% embed url="https://youtu.be/Yu07087QYpM" %}
+Vault Community Call Walkthrough
+{% endembed %}
 
 ## CoVaults Benefits
 

@@ -14,22 +14,22 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 * Inform users that an epoch is active
 
-![](<../../.gitbook/assets/Bot Comment.jpg>)
+![](<../../.gitbook/assets/Bot Comment (1).jpg>)
 
 * Let users know when the epoch ends
 
 ### How to add "Caesar" the discord bot to your teams Discord Channel
 
-1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<../../.gitbook/assets/Edit Channel.jpg>)
+1. Click **Edit Channel** on the channel where you want Coordinape notifications to appear. ![](<../../.gitbook/assets/Edit Channel (1).jpg>)
 2. Go to I**ntegrations** -> **View Webhook**
 3. ![](../../.gitbook/assets/Integrations.jpg)\
-   <img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">\\
-4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<../../.gitbook/assets/New Webhook.jpg>)\
-   ![](<../../.gitbook/assets/image (26).png>)
+   <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">\\
+4. Create **New Webhook** and **Name it** "Coordinape" _(Naming isn't required but it will help your users know where the notifications are coming from)_ click on **Copy Webhook URL**![](<../../.gitbook/assets/New Webhook (1).jpg>)\
+   ![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
 4\. Go to Coordinape app where you're an Admin and click the **Admin Tab** ![](../../.gitbook/assets/Admin.jpg)
 
-5\. Click **Edit Circle Settings** Button and click on **edit webhook** ![](<../../.gitbook/assets/Circle Settings.jpg>)
+5\. Click **Edit Circle Settings** Button and click on **edit webhook** ![](<../../.gitbook/assets/Circle Settings (1).jpg>)
 
 6\. **Paste the webhook url** from the Discord bot into text field and **click save** ![](<../../.gitbook/assets/Discord Webook.jpg>)
 

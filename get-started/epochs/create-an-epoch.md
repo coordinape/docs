@@ -26,7 +26,7 @@ Best practice is for the [Circle Admin](../admin/) to add all team members to th
 
 Once you save the Epoch, you will see the upcoming Epoch in the Admin panel. You can edit Epochs before and after the start time. However, you cannot edit epochs after they have ended.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (2).png>)
 
 ### **How long should your Epoch be?**
 

@@ -25,7 +25,7 @@ You will be asked to sign a message that gives us permissions to access your Coo
 **Note:** We do not do any kind of write operations to your Coordinape circles. We use these permissions only to get the details of your circles and epochs.
 {% endhint %}
 
-**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11).png>)
+**3. It will display all the circles on Coordinape associated with the connected wallet**![](<../../../.gitbook/assets/image (11) (1).png>)
 
 Click on any of the circles to view all the epochs of that circle.![](<../../../.gitbook/assets/image (6) (2).png>)
 
