@@ -10,7 +10,7 @@ If you want to know more about Coordinape, please contact us.
 
 #### [Join Our Discord ](https://discord.coordinape.com/)- Fastest Response&#x20;
 
-We have office hours on Mondays and Thursdays we'd be happy to walk you through setting up your Circle, Org, or DAO.
+We have office hours on Mondays and Thursdays. We'd be happy to walk you through setting up your Circle, Org, or DAO.
 
 * [Message Us on Twitter ](https://twitter.com/coordinape)
 * [Email](mailto:support@coordinape.com) - support@coordinape.com
