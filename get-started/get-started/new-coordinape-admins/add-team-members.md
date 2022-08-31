@@ -16,23 +16,77 @@ Once you've started your Circle, two members will be You and Coordinape.&#x20;
 >
 > The address associated with the Coordinape user is our donation address we can accept donations on EVM compatible chains.
 
-### Adding Your Team to Coordinape
+### How to Add Your Team to Coordinape
 
-Before you start adding team members, you will need to gather their wallet addresses. We recommend putting them in a CSV or secured document, so you can copy and paste them into Coordinape. _In the future there will be more ways to upload your team but currently you'll need to do it one at a time.  you will be able to add members via our Discord Bot_
+{% tabs %}
+{% tab title="Manually" %}
+<figure><img src="../../../.gitbook/assets/Add members Manual.gif" alt=""><figcaption></figcaption></figure>
 
-To add users to your Circle, Follow these steps:
+1. Click Admin
+2. Click Add Members
+3. Click Magic Link
+4. Copy Link
+5. Share Link!&#x20;
+6. **Done!**&#x20;
 
-<figure><img src="../../../.gitbook/assets/Add Members.gif" alt=""><figcaption></figcaption></figure>
+Users will be added with the default settings:
 
-1. Click Add Contributor
-2. Fill out the fields in the modal.
-3.  Edit the users in the admin screen.
+* Opted in to sending and receiving GIVE
+* 100 Starting GIVE
+  * This can be adjusted **when there's no active Epoch** [(What's an Epoch?)](start-an-epoch.md) The more tokens a member has, the greater the influence over the member's compensation. _Consider lowering starting tokens for newer members or increasing tokens for trusted members._
+* Non-Admin
+* 0 Fixed Payments
 
-    Details on the settings are below 👇
+_User settings can be changed from the Admin Screen_
+{% endtab %}
+
+{% tab title="Magic Link" %}
+<figure><img src="../../../.gitbook/assets/Add members Magic.gif" alt=""><figcaption></figcaption></figure>
+
+1. Click Admin
+2. Click Add Members
+3. Enter Name and ETH Address
+4. Click Add Members
+5. **Done!**&#x20;
+
+Users will be added with the default settings:
+
+* Opted in to sending and receiving GIVE
+* 100 Starting GIVE
+* Non-Admin
+* 0 Fixed Payments
+
+_User settings can be changed from the Admin Screen_
+{% endtab %}
+
+{% tab title="CSV Import" %}
+<figure><img src="../../../.gitbook/assets/CSV users.gif" alt=""><figcaption><p>How to add Contributors to Coordinape</p></figcaption></figure>
+
+1. Click Admin
+2. Click Add Members
+3. Click CSV Import
+4. Select the CSV you want to add
+   1. Data should be Name, Eth address
+5. Click Add Members
+
+**Done!**&#x20;
+
+Users will be added with the default settings:
+
+* Opted in to sending and receiving GIVE
+* 100 Starting GIVE
+* Non-Admin
+* 0 Fixed Payments
+
+_User settings can be changed from the Admin Screen_
+{% endtab %}
+{% endtabs %}
 
 {% tabs %}
 {% tab title="Are They Admin" %}
-Circles can have multiple admins, but be careful because admins will have full access to your Circle settings.
+Circles can have multiple admins
+
+🚨 Admins will have full access to your Circle settings, including the ability to remove other admins
 {% endtab %}
 
 {% tab title="Can Give" %}
@@ -40,16 +94,16 @@ Circles can have multiple admins, but be careful because admins will have full a
 * If No, the contributor will not be able to allocate GIVE
 {% endtab %}
 
-{% tab title="Forced Opted Out" %}
-* If Yes, the contributor will not be able to receive GIVE and will not have the option to Opt-in without admin permission
-* If No, the contributor will be able to receive GIVE
+{% tab title="Can Receive" %}
+If ✅ they can receive GIVE from the Circle they can opt out if they choose
+
+If ❌ they will only be eligible to receive Notes but can opt-in on their own
+
+If Forced ❌ the admin has opted them out of receiving GIVE and they cannot Opt-In
 {% endtab %}
 
-{% tab title="Opted Out" %}
-* If No, the contributor will be able to receive a GIVE after they Opt-in in their [Epoch settings](record-contributions.md)
-* If Yes, the contributor will have Opted in and immediately be eligible to receive GIVE
-
-_Leaving this toggle as NO prevents people from receiving GIVE allocations without logging into Coordinape to allocate to their peers. It may result in them getting fewer allocations if they wait until the end of the epoch to opt-in though_
+{% tab title="Fixed Payment" %}
+A user can be set up to receive fixed payments at the end of each epoch if fixed payments are enabled. To see more check this out - [fixed-payments.md](../../compensation/paying-your-team/distributions-and-payments/fixed-payments.md "mention")
 {% endtab %}
 {% endtabs %}
 

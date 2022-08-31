@@ -20,7 +20,7 @@ Best practice is to add all team members to the Circle before starting your Epoc
 4. **Should this Epoch repeat?** Do you want the Epoch to restart automatically?
 5. **Save.** Are you ready to start?!
 
-![](<../../../.gitbook/assets/Create Epoch (1).gif>)
+![](<../../../.gitbook/assets/Create Epoch.gif>)
 
 
 

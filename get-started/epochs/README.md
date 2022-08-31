@@ -11,7 +11,7 @@ An Epoch is a period when your circle members can record contributions, leave no
 
 To start an Epoch go to the Overview page and select your Circle, then click create an Epoch
 
-![](<../../.gitbook/assets/Create Epoch.gif>)
+![](<../../.gitbook/assets/Create Epoch (1).gif>)
 
 ### Start of an Epoch
 

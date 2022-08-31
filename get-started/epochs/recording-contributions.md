@@ -2,7 +2,7 @@
 description: Show off your work!
 ---
 
-# 🏃 Recording Contributions
+# Recording Contributions
 
 ### My Epoch
 

@@ -30,7 +30,7 @@ The Allocation Page lets you appreciate your selected teammates by sending them 
 {% endtab %}
 
 {% tab title="Member Card" %}
-![](<../../.gitbook/assets/How\_to\_Coordinape15 (1).jpg>)
+![](<../../images/How\_to\_Coordinape15 (1).jpg>)
 {% endtab %}
 {% endtabs %}
 
@@ -44,5 +44,5 @@ Allocate GIVE and send thank-you notes to your team members.
 
 ### You can also see your unallocated GIVE amount in the top right and GIVE Received.
 
-![](<../../.gitbook/assets/image (6) (3).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 

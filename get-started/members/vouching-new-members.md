@@ -16,7 +16,7 @@ _For more information on admin vouching settings_
 
 ## Nominating a Contributor
 
-![](<../../.gitbook/assets/vouching-process (1).jpg>)
+![](../../images/vouching-process.jpg)
 
 Usually, the vouching process will start on the social layer, via conversation or collaboration, realizing that someone in the community should add to a Circle.
 
@@ -24,13 +24,13 @@ When this happens, any Circle member who is eligible to vouch can nominate a new
 
 ![](<../../.gitbook/assets/image (11) (2).png>)
 
-![](<../../.gitbook/assets/vouching-nominate2 (1).jpg>)
+![](<../../images/vouching-nominate2 (1).jpg>)
 
 ## Vouching
 
 Once nominated, other Circle members will see that the potential collaborator is eligible for membership, and they can take the step of vouching for the member if they so choose.
 
-![](../../.gitbook/assets/vouching-vouch2.jpg)
+![](../../images/vouching-vouch2.jpg)
 
 If the required number of members vouch for a new contributor, Coordinape adds the member to the circle. Then, they can log in with their favorite wallet app, set up profiles, and begin to receive or send GIVE.
 

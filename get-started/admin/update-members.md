@@ -8,25 +8,24 @@ description: Change Circle Member Settings
 
 If you want to change your initial settings for a team member, you can update them in the Admin panel.
 
-![The Admin Panel](<../../.gitbook/assets/Edit Contributor.gif>)
+<figure><img src="../../.gitbook/assets/Edit Member.gif" alt=""><figcaption></figcaption></figure>
 
 ### Member Settings
 
 You can edit the following attributes:
 
 * Starting Tokens
+  * By default all users start with 100 GIVE tokens, this can be adjusted as needed when there's no active Epoch [(What's an Epoch)](../get-started/new-coordinape-admins/start-an-epoch.md)
+* Fixed Payment Amount
 * Admin Permissions
-* GIVE
-* Forced Opt-Out
-* Opt-Out
+* Send
+* Receive
 
 {% tabs %}
-{% tab title="Starting Tokens" %}
-By default all users start with 100 GIVE tokens, this can be adjusted as needed when there's no active Epoch [(What's an Epoch)](../get-started/new-coordinape-admins/start-an-epoch.md)
-{% endtab %}
+{% tab title="Admin" %}
+Circles can have multiple admins
 
-{% tab title="Are They Admin" %}
-Circles can have multiple admins, but be careful because admins will have full access to your circle settings.
+🚨 Admins will have full access to your Circle settings, including the ability to remove other admins
 {% endtab %}
 
 {% tab title="Can Give" %}
@@ -34,21 +33,21 @@ Circles can have multiple admins, but be careful because admins will have full a
 * If No, the contributor will not be able to allocate GIVE
 {% endtab %}
 
-{% tab title="Forced Opted Out" %}
-* If Yes, the contributor will not be able to receive GIVE and will not have the option to Opt-in without admin permission
-* If No, the contributor will be able to receive GIVE
+{% tab title="Can Receive" %}
+* If ✅ they can receive GIVE from the Circle they can opt out if they choose
+* If ❌ they will only be eligible to receive Notes but can opt-in on their own
+* If Forced ❌ the admin has opted them out of receiving GIVE and they cannot Opt-In
 {% endtab %}
 
-{% tab title="Opted Out" %}
-* If No, the contributor will be able to receive GIVE after they Opt-in in their [Epoch settings](../get-started/new-coordinape-admins/record-contributions.md)
-* If Yes, the contributor will have Opted in and immediately eligible to receive give
-
-_Leaving this toggle as NO prevents people from receiving GIVE allocations without logging into Coordinape to allocate to their peers. It may result in them getting fewer allocations if they wait until the end of the epoch to opt-in though_
+{% tab title="Untitled" %}
+A user can be set up to receive fixed payments at the end of each epoch if fixed payments are enabled. To see more check this out - [fixed-payments.md](../compensation/paying-your-team/distributions-and-payments/fixed-payments.md "mention")
 {% endtab %}
 {% endtabs %}
 
+
+
 ## Step By Step
 
-* Click the Pencil - Members may be edited by clicking the pencil next to their name.
-* Edit Settings - You can enter their name, starting tokens, admin status, force opt-out, and whether or not they can send GIVE
-* Delete User - You can delete users from the Circle by clicking the trashcan.
+* Click the Edit button next to the Contributor Name
+* Edit Settings - You can enter their name, starting tokens, admin status, fixed payment amount, and whether or not they can send GIVE
+* Delete User - You can delete users from the Circle by clicking the delete button.

@@ -27,7 +27,7 @@ To update your profile information (Profile image, Skills, Biography, and Links)
 * Change the Desired Fields
 * Click Save
 
-![](../../../.gitbook/assets/How\_to\_Coordinape13.jpg)
+![](<../../../images/How\_to\_Coordinape13 (1).jpg>)
 
 ### **Images**
 
@@ -38,17 +38,17 @@ _You can upload jpg, png, and gif format files to your profile as long as they'r
 #### Editing the Background
 
 1. Click the edit background button
-   * ![](<../../../.gitbook/assets/image (42).png>)
+   * ![](<../../../.gitbook/assets/image (1) (5) (1).png>)
 2. Select a new background image (Suggested 1600x200)
 3. Click Upload Background
-   * ![](<../../../.gitbook/assets/image (34).png>)
+   * ![](<../../../.gitbook/assets/image (24) (1).png>)
 
 #### Editing your profile picture
 
 1. Click Edit Profile
-   * ![](<../../../.gitbook/assets/image (37).png>)
+   * ![](<../../../.gitbook/assets/image (14).png>)
 2. Click the pencil button on your profile picture.
-   * ![](<../../../.gitbook/assets/image (36).png>)
+   * ![](<../../../.gitbook/assets/image (7) (5).png>)
 3. Select a photo
 4. Click the upload button on your profile picture.
    * ![](<../../../.gitbook/assets/image (46).png>)
