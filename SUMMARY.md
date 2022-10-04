@@ -67,8 +67,9 @@
   * [Administrative Permissions](info/documentation/administrative-permissions.md)
   * [Discord Bot](info/documentation/discord\_bot.md)
 * [Integrations](info/integrations/README.md)
-  * [Parcel](info/integrations/parcel.md)
   * [Dework](info/integrations/dework.md)
+  * [Parcel](info/integrations/parcel.md)
+  * [Wonderverse](info/integrations/wonderverse.md)
 
 ## support
 
