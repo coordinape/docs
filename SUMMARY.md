@@ -63,7 +63,7 @@
   * [Permissionless Circles](info/documentation/permissionless\_circle.md)
   * [Who To Gift](info/documentation/who\_to\_gift.md)
   * [Vouching System](info/documentation/vouching.md)
-  * [CoVaults Techincal](info/documentation/coordinape-vaults.md)
+  * [CoVaults Smart Contracts](info/documentation/coordinape-vaults.md)
   * [Administrative Permissions](info/documentation/administrative-permissions.md)
   * [Discord Bot](info/documentation/discord\_bot.md)
 * [Integrations](info/integrations/README.md)
