@@ -37,6 +37,12 @@ See below for links to our security audits.
 
 The addresses currently in use on [app.coordinape.com](https://app.coordinape.com) are stored in [deploymentInfo.json](https://github.com/coordinape/coordinape/blob/main/hardhat/deploymentInfo.json). The top-level sections in that JSON file are keyed by chain ID, i.e. `1` is mainnet and `5` is Görli.
 
+To see the vault implementation currently in use, you can follow this chain of properties:
+
+* `ApeVaultFactory` in `deploymentInfo.json`: [0xb06E1FF...](https://etherscan.io/address/0xb06e1ff89f95699e60e26980a049bd8dff4e6f06#readContract)
+* the factory's `beacon` property: [0x7BD45da...](https://etherscan.io/address/0x7BD45dabb998D8E29b5DE353112E5f4EbF742142#readContract)
+* the beacon's `implementation` property: [0xd92e89e...](https://etherscan.io/address/0xd92e89e294694b0B38937d7e9A316164500e2858#code)
+
 ### Future Functionality
 
 There is some functionality present in the contracts that are not supported by our front-end app:
