@@ -6,8 +6,6 @@ description: Coordinape White paper, Tooling and Integration Information
 
 ## Coordinape: How It Works
 
-Coordinape implementation is off-chain while we continue to develop our on-chain version, using an EVM compatible L2 or side-chain.
-
 Coordinape's core is our Circles - groups of DAO participants that wish to distribute funds through a decentralized gifting process. Each Circle can define the rules of participation -- it can grow its network permissionless, set parameters around some aspects of its game mechanics, and toggle network visibility through centralized admin or internal governance.
 
 {% embed url="https://youtu.be/J8oGun8EKDE" %}
@@ -19,8 +17,6 @@ Circles run in Epochs: periods in which constituent contributors can send each o
 GIVE has no value if it's not received by another Circle member -- the gifting process defines the per-member payout from the Circle's budget.
 
 When the Epoch ends, each member has received the GIVE can be exchanged for a pro-rate amount of the monthly treasury budget.
-
-
 
 ## What They Say About Us
 
@@ -35,4 +31,4 @@ When the Epoch ends, each member has received the GIVE can be exchanged for a pr
 * [APING IN - EP #1 - Bankless DAO x Cre8rDao talk Coordinape](https://www.youtube.com/watch?v=2rFNiNCCQa8)
 * [APING IN - EP #2 - Masq Network x Cre8rDAO talk Coordinape](https://www.youtube.com/watch?v=vGpNgYMFO84)
 * [APING IN - EP #3 - PoolTogether x Cre8rDAO talk Coordinape](https://www.youtube.com/watch?v=WTmzObc8f0o)
-* [APING IN - EP #4 - Forefront x Cre8rDAO talk Coordinape ](https://www.youtube.com/watch?v=Y\_Y2zlso0Os)
+* [APING IN - EP #4 - Forefront x Cre8rDAO talk Coordinape](https://www.youtube.com/watch?v=Y\_Y2zlso0Os)
