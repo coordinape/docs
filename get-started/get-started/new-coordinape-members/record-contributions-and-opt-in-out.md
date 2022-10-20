@@ -10,6 +10,24 @@ At the beginning of each [Epoch](../../epochs/), Your circle will ask you to ans
 
 ![](<../../../.gitbook/assets/image (7) (4).png>)
 
+{% hint style="info" %}
+🚨 NEW! 🚨   You can now add multiple contributions per epoch!
+{% endhint %}
+
+### Add Contributions
+
+Contributions will show up on your card when others are allocating to you and will help them have a better idea of what you were working in during the last epoch.
+
+<figure><img src="../../../.gitbook/assets/Contributions.gif" alt=""><figcaption></figcaption></figure>
+
+**How to add a contribution:**
+
+1. Click Add Contribution from the Overview page
+2. Click Add Contribution on the Contribution page
+3. Enter your contribution and wait for the autosave indicator to say changes saved!
+
+If you make a mistake or want to edit your contribution you can do that at any time during or before the epoch.&#x20;
+
 ### My Epoch
 
 {% tabs %}

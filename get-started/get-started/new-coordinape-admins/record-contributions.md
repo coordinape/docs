@@ -8,7 +8,7 @@ description: Tell others about your work
 
 An Epoch is quite simply a period of time. Admins can set Epochs for up to 100 days. During an Epoch, You can reflect on your contributions. Contributions can be for the current period of time or a prior period of time, as long as your whole Circle knows when the contributions are&#x20;
 
-![](../../../.gitbook/assets/Contributions.gif)
+![](<../../../.gitbook/assets/Contributions (1).gif>)
 
 ### Your Contributions
 
