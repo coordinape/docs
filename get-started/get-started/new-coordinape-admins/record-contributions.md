@@ -1,18 +1,18 @@
 ---
-description: Tell others about your work
+description: How your Circles know what their members did
 ---
 
-# Record Contributions
+# Contributions and Epoch Statements
 
-### My Epoch
+### Epoch Statements
 
-An Epoch is quite simply a period of time. Admins can set Epochs for up to 100 days. During an Epoch, You can reflect on your contributions. Contributions can be for the current period of time or a prior period of time, as long as your whole Circle knows when the contributions are&#x20;
+Each Epoch will prompt users to enter their Epoch Statement, which should function as a summary of all the contributions that user made during the active epoch.&#x20;
 
-![](<../../../.gitbook/assets/Contributions (1).gif>)
+### Contributions
 
-### Your Contributions
+During the Epoch your Circle Members will be able to add individual contributions that will reflect the various tasks they accomplished.&#x20;
 
-At the beginning of each Epoch, your circle will ask you to answer two questions, which will help your colleagues determine how to GIVE to you.
+(These contributions can also be populated via our [integrations](../../../info/integrations/ "mention") with web 3 work tracking tools like [dework.md](../../../info/integrations/dework.md "mention") and [wonderverse.md](../../../info/integrations/wonderverse.md "mention").)
 
 {% tabs %}
 {% tab title="Epoch Statement" %}
@@ -32,6 +32,22 @@ It's best to summarize your work so that anyone from your team can understand wh
 * Created the marketing plan for Coordinape, sent 6,000 tweets, and received 12,000 RTs
 * Pushed 6 Github issues to allow us to unblock back-end work and resolve bugs impacting the user.
 * Redesigned the landing page to guide users to the valuable part of our docs easier
+{% endtab %}
+
+{% tab title="Contributions" %}
+Users can enter contributions to easily track all of their contributions to the team.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**Best Practice:**&#x20;
+
+Enter a new contribution for the tasks that you complete, to add color to your epoch statement. The Epoch statement can function as a TLDR of all of your contributions.
+
+**Examples**:
+
+* Onboarding call with Bankless&#x20;
+* Crafted Tweet thread for ETH Vaults
+* Deployed Coordinape Vaults to new Chain
 {% endtab %}
 
 {% tab title="Opt-In / Opt-Out" %}

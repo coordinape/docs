@@ -4,7 +4,7 @@ description: Tell your team what you've done!
 
 # Record Contributions & Opt-in/out
 
-### Your Contributions
+### Your Epoch Statement
 
 At the beginning of each [Epoch](../../epochs/), Your circle will ask you to answer two questions to help your colleagues determine how to GIVE.
 
@@ -48,6 +48,24 @@ It's best to summarize your work so that anyone from your team can understand wh
 * Created the marketing plan for Coordinape, sent 6,000 tweets, and received 12,000 RTs
 * Pushed 6 Github issues to allow us to unblock back-end work and resolve bugs impacting the user.
 * Redesigned the landing page to guide users to the valuable part of our docs easier
+{% endtab %}
+
+{% tab title="Contributions" %}
+
+
+Users can enter contributions to easily track all of their contributions to the team.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**Best Practice:**&#x20;
+
+Enter a new contribution for the tasks that you complete, to add color to your epoch statement. The Epoch statement can function as a TLDR of all of your contributions.
+
+**Examples**:
+
+* Onboarding call with Bankless&#x20;
+* Crafted Tweet thread for ETH Vaults
+* Deployed Coordinape Vaults to new Chain
 {% endtab %}
 
 {% tab title="Opt-In / Opt-Out" %}
