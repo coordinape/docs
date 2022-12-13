@@ -73,6 +73,7 @@
 
 ## support
 
+* [Change Log](support/change-log.md)
 * [🇨🇭 Get Help](support/get-help.md)
 
 ## community
