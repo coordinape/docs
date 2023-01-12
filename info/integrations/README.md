@@ -4,8 +4,7 @@ description: A list of integrations into Coordinape
 
 # Integrations
 
-[Dework](dework.md)
-
-[Parcel](parcel.md)
-
-[Wonderverse](wonderverse.md)
+|                     |                     |                               |
+| ------------------- | ------------------- | ----------------------------- |
+| [Dework](dework.md) | [Parcel](parcel.md) | [Wonderverse](wonderverse.md) |
+| [Hedgey](hedgey.md) |                     |                               |

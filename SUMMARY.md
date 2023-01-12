@@ -71,6 +71,7 @@
   * [Dework](info/integrations/dework.md)
   * [Parcel](info/integrations/parcel.md)
   * [Wonderverse](info/integrations/wonderverse.md)
+  * [Hedgey](info/integrations/hedgey.md)
 
 ## support
 

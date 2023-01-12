@@ -37,7 +37,7 @@ It's best to summarize your work so that anyone from your team can understand wh
 {% tab title="Contributions" %}
 Users can enter contributions to easily track all of their contributions to the team.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 **Best Practice:**&#x20;
 
@@ -76,3 +76,4 @@ For more information, click here 👇
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
+

@@ -12,7 +12,7 @@ Your profile is consistent between Circles; if someone shares a Circle with you,
 * Your recent Epoch statements
 * Your biography
 * Your skills tags & links.
-* The first time you log in you will be asked to update your profile name. This will be the name that's displayed whenever you log in with your address ![](../../../.gitbook/assets/image.png)
+* The first time you log in you will be asked to update your profile name. This will be the name that's displayed whenever you log in with your address ![](<../../../.gitbook/assets/image (13).png>)
 
 **Note:** We recommend using the same name/PFP in Coordinape as the one used in the communication channel (e.g., Discord) to make it easier for members to recognize each other.
 
