@@ -65,6 +65,7 @@
   * [Vouching System](info/documentation/vouching.md)
   * [CoVaults Smart Contracts](info/documentation/coordinape-vaults.md)
   * [Administrative Permissions](info/documentation/administrative-permissions.md)
+  * [Email Login and Web3 Best Practices](info/documentation/email-login-and-web3-best-practices.md)
   * [Discord Bot](info/documentation/discord\_bot.md)
 * [Integrations](info/integrations/README.md)
   * [Dework](info/integrations/dework.md)
