@@ -8,7 +8,12 @@ Hedgey's Contributor Rewards allow DAOs and tokenized communities to distribute 
 
 **Notes:**
 
-* **Supported networks:** Ethereum, Polygon, Avalanche, Harmony, Fantom, Gnosis Chain, Celo, Boba, Arbitrum One, Optimism.
+* **Supported networks:** Ethereum only with Coordinape now
+
+{% hint style="info" %}
+Hedgey also supports Polygon, Avalanche, Harmony, Fantom, Gnosis Chain, Celo, Boba, Arbitrum One and Optimism so this integration could flourish across chains soon!&#x20;
+{% endhint %}
+
 * **Supported tokens:** Any standard token used for contributor rewards.
 * **GitHub documentation for Contributor Rewards can be found** [**here**](https://github.com/hedgey-finance/NFT\_OTC\_Core)**.**&#x20;
 * **Audit for Contributor Rewards can be found** [**here**](https://github.com/hedgey-finance/NFT\_OTC\_Core/blob/main/audits/Hedgey\_31032022\_SCAudit\_Report\_2.pdf)**.**&#x20;
