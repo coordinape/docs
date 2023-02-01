@@ -147,9 +147,8 @@ _Most of the Web3 tools and apps exist on a spectrum of the highlights above, so
 
 To put a cherry on top of this the teams building in web3/crypto today are doing so because they've caught a glimpse of the future.&#x20;
 
-* A future where a teen living in Somalia can make the same investments as an Elizabeth Warren.
-* A future where a woman in Iran can design an amazing website and get paid for their work regardless of her gender, or location
-* A future where a whistleblower can post uncensorable articles about their repressive government without fear of their data being deleted.&#x20;
-* A future where a refugee can protect their hard earned money from being stolen by a corrupt government.
+* open and transparent systems.
+* global communities.
+* sovereign and trustless infrastructures.
 
 If those things sound valuable, you're in the right place, if they don't, give it time.
