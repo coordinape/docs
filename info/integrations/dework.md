@@ -10,7 +10,7 @@ These steps are only for the Circle Admin.
 
 1. Click the _**Admin**_ tab
 2. Click _**Settings**_
-   1. ![](<../../.gitbook/assets/image (2).png>)
+   1. ![](<../../.gitbook/assets/image (2) (4).png>)
 3. Scroll down to "Integrations"
 4. Click _**Connect Dework**_
    1. ![](<../../.gitbook/assets/image (10).png>)
@@ -26,5 +26,5 @@ These Steps are for all users
 1. As tasks that are assigned to users in Dework are moved to done they will automatically be displayed on the users Coordinape Card
    1. ![](<../../.gitbook/assets/image (7).png>)
 2. If more than 1 user is assigned to the task in Dework the task will show up on all assigned users when it is completed.
-   1. ![](<../../.gitbook/assets/image (4).png>)
+   1. ![](<../../.gitbook/assets/image (4) (2).png>)
 3. If a task is moved from done back to in progress it will be removed from their card.
