@@ -4,7 +4,7 @@ description: For token gating your Circles
 
 # Guild
 
-If you want your circle to be gated (either by tokens, NFT, Discord or Twitter verification or whitelists) you can use our integration with Guild.xyz to make that happen.&#x20;
+If you want your circle to be gated (either by tokens, NFT, Discord, Telegram or Twitter verification or whitelists) you can use our integration with Guild.xyz to make that happen.&#x20;
 
 To do that click on the admin tab and then scroll to the integrations section and find Guild.xyz\
 \
