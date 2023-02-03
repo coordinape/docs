@@ -4,7 +4,7 @@ description: For token gating your Circles
 
 # Guild
 
-If you want your circle to be token gated you can use our integration with Guild.xyz to make that happen. \
+If you want your circle to be token, or NFT gated you can use our integration with Guild.xyz to make that happen. \
 \
 To add the integration check out the [Guild Docs here](https://docs.guild.xyz/guild) to set your Guild up, and then enter your Guild details here.&#x20;
 
