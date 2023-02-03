@@ -72,6 +72,7 @@
   * [Parcel](info/integrations/parcel.md)
   * [Wonderverse](info/integrations/wonderverse.md)
   * [Hedgey](info/integrations/hedgey.md)
+  * [Guild](info/integrations/guild.md)
 
 ## support
 
