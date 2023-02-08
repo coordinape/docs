@@ -16,7 +16,7 @@ Your profile is consistent between Circles; if someone shares a Circle with you,
 
 **Note:** We recommend using the same name/PFP in Coordinape as the one used in the communication channel (e.g., Discord) to make it easier for members to recognize each other.
 
-![Coordinape Member Profile](<../../../.gitbook/assets/image (20).png>)
+![Coordinape Member Profile](<../../../.gitbook/assets/image (20) (1).png>)
 
 ### Editing your Profile
 
@@ -47,7 +47,7 @@ _You can upload jpg, png, and gif format files to your profile as long as they'r
 #### Editing your profile picture
 
 1. Click Edit Profile
-   * ![](<../../../.gitbook/assets/image (14).png>)
+   * ![](<../../../.gitbook/assets/image (14) (3).png>)
 2. Click the pencil button on your profile picture.
    * ![](<../../../.gitbook/assets/image (7) (5).png>)
 3. Select a photo

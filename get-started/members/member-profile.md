@@ -28,7 +28,7 @@ Your profile is consistent between Circles; if someone shares a Circle with you,
 * Read your bio
 * Your skills tags & links.
 
-![Coordinape Member Profile](<../../.gitbook/assets/image (20).png>)
+![Coordinape Member Profile](<../../.gitbook/assets/image (20) (1).png>)
 
 ### Editing your Profile
 

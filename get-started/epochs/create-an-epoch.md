@@ -8,19 +8,39 @@ description: Get the team started in Coordinape
 
 A [Circle Admin](../admin/) needs to start an [Epoch](./) to get your projects started. Epochs allow admins to frame a date range you would like your team to work within. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.
 
-Best practice is for the [Circle Admin](../admin/) to add all team members to the Circle before starting the Epoch.
-
-![](<../../.gitbook/assets/Add Contributor (1) (1) (1).gif>)
+Best practice is for the [Circle Admin](../admin/) to add all team members to the Circle before starting the Epoch. For tips on how to add members see [add-team-members.md](../get-started/new-coordinape-admins/add-team-members.md "mention")
 
 **Starting an Epoch:**
 
-1. Set Start Date. Choose the date you want the Epoch to start.
-2. Choose Epoch Length. How long do you want this work period to last?
-3. Epoch Start Time. How soon do you want your team to add contributions & allocating? _Time is in UTC_
-4. Should this Epoch repeat? Do you want the Epoch to restart automatically?
-5. Save. Are you ready to start?!
+{% tabs %}
+{% tab title="Repeating Epoch" %}
+Details of a a repeating Epoch
 
-![](<../../.gitbook/assets/Create Epoch (1).gif>)
+#### Cycles
+
+*   Full Month
+
+    * Epochs will start on day 1 of the month and end at the end of the month, you only need to choose the month it starts.
+
+
+
+    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+* Custom
+  * You can determine the frequency and length of each epoch
+  * You will need to choose:
+    * Start Date
+    * Length (Number of days, weeks, months the Epoch will be active)
+    *   Frequency (How many days/weeks/months between Epochs)&#x20;
+
+        <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Non-Repeating Epoch" %}
+
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Admin Settings
 
