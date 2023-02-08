@@ -18,7 +18,7 @@ During the Epoch your Circle Members will be able to add individual contribution
 {% tab title="Epoch Statement" %}
 Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (2).png>)
 
 The Epoch Statement details the work you have done this month or clarifies work that the DAO wants to compensate.
 

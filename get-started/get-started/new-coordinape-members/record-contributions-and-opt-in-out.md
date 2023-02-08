@@ -34,7 +34,7 @@ If you make a mistake or want to edit your contribution you can do that at any t
 {% tab title="Epoch Statement" %}
 Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (2).png>)
 
 The Epoch Statement details your work this month or clarifies work that the DAO wants to compensate.
 
