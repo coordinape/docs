@@ -6,7 +6,7 @@ description: An Organization houses all of your teams in Coordinape.
 
 You set your Organization during the circle creation phase. This Organization will house all of your future Circles. You can do that from here [Create New Circle ](https://app.coordinape.com/new-circle)
 
-![Create your Org and first Circle! ](<../../../.gitbook/assets/New Circle.gif>)
+<figure><img src="../../../.gitbook/assets/Create Circle Darkmode.gif" alt=""><figcaption></figcaption></figure>
 
 ### Example:
 

@@ -23,9 +23,9 @@ To receive GIVE, Members write their contributions during the Epoch on the My Ep
 
 ### Dework Integration
 
-It is also possible to sync tasks completed in[ Dework](https://dework.xyz/) to make allocating GIVE easier during the Epoch.
+It is also possible to sync tasks completed in[ ](https://dework.xyz/)[dework.md](../../info/integrations/dework.md "mention") or in [wonderverse.md](../../info/integrations/wonderverse.md "mention")to make allocating GIVE easier during the Epoch.
 
-The Dework integration will only pull in tasks completed within an Epoch, so if you complete tasks outside of an active Epoch, you will still need to account for those tasks manually.
+The integrations will only pull in tasks completed within an Epoch, so if you complete tasks outside of an active Epoch, you will still need to account for those tasks manually.
 
 ![](https://storage.googleapis.com/assets.dework.xyz/uploads/a9f1fdfb-d4a7-4156-ad2b-39589d6b1721/B15C5226-11D2-4012-9148-AF6EB62C0304.jpeg)
 

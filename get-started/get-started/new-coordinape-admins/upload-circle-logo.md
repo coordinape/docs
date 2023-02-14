@@ -6,8 +6,11 @@ description: >-
 
 # Upload Circle Logo
 
-You can upload a Circle by clicking on the settings page
+To update the your Circle logo follow these steps.
 
-![ ](<../../../.gitbook/assets/Change Org Pic.gif>)
+1. Navigate to your circle
+2. Click Admin in the nav bar
+3. Click Select a file under the Circle logo
+   1. Select a jpg, png, or gif file under 10mb in size. (greater that 200x200px recommended)
 
-Then click the **Upload Circle Logo** button, select a jpg, png, or gif file under 10mb in size. (greater that 200x200px recommended)  and click save at the bottom of the screen
+<figure><img src="../../../.gitbook/assets/Dark Upldate Circle Logo.gif" alt=""><figcaption></figcaption></figure>

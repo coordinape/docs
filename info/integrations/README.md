@@ -7,4 +7,4 @@ description: A list of integrations into Coordinape
 |                     |                     |                               |
 | ------------------- | ------------------- | ----------------------------- |
 | [Dework](dework.md) | [Parcel](parcel.md) | [Wonderverse](wonderverse.md) |
-| [Hedgey](hedgey.md) | Guild               |                               |
+| [Hedgey](hedgey.md) | [Guild](guild.md)   |                               |

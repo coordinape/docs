@@ -18,21 +18,9 @@ _Learn More about GIVE Strategies_
 
 ### Allocate GIVE
 
-The Allocation Page allows you to appreciate the teammates you have selected by sending them GIVE. You can:
+The Allocation Page allows you to appreciate the teammates you have selected by sending them GIVE and Notes. You can browse member Epoch Statements, and Contributions to help determine how much Give to allocate across your team.
 
-* Browse member Epoch Statements
-* Explore their member profiles
-* Discover member graph location.
-
-{% tabs %}
-{% tab title="Allocate Page" %}
-![](<../../../.gitbook/assets/image (10) (1) (1).png>)
-{% endtab %}
-
-{% tab title="Member Card" %}
-![](<../../../images/How\_to\_Coordinape15 (1).jpg>)
-{% endtab %}
-{% endtabs %}
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### Appreciate Your Team
 
@@ -44,6 +32,6 @@ Allocate GIVE and type notes to send to contributors.
 
 It is advised not to allocate GIVEs based on appearance or equality. Instead, GIVE should be allocated according to the amount of value created by members.
 
-### You can also see GIVE amount to allocate in the top right and GIVE Received.
+### You can also see GIVE amount to allocate in the top left and GIVE received on the left hand side bar.
 
-![](<../../../.gitbook/assets/image (17) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

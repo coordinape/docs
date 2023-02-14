@@ -9,7 +9,7 @@ coverY: 0
 
 An Organization houses all of your Circles in Coordinape. You set your organization during the Circle creation phase.
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../get-started/new-coordinape-admins/setting-up-your-organization.md" %}
 [setting-up-your-organization.md](../get-started/new-coordinape-admins/setting-up-your-organization.md)

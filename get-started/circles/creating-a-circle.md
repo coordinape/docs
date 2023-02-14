@@ -10,29 +10,21 @@ You can create a circle from the Coordinape homepage or by going to [https://app
 
 Clicking on the **Start a Circle** button will take you to the screen where you can create your Circle.
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-You can also create a new Circle from the admin panel by clicking the Add Circle button
+You can also create a new Circle in your current Org from the admin panel by clicking the Add Circle button
 
-![](<../../.gitbook/assets/image (19) (2).png>)
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ### Circle Information
 
 Complete the form below to set up your organization. The Circle Admin can change these fields once the Circle is created, but only by the Circle admin.
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 ### Form Information
 
 {% tabs %}
-{% tab title="Username" %}
-This will be how other users will see your name in the circle. (If you are already in other circles, please use the same name used in the other circles.)
-{% endtab %}
-
-{% tab title="ETH Address" %}
-**ETH address:** Your wallet address derives from the wallet you connected to Coordinape
-{% endtab %}
-
 {% tab title="Circle Name" %}
 **Circle Name:** This will be the circle name that your users will select.
 
@@ -89,4 +81,4 @@ _Explore potential use cases and frameworks for your organization_
 
 After you click **Launch Circle,** you're in! You've created your first Circle, and you are one step closer to compensating and encouraging your team.
 
-![Next Step Adding your Team Members](<../../images/Circle Success.png>)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

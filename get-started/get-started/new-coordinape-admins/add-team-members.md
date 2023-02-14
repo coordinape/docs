@@ -20,14 +20,11 @@ Once you've started your Circle, two members will be You and Coordinape.&#x20;
 
 {% tabs %}
 {% tab title="Manually" %}
-<figure><img src="../../../.gitbook/assets/Add members Manual.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dark Add Memers (1).gif" alt=""><figcaption></figcaption></figure>
 
-1. Click Admin
-2. Click Add Members
-3. Click Magic Link
-4. Copy Link
-5. Share Link!&#x20;
-6. **Done!**&#x20;
+1. Click Members
+2. Enter their Name and Eth Address (Users will be able to update their names when they log in)
+3. **Done!**&#x20;
 
 Users will be added with the default settings:
 
@@ -37,17 +34,20 @@ Users will be added with the default settings:
 * Non-Admin
 * 0 Fixed Payments
 
-_User settings can be changed from the Admin Screen_
+_User settings can be changed from the MemberScreen_
 {% endtab %}
 
-{% tab title="Magic Link" %}
-<figure><img src="../../../.gitbook/assets/Add members Magic.gif" alt=""><figcaption></figcaption></figure>
+{% tab title="Invite Link" %}
+<figure><img src="../../../.gitbook/assets/Dark Add Memers Magic.gif" alt=""><figcaption></figcaption></figure>
 
-1. Click Admin
-2. Click Add Members
-3. Enter Name and ETH Address
-4. Click Add Members
-5. **Done!**&#x20;
+1. Click Members
+2. Copy the Invite Link&#x20;
+3. Send it to your team!
+4. **Done!**&#x20;
+
+{% hint style="info" %}
+This link will let anyone into your circle so be careful using it!
+{% endhint %}
 
 Users will be added with the default settings:
 
@@ -60,14 +60,11 @@ _User settings can be changed from the Admin Screen_
 {% endtab %}
 
 {% tab title="CSV Import" %}
-<figure><img src="../../../.gitbook/assets/CSV users.gif" alt=""><figcaption><p>How to add Contributors to Coordinape</p></figcaption></figure>
-
-1. Click Admin
-2. Click Add Members
-3. Click CSV Import
-4. Select the CSV you want to add
+1. Click Members
+2. Click CSV Import
+3. Select the CSV you want to add
    1. Data should be Name, Eth address
-5. Click Add Members
+4. Click Add Members
 
 **Done!**&#x20;
 
@@ -79,6 +76,10 @@ Users will be added with the default settings:
 * 0 Fixed Payments
 
 _User settings can be changed from the Admin Screen_
+{% endtab %}
+
+{% tab title="Guild.xzy" %}
+See the instructions in [#guild.xzy](add-team-members.md#guild.xzy "mention") for how to use this for a way to authenticate users.
 {% endtab %}
 {% endtabs %}
 

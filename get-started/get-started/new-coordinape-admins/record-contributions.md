@@ -12,15 +12,17 @@ Each Epoch will prompt users to enter their Epoch Statement, which should functi
 
 During the Epoch your Circle Members will be able to add individual contributions that will reflect the various tasks they accomplished.&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
 (These contributions can also be populated via our [integrations](../../../info/integrations/ "mention") with web 3 work tracking tools like [dework.md](../../../info/integrations/dework.md "mention") and [wonderverse.md](../../../info/integrations/wonderverse.md "mention").)
 
 {% tabs %}
 {% tab title="Epoch Statement" %}
-Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.
-
-![](<../../../.gitbook/assets/image (22) (2).png>)
+During an active Epoch you can set your Epoch Statement. Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.&#x20;
 
 The Epoch Statement details the work you have done this month or clarifies work that the DAO wants to compensate.
+
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 \
 **Best Practices**\
@@ -37,7 +39,7 @@ It's best to summarize your work so that anyone from your team can understand wh
 {% tab title="Contributions" %}
 Users can enter contributions to easily track all of their contributions to the team.
 
-<figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 **Best Practice:**&#x20;
 
@@ -50,24 +52,26 @@ Enter a new contribution for the tasks that you complete, to add color to your e
 * Deployed Coordinape Vaults to new Chain
 {% endtab %}
 
-{% tab title="Opt-In / Opt-Out" %}
-**Opt-Out**
+{% tab title="Give Tokens" %}
+**From the Members Page you can manage your Circle Member's settings**
 
-If you _Opt-Out_, you are signaling that you have other income streams in your Circle sufficient for you, and Coordinape should not compensate your work. **It will be impossible for others to give to you.**
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-**Opt-In**
+#### Give Tokens
 
-If you _Opt-In_, you will be able to receive GIVE. You may use the Profile Statement to detail why.
+Decide if a user can Give tokens in this Epoch
 
-**Settings**
+#### Receive Tokens
 
-You can change settings throughout the Epoch or future Epochs by accessing your profile on the Allocate Page to change them. \\
+Decide if a user can Receive tokens (Admin can lock a user from receiving as well)
 
-For example, if you change your status to Opt-Out after receiving GIVE during an epoch, any GIVE you have accrued will return to its senders.
+#### Give Allotment
 
-**Admin Override**
+How many Give tokens this user can allocate
 
-It is also possible that your circle admin may force you to opt-out if you are not eligible to receive GIVE.\
+#### Fixed Payment
+
+How much fixed payment this user will receive at the end of this Epoch.\
 \
 For more information, click here 👇
 

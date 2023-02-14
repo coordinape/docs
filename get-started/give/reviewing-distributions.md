@@ -10,8 +10,8 @@ Before distributing the funds to their contributors, the Admin's responsibility 
 * Did any contributors receive an allocation that seems out of line? (high or low)
 * Did everyone allocate who should have allocated?
 
-#### After you've spot-checked the allocations in the CSV ![](<../../.gitbook/assets/image (31).png>)
+#### After you've spot-checked the allocations in the Epoch Summary you can distribute the funds (See [distributions-and-payments](../compensation/paying-your-team/distributions-and-payments/ "mention") for how to do that)&#x20;
+
+#### ![](../../.gitbook/assets/image.png) ![](<../../.gitbook/assets/image (31) (1).png>)
 
 #### or the admin panel if another epoch hasn't started yet, you can proceed with the distributions.
-
-![Checking allocations from the admin panel](<../../.gitbook/assets/image (35).png>)

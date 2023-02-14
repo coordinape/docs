@@ -6,9 +6,9 @@ description: Tell your team what you've done!
 
 ### Your Epoch Statement
 
-At the beginning of each [Epoch](../../epochs/), Your circle will ask you to answer two questions to help your colleagues determine how to GIVE.
+During each [Epoch](../../epochs/) you will have the opportunity to summarize your contributions in by clicking on your name and entering an Epoch Statement. This will be displayed on your card when others are allocating to you.&#x20;
 
-![](<../../../.gitbook/assets/image (7) (4).png>)
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 🚨 NEW! 🚨   You can now add multiple contributions per epoch!
@@ -18,11 +18,11 @@ At the beginning of each [Epoch](../../epochs/), Your circle will ask you to ans
 
 Contributions will show up on your card when others are allocating to you and will help them have a better idea of what you were working in during the last epoch.
 
-<figure><img src="../../../.gitbook/assets/Contributions.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 **How to add a contribution:**
 
-1. Click Add Contribution from the Overview page
+1. Click Contributions from the menu bar
 2. Click Add Contribution on the Contribution page
 3. Enter your contribution and wait for the autosave indicator to say changes saved!
 
@@ -30,13 +30,15 @@ If you make a mistake or want to edit your contribution you can do that at any t
 
 ### My Epoch
 
+
+
 {% tabs %}
 {% tab title="Epoch Statement" %}
-Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.
+During an active Epoch you can set your Epoch Statement. Your statement is public for anyone in the Circle and will show up on your card during the allocation phase for other users to view.&#x20;
 
-![](<../../../.gitbook/assets/image (22) (2).png>)
+The Epoch Statement details the work you have done this month or clarifies work that the DAO wants to compensate.
 
-The Epoch Statement details your work this month or clarifies work that the DAO wants to compensate.
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 \
 **Best Practices**\
@@ -51,11 +53,9 @@ It's best to summarize your work so that anyone from your team can understand wh
 {% endtab %}
 
 {% tab title="Contributions" %}
-
-
 Users can enter contributions to easily track all of their contributions to the team.
 
-<figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 **Best Practice:**&#x20;
 
@@ -68,29 +68,9 @@ Enter a new contribution for the tasks that you complete, to add color to your e
 * Deployed Coordinape Vaults to new Chain
 {% endtab %}
 
-{% tab title="Opt-In / Opt-Out" %}
-**Opt-Out**
+{% tab title="Receive Give" %}
+You may wish not to receive GIVE during an Epoch. If that's' the case you can opt out by clicking no under receive Give, you'll still be in the Circle and able to allocate but others will not be able to Give to you.&#x20;
 
-If you _Opt-Out_, you are signaling that you have other income streams in your Circle sufficient for you, and Coordinape should not compensate your work. **It will be impossible for others to give to you.**
-
-**Opt-In**
-
-If you _Opt-In_, you will be able to receive GIVE. You may use the Profile Statement to detail why.
-
-**Settings**
-
-You can change settings throughout the Epoch or future Epochs by accessing your profile on the Allocate Page to change them. \\
-
-For example, if you change your status to Opt-Out after receiving GIVE during an epoch, any GIVE you have accrued will return to its senders.
-
-**Admin Override**
-
-It is also possible that your circle admin may force you to opt-out if you are not eligible to receive GIVE.\
-\
-For more information, click here 👇
-
-{% content-ref url="../../give/" %}
-[give](../../give/)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

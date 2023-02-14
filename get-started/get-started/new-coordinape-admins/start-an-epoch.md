@@ -2,9 +2,9 @@
 description: Get the team started in Coordinape
 ---
 
-# Start an Epoch
+# Schedule an Epoch
 
-To start the [allocation process](../new-coordinape-members/allocate-give.md), you need to start an Epoch. Epochs allow you to choose a date range you would like your team to allocate during. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.
+To start the [allocation process](../new-coordinape-members/allocate-give.md), you need to schedule an Epoch. Epochs allow you to choose a date range you would like your team to allocate during. Like traditional pay periods, members complete work within the Epoch time frame, submit contributions, then get paid after the Epoch ends.
 
 > EG: Yearn Finance does one week long epochs at the end of each month where the allocations are meant to cover the entire months work.
 >
@@ -28,7 +28,7 @@ Best practice is to add all team members to the Circle before starting your Epoc
 
 Once you save the Epoch, you will see the upcoming Epoch in the overview panel. You can edit Epochs before and after the start time. However, You cannot edit Epochs after they have ended.
 
-![After you saved an eph](<../../../.gitbook/assets/Edit Epoch (1).gif>)
+![After you saved an eph](<../../../.gitbook/assets/Edit Epoch (1) (1).gif>)
 
 ### **How long should your Epoch be?**
 

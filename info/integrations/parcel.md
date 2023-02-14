@@ -33,7 +33,7 @@ Click on any of the circles to view all the epochs of that circle.![](<../../.gi
 **Note:** You can only create payouts for completed epochs.
 {% endhint %}
 
-**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../.gitbook/assets/image (14) (2).png>)****
+**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../.gitbook/assets/image (14) (2) (1).png>)****
 
 **5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values sent to each recipient.
 

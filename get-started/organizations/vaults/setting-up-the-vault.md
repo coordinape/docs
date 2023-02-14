@@ -19,7 +19,7 @@ description: Preparing for Payment using CoVaults
 
 **\*PLEASE Note - At the time of CoVaults Launch, only one vault of a given token type per org can be created!** (You may create a Yearn version and a simple version, e.g. You may create both "Yearn DAI" & "DAI" CoVaults within the same org.)
 
-![Creating a Vault](<../../../.gitbook/assets/Create Vault.gif>)
+<figure><img src="../../../.gitbook/assets/Dark Vault.gif" alt=""><figcaption></figcaption></figure>
 
 ## **How to Fund a Vault**
 
