@@ -16,7 +16,7 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../.gitbook/assets/image (7) (1).png>)****
+****![](<../../.gitbook/assets/image (7) (1) (1).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message allowing us to access your Coordinape data.

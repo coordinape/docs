@@ -34,4 +34,4 @@ It is advised not to allocate GIVEs based on appearance or equality. Instead, GI
 
 ### You can also see GIVE amount to allocate in the top left and GIVE received on the left hand side bar.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

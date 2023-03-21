@@ -71,7 +71,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Click apps, search Csv, and select CSV Airdrop
-  1. ![](<../../../.gitbook/assets/image (2) (1).png>)
+  1. ![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
 <!---->
 
@@ -92,7 +92,7 @@ When you're done, make sure it looks ok and then, click approve and then dispers
 <!---->
 
 * Upload your csv and click submit.
-  1. ![](<../../../.gitbook/assets/image (4) (1).png>)
+  1. ![](<../../../.gitbook/assets/image (4) (1) (3).png>)
 
 </details>
 
@@ -162,7 +162,7 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1).png>)****
+****![](<../../../.gitbook/assets/image (7) (1) (1).png>)****
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.

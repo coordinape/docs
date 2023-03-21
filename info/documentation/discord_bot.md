@@ -38,3 +38,81 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 If you appreciate this make sure to let Zashton know!
 
 _You may need to enter developer mode in discord to add the bot_
+
+__
+
+## New Discord Bot
+
+To add the bot to your server click this link [https://discord.com/api/oauth2/authorize?client\_id=1081300551947538533\&permissions=8\&scope=bot](https://discord.com/api/oauth2/authorize?client\_id=1081300551947538533\&permissions=8\&scope=bot)  and then&#x20;
+
+![](<../../.gitbook/assets/image (6).png>)
+
+Once the bot has been added to your discord use the `/coordinape config` command click **link** account.&#x20;
+
+![](<../../.gitbook/assets/image (3).png>)
+
+once you've linked your account, you will have the option to configure the bot by using the `/Coordinape Config` command and clicking the configure button.
+
+![](<../../.gitbook/assets/image (7).png>)
+
+You can then follow the prompts provided by the bot to finish configuring the bot.&#x20;
+
+{% tabs %}
+{% tab title="Add Circles" %}
+After adding the Bot to your server you can select which Circles to enable in this server.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The bot will query your account and will display all Circles you administer. This could include circles across different Orgs so be mindful when selecting circles.
+{% endhint %}
+
+1. Click the Dropdown
+2. Select the Circles from the drop down
+3. Click the input box again
+4. Click `Next`
+
+The Bot will create a Channel, and a Role for each Circle in your Discord and then send this message:&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+This will ensure the Bot sends the correct alerts and gets the correct commands for each circle in their respective channels
+
+After clicking next navigate to your new channels and click `Link Circle` Button and then click the `Authorize` button
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+This will take you to Coordinape to retrieve your API key for the circle.&#x20;
+
+Once that's complete the bot will ask you if you want it to send alerts for your Circle.&#x20;
+{% endtab %}
+
+{% tab title="Enable Alerts" %}
+Once you've linked your Circles you will be prompted to set up alerts in your circle. &#x20;
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+| Alert                | Description                                                            |
+| -------------------- | ---------------------------------------------------------------------- |
+| Epoch Start          | Alerts when an Epoch starts                                            |
+| Epoch End            | Alerts when an Epoch ends                                              |
+| Nomination           | Alert when a user is Nominated for a Circle                            |
+| Vouch                | Alert when a user vouches for a Nominee                                |
+| Vouch Successful     | Alert when a user is successfully vouched into a circle                |
+| Vouch Unsuccessful   | Alert when a user is not successfully vouched into a circle            |
+| User Added to Circle | Alert when a user is added to a circle                                 |
+| User Leaves a Circle | Alert when a User leaves a Circle                                      |
+| User Opts out        | Alert when a User opts out of receiving Give from other Circle Members |
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
+
+
+
+
+

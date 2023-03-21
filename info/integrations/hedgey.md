@@ -38,7 +38,7 @@ After you've enabled the integration you can now use fund any completed epoch wi
 3. Add the token address you of the token you want to distribute, the amount you want to pay, the lock period, transferability, and then click submit for Distribution.
    1. ![](<../../.gitbook/assets/image (18).png>)
 4. There will be an additional Signature required to batch mint the NFT for the recipients of the Distributions. This NFT and the locked tokens can be claimed on the bottom of the Claims page
-   1. ![](<../../.gitbook/assets/image (1).png>)
+   1. ![](<../../.gitbook/assets/image (1) (7).png>)
 5. Clicking on View Hedgeys button will take you to Hedgey.Finance to view the NFT's and details about your NFT's
    1. ![](<../../.gitbook/assets/image (16).png>)
    2. ![](<../../.gitbook/assets/image (8).png>)

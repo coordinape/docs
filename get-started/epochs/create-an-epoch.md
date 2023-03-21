@@ -24,7 +24,7 @@ Details of a a repeating Epoch
 
 
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 * Custom
   * You can determine the frequency and length of each epoch
   * You will need to choose:
@@ -40,7 +40,7 @@ Details of a a repeating Epoch
 
 To Schedule a non-repeating Epoch you only need to enter the start date, end date, and the start time.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Epochs cannot overlap so you will need to schedule an Epoch during a time when no recurring Epochs are scheduled
