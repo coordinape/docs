@@ -41,7 +41,7 @@ Before you start your next work cycle[ (Epoch)](../epochs/), you can set aside a
 
 Once a vault reflects a positive balance, they begin to earn Yearn APY rates.
 
-[**View Yearn's Current Rates** ](https://yearn.finance/vaults)****
+[**View Yearn's Current Rates** ](https://yearn.finance/vaults)
 
 ### Transparency
 

@@ -111,5 +111,5 @@ A user can be set up to receive fixed payments at the end of each epoch if fixed
 #### _Vouching_
 
 _After you've added several team members to your circle you can also enable the vouching setting that will allow new members to be vouched in by existing members._ \
-__\
-_Read more in_ [_Vouching_](../../admin/enable-vouching.md)__
+\
+_Read more in_ [_Vouching_](../../admin/enable-vouching.md)

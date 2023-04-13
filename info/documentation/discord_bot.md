@@ -80,13 +80,13 @@ The bot will query your account and will display all Circles you administer. Thi
 
 The Bot will create a Channel, and a Role for each Circle in your Discord and then send this message:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (8).png" alt=""><figcaption></figcaption></figure>
 
 This will ensure the Bot sends the correct alerts and gets the correct commands for each circle in their respective channels
 
 After clicking next navigate to your new channels and click `Link Circle` Button and then click the `Authorize` button
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 This will take you to Coordinape to retrieve your API key for the circle.&#x20;
 
@@ -120,6 +120,12 @@ You can now add contributions directly from within Discord!&#x20;
 
 It's as simple as typing `/Coordinape Contribute` in Discord and then entering the contribution you made.&#x20;
 
-In this MVP version each Coordinape Circle is linked 1-1 to a Discord channel, so you must enter your contributions in a linked channel for the command to work correctly
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-\
+After you hit Enter you'll be prompted to save your submission. After clicking save the Bot will submit your contribution to the app for your team to see, and will publicly post your contribution in the channel.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+In this MVP version each Coordinape Circle is linked 1-1 to a Discord channel, so you must enter your contributions in a linked channel for the command to work correctly\

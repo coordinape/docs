@@ -16,7 +16,7 @@ Steps to follow :
 
 **1. Go to Integrations tab. click on Coordinape**
 
-****![](<../../../.gitbook/assets/image (7) (1) (1).png>)****
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)
 
 **2. Connect your Coordinape account**\
 You will be asked to sign a message that gives us permissions to access your Coordinape data.
@@ -33,7 +33,7 @@ Click on any of the circles to view all the epochs of that circle.![](<../../../
 **Note:** You can only create payouts for completed epochs.
 {% endhint %}
 
-**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../../.gitbook/assets/image (14) (2) (1).png>)****
+**4.  To view all the participants of the circle, click on** <mark style="color:blue;">**View Participants**</mark> **button in the top right corner to view all the participants of the circle.**![](<../../../.gitbook/assets/image (14) (2) (1).png>)
 
 **5. Clicking on** <mark style="color:blue;">**Pay**</mark> **button of an epoch will open the review screen**. Enter the total budget amount for that epoch, and the app will automatically calculate the payout values to be sent to each recipient.![](<../../../.gitbook/assets/image (8) (2).png>)
 

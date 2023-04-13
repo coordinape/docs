@@ -99,7 +99,7 @@ It's best to summarize your work so that anyone from your team can understand wh
 
 **Example:** Pushed 6 Github issues to allow us to unblock back-end work and resolve bugs impacting the use.
 
-****
+
 
 **Examples**
 

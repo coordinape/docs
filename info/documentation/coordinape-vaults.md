@@ -2,7 +2,7 @@
 description: Description of the smart contracts that power the Coordinape Vaults.
 ---
 
-# CoVaults Techincal
+# CoVaults Smart Contracts
 
 ### Key Roles and Contracts
 
@@ -55,7 +55,7 @@ There is some functionality present in the contracts that are not supported by o
 
 Coordinape's vault contracts underwent two thorough security audits. Both audits deemed the use of our contracts to be "Low Risk".\
 \
-**Primary Audit:** [**https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_coordinape\_v1.1\_signed.pdf**](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_coordinape\_v1.1\_signed.pdf)****
+**Primary Audit:** [**https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_coordinape\_v1.1\_signed.pdf**](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_coordinape\_v1.1\_signed.pdf)
 
 After the primary audit with BlockSec, additional features were added to the contracts. A secondary audit was performed by SlowMist.
 

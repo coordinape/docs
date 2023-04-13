@@ -38,4 +38,4 @@ Your Circle admin can tell you how and when the distributions will happen.
 
 Until then, sit back and wait for your rewards to appear in your funds!
 
-_To see more about how you could pay your team, visit_ [paying-your-team](../../compensation/paying-your-team/ "mention")__
+_To see more about how you could pay your team, visit_ [paying-your-team](../../compensation/paying-your-team/ "mention")
