@@ -98,6 +98,8 @@ Once you've linked your Circles you will be prompted to set up alerts in your ci
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+#### Alert Descriptions
+
 | Alert                | Description                                                            |
 | -------------------- | ---------------------------------------------------------------------- |
 | Epoch Start          | Alerts when an Epoch starts                                            |
