@@ -4,17 +4,19 @@ description: Streamline Coordinape Tasks with Our Discord Bot
 
 # Discord Bot
 
-Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegram. Hence, our bot features have been centered around that platform. Now, we've begun to port our bot to Discord, and added easy webhook integration functions to the Coordinape admin panel. Read on for an overview and how to set it up. More features will be added to the bot over time.
+<details>
 
-### What can the Discord Bot do?
+<summary>Discord Webhook (Simple Notifications Only)</summary>
+
+### What can the Discord Webhook do?
 
 * Caesar can let your discord know when a users has opted out of a current epoch, and how much give was refunded.
 
-![](<../../images/Bot Opted Out.jpg>)
+<img src="../../images/Bot Opted Out.jpg" alt="" data-size="original">
 
 * Inform users that an epoch is active
 
-![](<../../images/Bot Comment (1).jpg>)
+<img src="../../images/Bot Comment (1).jpg" alt="" data-size="original">
 
 * Let users know when the epoch ends
 
@@ -29,7 +31,7 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 
 4\. Go to Coordinape Circle where you're an Admin and click the **Admin Tab** and scroll to the Integration section and click Edit Webhook
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/image (57).png" alt="" data-size="original">
 
 5\. **Paste the webhook url** from the Discord bot into text field and **click save**&#x20;
 
@@ -39,9 +41,13 @@ If you appreciate this make sure to let Zashton know!
 
 _You may need to enter developer mode in discord to add the bot_
 
-__
+</details>
 
-## New Discord Bot
+## Discord Bot
+
+{% hint style="info" %}
+The Bot is currently in beta testing. Please provide any feedback you may have in the Coordinape Discord by going to the **Roles** channel and reacting to the Discord Bot Tester message to get permission to join the Discord Bot Channel. We'll have the bot set up there if you want to test the bot before adding it to your server
+{% endhint %}
 
 To add the bot to your server click this link [https://discord.com/api/oauth2/authorize?client\_id=1081300551947538533\&permissions=8\&scope=bot](https://discord.com/api/oauth2/authorize?client\_id=1081300551947538533\&permissions=8\&scope=bot)  and then&#x20;
 
@@ -106,13 +112,12 @@ Once you've linked your Circles you will be prompted to set up alerts in your ci
 {% endtab %}
 {% endtabs %}
 
+### Contributions
 
+You can now add contributions directly from within Discord!&#x20;
 
+It's as simple as typing `/Coordinape Contribute` in Discord and then entering the contribution you made.&#x20;
 
+In this MVP version each Coordinape Circle is linked 1-1 to a Discord channel, so you must enter your contributions in a linked channel for the command to work correctly
 
-
-
-
-
-
-
+\
