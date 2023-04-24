@@ -16,6 +16,6 @@ description: Configure your Circle
        <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 2. Add any integrations you may want
    1. [integrations](../../info/integrations/ "mention")&#x20;
-   2.  Link your Circle to Discord to the [Discord Webhook](../../info/documentation/discord\_bot.md)
+   2.  Link your Circle to Discord to the [Discord Webhook](../../info/integrations/discord\_bot.md)
 
        <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

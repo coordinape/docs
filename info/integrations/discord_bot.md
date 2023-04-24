@@ -2,7 +2,7 @@
 description: Streamline Coordinape Tasks with Our Discord Bot
 ---
 
-# Discord Bot
+# 🤖 Discord Bot
 
 <details>
 
