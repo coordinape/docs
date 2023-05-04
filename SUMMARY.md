@@ -7,6 +7,7 @@
 * [🥳 Get Started](get-started/get-started/README.md)
   * [🤓 New Coordinape Admins](get-started/get-started/new-coordinape-admins/README.md)
     * [Setting up your Organization](get-started/get-started/new-coordinape-admins/setting-up-your-organization.md)
+    * [Managing Organization Membership](get-started/get-started/new-coordinape-admins/managing-organization-membership.md)
     * [Creating A Circle](get-started/get-started/new-coordinape-admins/creating-a-circle.md)
     * [Uploading an Organization Logo](get-started/get-started/new-coordinape-admins/uploading-an-organization-logo.md)
     * [Upload Circle Logo](get-started/get-started/new-coordinape-admins/upload-circle-logo.md)

@@ -22,13 +22,13 @@ _For more information on Circles_
 
 You can create a Circle from the Coordinape homepage.
 
-Clicking on the **Get Started** button will take you to the screen where you can create your Circle.
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-01 at 1.00.32 PM (1).png" alt=""><figcaption><p>https://www.coordinape.com</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+Clicking on the **Get Started** button will take you to the app, where you can log in and create your Circle.
 
-You can also create a new Circle from the home page by clicking the **Create New Circle** button or from the Org page by clicking the **Add Circle** button
+You can also create a new Circle from the Org Overview page by clicking the **Create Org** button or from the Org page by clicking the **Add Circle** button
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-01 at 3.05.44 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
