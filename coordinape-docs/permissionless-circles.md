@@ -10,7 +10,7 @@ Si vous ne faites pas déjà partie d'un cercle, vous serez invité à en créer
 
 &#x20;![](../.gitbook/assets/spaces\_4kLt3O6IMjb6QDw155pW\_uploads\_git-blob-57caecb40316861241f3f869fff60fd7ac0594d9\_Welcome.png)
 
-_Si vous vous attendiez à faire partie d'un cercle et que vous ne le voyez pas, veuillez contacter l'administrateur de votre cercle afin qu'il puisse corriger ou ajouter votre adresse _
+_Si vous vous attendiez à faire partie d'un cercle et que vous ne le voyez pas, veuillez contacter l'administrateur de votre cercle afin qu'il puisse corriger ou ajouter votre adresse_&#x20;
 
 Si vous êtes déjà dans un cercle, vous pouvez créer un nouveau cercle en allant sur [https://app.coordinape.com/new-circle ](https://app.coordinape.com/new-circle)
 
@@ -29,9 +29,9 @@ En cliquant sur le bouton "**Create Circle** " vous accédez à la page sur laqu
 Les champs sur cette page seront les champs utilisés lorsque vous démarrez votre cercle, ils peuvent être modifiés une fois le cercle créé, mais uniquement par l'administrateur du cercle.
 
 * **Username:** C'est ainsi que les autres utilisateurs verront votre nom dans le cercle. (Si vous êtes déjà dans d'autres cercles, veuillez utiliser exactement le même nom que celui utilisé dans les autres cercles.)&#x20;
-* **ETH address: **Elle provient du portefeuille avec lequel vous êtes actuellement connecté à Coordinape
+* **ETH address:** Elle provient du portefeuille avec lequel vous êtes actuellement connecté à Coordinape
 * **Circle Name:** ce sera le nom du cercle que vos utilisateurs sélectionneront. (Ex Coordinape a un cercle "_Permissionless"_)
-* **Organization name:** il s'agit du niveau supérieur de votre cercle qui englobera éventuellement tous les cercles au sein d'une organisation. )                                    _(ex: Yearn possède plusieurs cercles, Strategists, Community, et 003 Circles. KrauseHouse possède un circle pour chaques projets)                                                          _Le nom que vous mettez ici devra être vérifié par l'équipe de Coordinape pour éviter d'usurper l'identité d'une autre équipe.
+* **Organization name:** il s'agit du niveau supérieur de votre cercle qui englobera éventuellement tous les cercles au sein d'une organisation. )                                    _(ex: Yearn possède plusieurs cercles, Strategists, Community, et 003 Circles. KrauseHouse possède un circle pour chaques projets)_                                                          Le nom que vous mettez ici devra être vérifié par l'équipe de Coordinape pour éviter d'usurper l'identité d'une autre équipe.
 
 
 

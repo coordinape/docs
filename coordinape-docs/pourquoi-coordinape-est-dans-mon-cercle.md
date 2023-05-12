@@ -20,6 +20,6 @@ Absolument ! Nous croyons au pouvoir des dons et sommes ravis de savoir commen
 
 Si vous avez des suggestions ou des commentaires, nous aimerions les entendre. Faites-les sur notre channel « #feedback » sur Discord.
 
-💡 [Feedback](https://discord.coordinape.com) ← Le lien vous amènera sur notre Discord 🐵
+💡 [Feedback](https://discord.coordinape.com/) ← Le lien vous amènera sur notre Discord 🐵
 
 Si vous ne pouvez pas utiliser Discord, vous pouvez également laisser un commentaire directement sur la[ page Notion](https://www.notion.so/Why-is-Coordinape-in-my-Circle-fd17133a82ef4cbf84d4738311fb557a) - appuyez simplement sur le bouton **Comment** en haut à droite.
