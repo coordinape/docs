@@ -18,10 +18,10 @@ If you need more assistance [schedule a one-on-one walkthrough](https://coordina
 [new-coordinape-members](new-coordinape-members/)
 {% endcontent-ref %}
 
-### Onboarding - 3 min
+### Onboarding, informal overview - 4 min
 
-{% embed url="https://youtu.be/j2ixf0Isuuo" %}
-Coordinape Overview
+{% embed url="https://www.loom.com/share/e5d72682c8374ba7a677a680032a9673" %}
+Quick, informal walk through
 {% endembed %}
 
 **Need More Help? Contact Support**
