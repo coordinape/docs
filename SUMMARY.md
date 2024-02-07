@@ -93,4 +93,5 @@
 * [Buying and Selling Links](colinks/buying-and-selling-links.md)
 * [CoLinks Smart Contract](colinks/colinks-smart-contract.md)
 * [Rep and CoSouls](colinks/rep-and-cosouls.md)
+* [CoLinks Mobile Features](colinks/colinks-mobile-features.md)
 * [FAQ](colinks/faq.md)
