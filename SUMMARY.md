@@ -2,7 +2,7 @@
 
 * [⚪ Welcome to Coordinape](README.md)
 
-## How To Coordinape <a href="#get-started" id="get-started"></a>
+## How To: Coordinape Gift Circles <a href="#get-started" id="get-started"></a>
 
 * [🥳 Get Started](get-started/get-started/README.md)
   * [🤓 New Coordinape Admins](get-started/get-started/new-coordinape-admins/README.md)
@@ -28,21 +28,21 @@
     * [Get Paid](get-started/get-started/new-coordinape-members/get-paid.md)
 * [🏠 Organizations](get-started/organizations/README.md)
   * [🔒 CoVaults](get-started/organizations/vaults.md)
-    * [🏗 Setting Up the Vault](get-started/organizations/vaults/setting-up-the-vault.md)
-    * [🖋 Managing the Vault](get-started/organizations/vaults/managing-the-vault.md)
+    * [🏗️ Setting Up the Vault](get-started/organizations/vaults/setting-up-the-vault.md)
+    * [🖋️ Managing the Vault](get-started/organizations/vaults/managing-the-vault.md)
 * [⚪ Circles](get-started/circles/README.md)
   * [Creating a Circle](get-started/circles/creating-a-circle.md)
   * [Team Members](get-started/circles/adding-team-members.md)
 * [📅 Epochs](get-started/epochs/README.md)
   * [Create An Epoch](get-started/epochs/create-an-epoch.md)
   * [Contributions and Epoch Statements](get-started/epochs/recording-contributions.md)
-* [👐 GIVE](get-started/give/README.md)
+* [👐 GIVE in Gift Circles](get-started/give/README.md)
   * [Allocating GIVE](get-started/give/allocating-give.md)
   * [Reviewing Distributions](get-started/give/reviewing-distributions.md)
 * [💲 Compensation](get-started/compensation/README.md)
   * [💲 Paying Your Team](get-started/compensation/paying-your-team/README.md)
     * [🤑 Distributions & Payments](get-started/compensation/paying-your-team/distributions-and-payments/README.md)
-      * [✍ Fixed Payments](get-started/compensation/paying-your-team/distributions-and-payments/fixed-payments.md)
+      * [✍️ Fixed Payments](get-started/compensation/paying-your-team/distributions-and-payments/fixed-payments.md)
     * [Disperse](get-started/compensation/paying-your-team/disperse.md)
     * [Gnosis Safe](get-started/compensation/paying-your-team/gnosis-safe.md)
     * [Parcel](get-started/compensation/paying-your-team/parcel.md)
@@ -93,5 +93,6 @@
 * [Buying and Selling Links](colinks/buying-and-selling-links.md)
 * [CoLinks Smart Contract](colinks/colinks-smart-contract.md)
 * [Rep and CoSouls](colinks/rep-and-cosouls.md)
+* [GIVE](colinks/give.md)
 * [CoLinks Mobile Features](colinks/colinks-mobile-features.md)
 * [FAQ](colinks/faq.md)
