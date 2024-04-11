@@ -11,11 +11,11 @@
 
 Your GIVE balance increases by 1 per day, and in the future will be increased at a higher rate for those with higher Rep. GIVE balance is viewable in CoLinks in the top right corner of your CoLinks Home page.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 4.56.54 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 4.56.54 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 You can GIVE on any post to give to another CoLinks member by clicking the “GIVE” button:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 4.59.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 4.59.14 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Then select or write a tag, or choose “Just GIVE”:
 
@@ -23,7 +23,7 @@ Then select or write a tag, or choose “Just GIVE”:
 
 The GIVE will be reflected on the post:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 5.00.03 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-09 at 5.00.03 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Giving GIVE in Farcaster and Warpcast**
 
