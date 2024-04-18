@@ -7,6 +7,37 @@
 * You can give GIVE to anyone on Farcaster or [CoLinks](https://colinks.coordinape.com) to recognize them.
 * You can [allocate GIVE in Coordinape Gift Circles](https://docs.coordinape.com/get-started/get-started) to recognize and reward value contributed by circle members.
 
+## [GIVE.party](https://give.party)
+
+<figure><img src="../.gitbook/assets/give.party.png" alt="" width="375"><figcaption><p>Start a party with </p></figcaption></figure>
+
+1. Cast "give.party/ `{a-skill-you-want-to-celebrate}`" to start a Give Party\
+   (Where you replace `{a-skill-you-want-to-celebrate}`  with your chosen skill to celebrate.)\
+   \
+   \*\*\***NOTE: Due to Warpcast's  assertive prefetching, this works best if you paste the URL for your party into your cast.** [**You can also go straight to give.party in your browser and use our PARTY STARTER!**](https://give.party)\
+
+2. Anyone on Farcaster can use the frame that shows up to name people who they think are awesome at that skill.
+
+<figure><img src="../.gitbook/assets/giveto.jpeg" alt="" width="375"><figcaption><p>Who do you want to GIVE to for having this skill?</p></figcaption></figure>
+
+3. Givebot will make sure your GIVE is delivered!\
+
+
+<figure><img src="../.gitbook/assets/givedelivered.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+4. You can GIVE to more people in the party, or start your own party by clicking "**How 2 Party"**\
+
+
+<figure><img src="../.gitbook/assets/givemore.jpeg" alt="" width="375"><figcaption><p>Send more OR click "How 2 Party" to start your own GIVE party.</p></figcaption></figure>
+
+5. Simply input the skill that you want to start the GIVE party about and we'll prep a cast with the party frame for you.&#x20;
+
+<figure><img src="../.gitbook/assets/kickoffparty.jpeg" alt="" width="375"><figcaption><p>Start a party here</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/partystarted.jpeg" alt="" width="375"><figcaption><p>PARTY is started!</p></figcaption></figure>
+
+5. Party Starters will get Coordinape Rep Points for their parties! Every party gets a little, really big parties get a lot.
+
 ## GIVE in CoLinks, Farcaster, and Warpcast
 
 Your GIVE balance increases by 1 per day, and in the future will be increased at a higher rate for those with higher Rep. GIVE balance is viewable in CoLinks in the top right corner of your CoLinks Home page.
