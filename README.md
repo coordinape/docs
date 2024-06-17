@@ -2,7 +2,7 @@
 description: >-
   Coordinape is a platform for DAOs to easily and fairly distribute resources to
   contributors.
-cover: https://pbs.twimg.com/media/FSuokreWAAEPdqV?format=jpg&name=large
+cover: .gitbook/assets/_Walsh_Coordinape_Illustration_Genesis_Story_03.jpg
 coverY: 0
 ---
 

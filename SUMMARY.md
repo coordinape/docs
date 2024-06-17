@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⚪ Welcome to Coordinape](README.md)
+* [🔮 Social Oracle™️ GIVE](social-oracle-tm-give.md)
 
 ## How To: Coordinape Gift Circles <a href="#get-started" id="get-started"></a>
 
