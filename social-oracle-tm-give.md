@@ -29,7 +29,7 @@ Coordinape's recognition and reputation primitive [GIVE ](colinks/give.md)is ONC
 GIVE is a Permissionless Public Good reputation primitive that creates a valuable and trusted Social Oracle of connections and attestations from peer to peer about skills and experiences.
 
 \
-GIVEs created in [Farcaster](https://www.farcaster.xyz/), [CoLinks](https://colinks.coordinape.com/info), and [GIVE.party](https://colinks.coordinape.com/giveparty) now get written to [Base Chain](https://base.org) via attestations created with[ Ethereum Attestation Service (EAS)](https://attest.org/).  We've built GIVE as a reputation primitive and brought it onchain to make it universally accessible and integratabtle. &#x20;
+GIVEs created in [Farcaster](https://www.farcaster.xyz/), [CoLinks](https://colinks.coordinape.com/info), and [GIVE.party](https://colinks.coordinape.com/giveparty) now get written to [Base Chain](https://base.org) via attestations created with[ Ethereum Attestation Service (EAS)](https://attest.org/).  We've built GIVE as a reputation primitive and brought it onchain to make it universally accessible and integratable. &#x20;
 
 ## How can I use it?
 
