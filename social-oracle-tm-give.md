@@ -23,6 +23,10 @@ layout:
 
 # 🔮 Social Oracle™️ GIVE
 
+## Find Social Oracle on EAS
+
+[https://base.easscan.org/schema/view/0x82c2ec8ec89cf1d13022ff0867744f1cecf932faa4fe334aa1bb443edbfee3fa](https://base.easscan.org/schema/view/0x82c2ec8ec89cf1d13022ff0867744f1cecf932faa4fe334aa1bb443edbfee3fa)
+
 ## What is the Social Oracle?
 
 Coordinape's recognition and reputation primitive [GIVE ](colinks/give.md)is ONCHAIN! \
