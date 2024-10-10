@@ -11,7 +11,6 @@ New to Web3? Don't have an Ethereum wallet? No problem! You can log into Coordin
 * When you log in via email, MagicLink creates a free Ethereum wallet for you and associates it with your email address.
 * When authenticated via your email, you can control the wallet through MagicLink's API.
 * You can use your MagicLink wallet to perform actions in Coordinape, such as sending GIVE, allowing you to use most functions in the app and even recieve tokens from your DAO.
-* You cannot use your MagicLink wallet to manage CoVaults.  If you are a Coordinape Admin, it might make sense to use Metamask instead.
 * You can also use the MagicLink wallet and interface for other dApps in web3.
 * In the future, you can export your wallet's private key (like a password) to use with a more standard, browser based-application like Metamask.
 * Taking this step means you are now the sole owner of your wallet's private key, and it will be a more flexible and secure way to manage your tokens.&#x20;

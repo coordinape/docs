@@ -10,7 +10,7 @@ Before distributing the funds to their contributors, the Admin's responsibility 
 * Did any contributors receive an allocation that seems out of line? (high or low)
 * Did everyone allocate who should have allocated?
 
-#### After you've spot-checked the allocations in the Epoch Summary you can distribute the funds (See [distributions-and-payments](../compensation/paying-your-team/distributions-and-payments/ "mention") for how to do that)&#x20;
+#### After you've spot-checked the allocations in the Epoch Summary you can distribute the funds (See [Broken link](broken-reference "mention") for how to do that)&#x20;
 
 #### ![](<../../.gitbook/assets/image (5).png>) ![](<../../.gitbook/assets/image (31) (1).png>)
 

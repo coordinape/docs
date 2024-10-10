@@ -77,8 +77,8 @@ You might set up your Coordinape Circle like this.
 \
 More On
 
-{% content-ref url="../../organizations/" %}
-[organizations](../../organizations/)
+{% content-ref url="../../organizations.md" %}
+[organizations.md](../../organizations.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -91,8 +91,8 @@ The email address is only used to provide support and contact you directly. We w
 
 _Explore potential use cases and frameworks for your organization_
 
-{% content-ref url="../../organizations/" %}
-[organizations](../../organizations/)
+{% content-ref url="../../organizations.md" %}
+[organizations.md](../../organizations.md)
 {% endcontent-ref %}
 
 ### Finishing Up

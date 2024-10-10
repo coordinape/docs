@@ -1,5 +1,6 @@
 ---
 description: Streamline Coordinape Tasks with Our Discord Bot
+hidden: true
 ---
 
 # 🤖 Discord Bot

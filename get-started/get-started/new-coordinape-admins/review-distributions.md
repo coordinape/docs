@@ -14,4 +14,4 @@ Review the allocations to make sure it looks like you would expect and then you 
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-For more information, see [distributions-and-payments](../../compensation/paying-your-team/distributions-and-payments/ "mention")
+For more information, see [Broken link](broken-reference "mention")

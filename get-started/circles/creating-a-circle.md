@@ -55,8 +55,8 @@ You might set up your Coordinape like this.
 \
 More On
 
-{% content-ref url="../organizations/" %}
-[organizations](../organizations/)
+{% content-ref url="../organizations.md" %}
+[organizations.md](../organizations.md)
 {% endcontent-ref %}
 {% endtab %}
 

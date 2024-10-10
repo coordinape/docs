@@ -16,7 +16,6 @@ Org membership enables higher transparency and increased engagement, by allowing
 * Activity Feeds of Circles and at the Org level
 * Circle Membership rosters
 * Circle Maps (which show epoch results)
-* Org Vaults and Vault balances
 * Profile pages of other Org Members
 
 ### What Org Members Cannot See

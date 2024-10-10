@@ -1,5 +1,6 @@
 ---
 description: Description of the smart contracts that power the Coordinape Vaults.
+hidden: true
 ---
 
 # CoVaults Smart Contracts

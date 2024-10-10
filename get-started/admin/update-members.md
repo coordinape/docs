@@ -40,7 +40,7 @@ Circles can have multiple admins
 {% endtab %}
 
 {% tab title="Untitled" %}
-A user can be set up to receive fixed payments at the end of each epoch if fixed payments are enabled. To see more check this out - [fixed-payments.md](../compensation/paying-your-team/distributions-and-payments/fixed-payments.md "mention")
+A user can be set up to receive fixed payments at the end of each epoch if fixed payments are enabled. To see more check this out - [Broken link](broken-reference "mention")
 {% endtab %}
 {% endtabs %}
 
