@@ -53,18 +53,19 @@
 
 * [Documentation](info/documentation/README.md)
   * [⭕ Vision](info/documentation/vision.md)
-  * [Gift Circle](info/documentation/gift\_circle.md)
-  * [Who To Gift](info/documentation/who\_to\_gift.md)
+  * [Gift Circle](info/documentation/gift_circle.md)
+  * [Who To Gift](info/documentation/who_to_gift.md)
   * [Vouching System](info/documentation/vouching.md)
   * [CoVaults Smart Contracts](info/documentation/coordinape-vaults.md)
   * [Email Login and Web3 Best Practices](info/documentation/email-login-and-web3-best-practices.md)
 * [Integrations](info/integrations/README.md)
-  * [🤖 Discord Bot](info/integrations/discord\_bot.md)
+  * [🤖 Discord Bot](info/integrations/discord_bot.md)
   * [Dework](info/integrations/dework.md)
   * [Parcel](info/integrations/parcel.md)
   * [Wonderverse](info/integrations/wonderverse.md)
   * [Hedgey](info/integrations/hedgey.md)
   * [Guild](info/integrations/guild.md)
+* [CO Token Utility](info/co-token-utility.md)
 
 ## support
 
@@ -75,7 +76,7 @@
 
 * [Coordinape Community](community/coordinape-community/README.md)
   * [Contributing](community/coordinape-community/contributing.md)
-  * [Community Calls](community/coordinape-community/community\_calls.md)
+  * [Community Calls](community/coordinape-community/community_calls.md)
 
 ## CoLinks
 
