@@ -6,10 +6,10 @@ Now, if your logged in wallet also holds the CO token, your GIVE bank cap will b
 
 | Amount of CO | GIVE emissions Rate | GIVE Cap |
 | ------------ | ------------------- | -------- |
-| < 1K         | 1 per day           | 20       |
-| 1K - 10K     | 4 per day           | 20       |
-| 10K - 33 K   | 10 per day          | 30       |
-| 33K - 100K   | 20 per day          | 69       |
-| 100K +       | 100 per day         | 200      |
+| < 1          | 1 per day           | 1        |
+| 1 - 100      | 3 per day           | 3        |
+| 101 - 1,000  | 10 per day          | 10       |
+| 1,001-99,999 | 20 per day          | 20       |
+| 100,000 +    | 100 per day         | 200      |
 
 The CO token is governed by the CoDAO. You can learn more about the CoDAO and get involved by checking out the [CoDAO Charmverse site](https://app.charmverse.io/codao/1-codao-mission-20572971131480156).&#x20;
